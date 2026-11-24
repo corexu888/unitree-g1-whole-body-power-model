@@ -1,0 +1,73 @@
+﻿task_id,task_name,execution_id,label,file_id,path,bytes,status
+111268446,[Wired] Unitree Benchmark - xray - Run 1,156984136,Unitree Action Results,01A1C8EC-5123-74A5-AB91-EFDF76A9736C,xray - Run 1/unitree_action_results.jsonl,472,verified
+111268446,[Wired] Unitree Benchmark - xray - Run 1,156984136,Unitree Robot Telemetry,01A1C8EC-610D-7692-AED6-57FA9B93F781,xray - Run 1/unitree_robot_telemetry.jsonl,2090068,verified
+111268446,[Wired] Unitree Benchmark - xray - Run 1,156984136,Webcam Video,01A1C8EC-511E-75B0-AD00-FAA441EC0A18,xray - Run 1/webcam_video.mp4,3862058,verified
+111268447,[Wired] Unitree Benchmark - xray - Run 2,156984137,Unitree Action Results,01A1C8ED-3214-73CC-91E8-42B7F76A28FA,xray - Run 2/unitree_action_results.jsonl,473,verified
+111268447,[Wired] Unitree Benchmark - xray - Run 2,156984137,Unitree Robot Telemetry,01A1C8ED-1DFF-7655-B6D7-5F3905526629,xray - Run 2/unitree_robot_telemetry.jsonl,2046952,verified
+111268447,[Wired] Unitree Benchmark - xray - Run 2,156984137,Webcam Video,01A1C8ED-298A-7445-8D76-8051F8B67F92,xray - Run 2/webcam_video.mp4,3669989,verified
+111268448,[Wired] Unitree Benchmark - xray - Run 3,156984138,Unitree Action Results,01A1C8ED-FE16-74FA-BD36-3C2EDFD42DC7,xray - Run 3/unitree_action_results.jsonl,473,verified
+111268448,[Wired] Unitree Benchmark - xray - Run 3,156984138,Unitree Robot Telemetry,01A1C8ED-F3E2-7097-8305-7CA56F1ACC0C,xray - Run 3/unitree_robot_telemetry.jsonl,2133873,verified
+111268448,[Wired] Unitree Benchmark - xray - Run 3,156984138,Webcam Video,01A1C8EE-076F-7032-AEB6-1A68197D4DA7,xray - Run 3/webcam_video.mp4,3778769,verified
+111268483,[Wired] Unitree Benchmark - shake hand - Run 3,156984174,Unitree Action Results,01A1C8EE-E406-7689-94EA-E2118A88A8BC,shake hand - Run 3/unitree_action_results.jsonl,479,verified
+111268483,[Wired] Unitree Benchmark - shake hand - Run 3,156984174,Unitree Robot Telemetry,01A1C8EE-D459-75D8-973D-79779CF5834D,shake hand - Run 3/unitree_robot_telemetry.jsonl,2130266,verified
+111268483,[Wired] Unitree Benchmark - shake hand - Run 3,156984174,Webcam Video,01A1C8EE-E292-70C4-B438-763D7799FAC1,shake hand - Run 3/webcam_video.mp4,3079846,verified
+111268484,[Wired] Unitree Benchmark - shake hand - Run 2,156984175,Unitree Action Results,01A1C8EF-D173-7045-A46F-D6CA4DB834EB,shake hand - Run 2/unitree_action_results.jsonl,476,verified
+111268484,[Wired] Unitree Benchmark - shake hand - Run 2,156984175,Unitree Robot Telemetry,01A1C8EF-C319-73DB-991D-8F5B0E3C12D4,shake hand - Run 2/unitree_robot_telemetry.jsonl,2174202,verified
+111268484,[Wired] Unitree Benchmark - shake hand - Run 2,156984175,Webcam Video,01A1C8EF-C5DE-76E1-B2D9-64549CEB63C9,shake hand - Run 2/webcam_video.mp4,3224358,verified
+111268485,[Wired] Unitree Benchmark - shake hand - Run 1,156984176,Unitree Action Results,01A1C8F0-BD1A-705B-BDFC-D4B854398F3E,shake hand - Run 1/unitree_action_results.jsonl,478,verified
+111268485,[Wired] Unitree Benchmark - shake hand - Run 1,156984176,Unitree Robot Telemetry,01A1C8F0-C359-732D-BFEE-39459A2E223D,shake hand - Run 1/unitree_robot_telemetry.jsonl,2329393,verified
+111268485,[Wired] Unitree Benchmark - shake hand - Run 1,156984176,Webcam Video,01A1C8F0-9BD0-71A6-AEB0-D41655AD2414,shake hand - Run 1/webcam_video.mp4,3190812,verified
+111268512,[Wired] Unitree Benchmark - reject - Run 3,156984203,Unitree Action Results,01A1C8F1-B687-725F-8B5F-AB03613BF257,reject - Run 3/unitree_action_results.jsonl,475,verified
+111268512,[Wired] Unitree Benchmark - reject - Run 3,156984203,Unitree Robot Telemetry,01A1C8F1-98F3-7237-B1A0-9D83C444B702,reject - Run 3/unitree_robot_telemetry.jsonl,2307491,verified
+111268512,[Wired] Unitree Benchmark - reject - Run 3,156984203,Webcam Video,01A1C8F1-AE73-7227-8CA4-917D01E1DAA1,reject - Run 3/webcam_video.mp4,3607560,verified
+111268513,[Wired] Unitree Benchmark - reject - Run 2,156984204,Unitree Action Results,01A1C8F2-9578-7455-BD45-471392142A9C,reject - Run 2/unitree_action_results.jsonl,474,verified
+111268513,[Wired] Unitree Benchmark - reject - Run 2,156984204,Unitree Robot Telemetry,01A1C8F2-954E-730D-9D5B-00EA82B32C2C,reject - Run 2/unitree_robot_telemetry.jsonl,2304707,verified
+111268513,[Wired] Unitree Benchmark - reject - Run 2,156984204,Webcam Video,01A1C8F2-84C4-74DA-8A7C-0EE5EA1DCA36,reject - Run 2/webcam_video.mp4,3665845,verified
+111268514,[Wired] Unitree Benchmark - reject - Run 1,156984205,Unitree Action Results,01A1C8F3-87F1-7241-8952-4C6C5A7107D8,reject - Run 1/unitree_action_results.jsonl,474,verified
+111268514,[Wired] Unitree Benchmark - reject - Run 1,156984205,Unitree Robot Telemetry,01A1C8F3-8632-744E-A502-3E3B52A80324,reject - Run 1/unitree_robot_telemetry.jsonl,2113388,verified
+111268514,[Wired] Unitree Benchmark - reject - Run 1,156984205,Webcam Video,01A1C8F3-8682-72E5-BAF4-F975D2354887,reject - Run 1/webcam_video.mp4,3740282,verified
+111268523,[Wired] Unitree Benchmark - hug - Run 2,156984214,Unitree Action Results,01A1C8F4-767A-7568-92B9-B80E1EBF0D95,hug - Run 2/unitree_action_results.jsonl,471,verified
+111268523,[Wired] Unitree Benchmark - hug - Run 2,156984214,Unitree Robot Telemetry,01A1C8F4-5D62-777D-AF7E-E3A2F9E0B47C,hug - Run 2/unitree_robot_telemetry.jsonl,2077407,verified
+111268523,[Wired] Unitree Benchmark - hug - Run 2,156984214,Webcam Video,01A1C8F4-6EBC-7278-8AEB-DBA4AF4003EE,hug - Run 2/webcam_video.mp4,3551983,verified
+111268524,[Wired] Unitree Benchmark - hug - Run 3,156984215,Unitree Action Results,01A1C8F5-431C-7396-8816-CE28AB8A50AF,hug - Run 3/unitree_action_results.jsonl,471,verified
+111268524,[Wired] Unitree Benchmark - hug - Run 3,156984215,Unitree Robot Telemetry,01A1C8F5-4DF8-703B-A85A-921A12B317CF,hug - Run 3/unitree_robot_telemetry.jsonl,2118501,verified
+111268524,[Wired] Unitree Benchmark - hug - Run 3,156984215,Webcam Video,01A1C8F5-49DF-72F3-96D7-2ABEA2F782BF,hug - Run 3/webcam_video.mp4,3550963,verified
+111268525,[Wired] Unitree Benchmark - hug - Run 1,156984216,Unitree Action Results,01A1C8F6-36BD-73B8-9051-8959FE8B52D4,hug - Run 1/unitree_action_results.jsonl,471,verified
+111268525,[Wired] Unitree Benchmark - hug - Run 1,156984216,Unitree Robot Telemetry,01A1C8F6-26EC-754E-B5CA-FC85F2FE9485,hug - Run 1/unitree_robot_telemetry.jsonl,2183101,verified
+111268525,[Wired] Unitree Benchmark - hug - Run 1,156984216,Webcam Video,01A1C8F6-2CFC-76A0-AEEA-15B4DC30628B,hug - Run 1/webcam_video.mp4,3585695,verified
+111268615,[Wired] Unitree Benchmark - high five - Run 1,156984325,Unitree Action Results,01A1C8F7-2283-7056-B26B-3B84031447E7,high five - Run 1/unitree_action_results.jsonl,477,verified
+111268615,[Wired] Unitree Benchmark - high five - Run 1,156984325,Unitree Robot Telemetry,01A1C8F7-1503-7602-A054-D645931A1652,high five - Run 1/unitree_robot_telemetry.jsonl,2316989,verified
+111268615,[Wired] Unitree Benchmark - high five - Run 1,156984325,Webcam Video,01A1C8F7-0867-77C7-8261-499B8A77BB0A,high five - Run 1/webcam_video.mp4,3733431,verified
+111268616,[Wired] Unitree Benchmark - high five - Run 3,156984326,Unitree Action Results,01A1C8F7-FCBE-7618-A569-F34E35130635,high five - Run 3/unitree_action_results.jsonl,478,verified
+111268616,[Wired] Unitree Benchmark - high five - Run 3,156984326,Unitree Robot Telemetry,01A1C8F7-EDD4-715A-9E39-8F1A840D8A96,high five - Run 3/unitree_robot_telemetry.jsonl,2136996,verified
+111268616,[Wired] Unitree Benchmark - high five - Run 3,156984326,Webcam Video,01A1C8F7-F962-75A0-8E5B-C23FDFD1D1E9,high five - Run 3/webcam_video.mp4,3745122,verified
+111268617,[Wired] Unitree Benchmark - high five - Run 2,156984327,Unitree Action Results,01A1C8F8-D4C3-7083-81B8-BE5A3D52BDF6,high five - Run 2/unitree_action_results.jsonl,475,verified
+111268617,[Wired] Unitree Benchmark - high five - Run 2,156984327,Unitree Robot Telemetry,01A1C8F8-CC1B-7406-B06E-3ACC602F42D6,high five - Run 2/unitree_robot_telemetry.jsonl,2113671,verified
+111268617,[Wired] Unitree Benchmark - high five - Run 2,156984327,Webcam Video,01A1C8F8-CF10-74B1-86C6-1D74C3F57EDF,high five - Run 2/webcam_video.mp4,3253166,verified
+111268622,[Wired] Unitree Benchmark - heart - Run 1,156984332,Unitree Action Results,01A1C8F9-BE1F-748D-B7BF-9C688890BB5F,heart - Run 1/unitree_action_results.jsonl,473,verified
+111268622,[Wired] Unitree Benchmark - heart - Run 1,156984332,Unitree Robot Telemetry,01A1C8F9-B169-70D6-AF8F-A5202CC38D5D,heart - Run 1/unitree_robot_telemetry.jsonl,2116487,verified
+111268622,[Wired] Unitree Benchmark - heart - Run 1,156984332,Webcam Video,01A1C8F9-9F49-72DF-BE4D-94FD80FD0D6A,heart - Run 1/webcam_video.mp4,4261449,verified
+111268623,[Wired] Unitree Benchmark - heart - Run 3,156984333,Unitree Action Results,01A1C8FA-BDB3-73BE-ABEB-E8783D511C1D,heart - Run 3/unitree_action_results.jsonl,472,verified
+111268623,[Wired] Unitree Benchmark - heart - Run 3,156984333,Unitree Robot Telemetry,01A1C8FA-BBAD-7053-A8DB-25C52B1212F2,heart - Run 3/unitree_robot_telemetry.jsonl,2251268,verified
+111268623,[Wired] Unitree Benchmark - heart - Run 3,156984333,Webcam Video,01A1C8FA-C033-7705-A861-DADDE4583058,heart - Run 3/webcam_video.mp4,4508153,verified
+111268624,[Wired] Unitree Benchmark - heart - Run 2,156984334,Unitree Action Results,01A1C8FB-8FB6-775F-ABEC-9BDFC78BB325,heart - Run 2/unitree_action_results.jsonl,473,verified
+111268624,[Wired] Unitree Benchmark - heart - Run 2,156984334,Unitree Robot Telemetry,01A1C8FB-7C93-7681-B411-EAF10F45ED35,heart - Run 2/unitree_robot_telemetry.jsonl,2022661,verified
+111268624,[Wired] Unitree Benchmark - heart - Run 2,156984334,Webcam Video,01A1C8FB-7B70-7175-968B-C647B2CDC198,heart - Run 2/webcam_video.mp4,4106234,verified
+111268627,[Wired] Unitree Benchmark - hands up - Run 1,156984338,Unitree Action Results,01A1C8FC-6852-77CB-8B9A-ADD545CB436B,hands up - Run 1/unitree_action_results.jsonl,477,verified
+111268627,[Wired] Unitree Benchmark - hands up - Run 1,156984338,Unitree Robot Telemetry,01A1C8FC-7077-73FB-9C4C-D4CC9BF5FB75,hands up - Run 1/unitree_robot_telemetry.jsonl,2157798,verified
+111268627,[Wired] Unitree Benchmark - hands up - Run 1,156984338,Webcam Video,01A1C8FC-5AAD-762A-A629-A0D2FCB6E1A5,hands up - Run 1/webcam_video.mp4,3249765,verified
+111268628,[Wired] Unitree Benchmark - hands up - Run 3,156984339,Unitree Action Results,01A1C8FD-41F8-70DD-BA72-363434CD3DF0,hands up - Run 3/unitree_action_results.jsonl,477,verified
+111268628,[Wired] Unitree Benchmark - hands up - Run 3,156984339,Unitree Robot Telemetry,01A1C8FD-3490-74D8-8A47-59C8B56D2FFB,hands up - Run 3/unitree_robot_telemetry.jsonl,2121488,verified
+111268628,[Wired] Unitree Benchmark - hands up - Run 3,156984339,Webcam Video,01A1C8FD-465C-70C6-82DC-A95EFF687C09,hands up - Run 3/webcam_video.mp4,3583323,verified
+111268629,[Wired] Unitree Benchmark - hands up - Run 2,156984340,Unitree Action Results,01A1C8FE-2B71-755C-BDCA-E4FDE5D9F8FA,hands up - Run 2/unitree_action_results.jsonl,477,verified
+111268629,[Wired] Unitree Benchmark - hands up - Run 2,156984340,Unitree Robot Telemetry,01A1C8FE-2548-7765-8D15-6B5CD979EB59,hands up - Run 2/unitree_robot_telemetry.jsonl,2214566,verified
+111268629,[Wired] Unitree Benchmark - hands up - Run 2,156984340,Webcam Video,01A1C8FE-2654-7726-A599-D4FE69C7D21D,hands up - Run 2/webcam_video.mp4,3468436,verified
+111268633,[Wired] Unitree Benchmark - stand still - Run 1,156984344,Unitree Action Results,01A1C8FE-FBBF-7695-9401-6884A6221EAD,stand still - Run 1/unitree_action_results.jsonl,403,verified
+111268633,[Wired] Unitree Benchmark - stand still - Run 1,156984344,Unitree Robot Telemetry,01A1C8FE-FA94-7277-AFA7-7F36384BC095,stand still - Run 1/unitree_robot_telemetry.jsonl,1324302,verified
+111268633,[Wired] Unitree Benchmark - stand still - Run 1,156984344,Webcam Video,01A1C8FE-FCD9-7160-8E9D-D123A1B6C560,stand still - Run 1/webcam_video.mp4,1694044,verified
+111268634,[Wired] Unitree Benchmark - stand still - Run 3,156987224,Unitree Action Results,01A1C999-D428-728C-8DFE-BEBC7CAC7BA7,stand still - Run 3/unitree_action_results.jsonl,402,verified
+111268634,[Wired] Unitree Benchmark - stand still - Run 3,156987224,Unitree Robot Telemetry,01A1C999-C7F5-7573-9698-5085B9D75596,stand still - Run 3/unitree_robot_telemetry.jsonl,1200292,verified
+111268634,[Wired] Unitree Benchmark - stand still - Run 3,156987224,Webcam Video,01A1C999-C50A-752A-BBB9-FA26B818281A,stand still - Run 3/webcam_video.mp4,2015470,verified
+111268635,[Wired] Unitree Benchmark - stand still - Run 2,156987225,Unitree Action Results,01A1C99A-7928-7688-9B71-F5334D2FE0FD,stand still - Run 2/unitree_action_results.jsonl,403,verified
+111268635,[Wired] Unitree Benchmark - stand still - Run 2,156987225,Unitree Robot Telemetry,01A1C99A-7517-71D9-BCD7-2BA391C26838,stand still - Run 2/unitree_robot_telemetry.jsonl,1270091,verified
+111268635,[Wired] Unitree Benchmark - stand still - Run 2,156987225,Webcam Video,01A1C99A-79DB-7511-9CC2-E870A144BD06,stand still - Run 2/webcam_video.mp4,1881429,verified

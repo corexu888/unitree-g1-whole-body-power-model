@@ -1,0 +1,4 @@
+﻿fit,bms_seg_mae,bms_seg_med,bms_seg_p90,bms_seg_max,bms_boot_min,bms_boot_max,f_rmse_static,f_rmse_loco,f_2s_mae_static,f_2s_p99_static,f_2s_mae_loco,f_2s_p99_loco,loco_peak_bias
+fit on BMS (2 Hz),1.643,1.092,3.751,5.901,-3.968,5.262,4.628,26.979,1.829,7.577,4.481,20.307,-61.048
+fit on fused mainboard (10 Hz),1.769,1.297,3.954,6.38,-3.657,6.005,4.582,26.864,1.934,7.062,4.497,20.203,-62.417
+"fit on both, equal total weight",1.673,1.043,3.657,6.041,-3.58,5.672,4.55,26.89,1.833,7.037,4.456,20.045,-61.908

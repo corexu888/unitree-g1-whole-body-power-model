@@ -1,0 +1,15 @@
+﻿split,model,k,rmse_all,rmse_moving,hold_bias,hold_mae,hold_max,traj_mae,traj_max
+leave-one-boot-out,"P0 published coefficients, no fitting",0,23.864,25.128,-29.86,31.12,93.584,19.615,60.929
+leave-one-boot-out,"A1 arm only: b,c,d (a=1)",21,13.583,17.956,-1.892,14.437,53.897,11.666,31.587
+leave-one-boot-out,"A2 arm only: b,c,d,e_ij (paper structure)",42,13.583,17.956,-1.892,14.437,53.897,11.666,31.587
+leave-one-boot-out,"W1 whole-body b (a=1), no c,d",16,3.168,4.873,-0.202,1.629,5.883,1.333,6.084
+leave-one-boot-out,"W2 whole-body b, braking coef free",17,3.149,4.826,-0.309,1.609,5.958,1.345,6.086
+leave-one-boot-out,"W3 W2 + arm c,d",31,3.154,4.833,-0.301,1.612,5.992,1.354,6.133
+leave-one-boot-out,"W4 W2 + arm c,d,e_ij",52,3.154,4.833,-0.301,1.612,5.992,1.354,6.133
+leave-one-gesture-out,"P0 published coefficients, no fitting",0,23.864,25.128,-29.86,31.12,93.584,19.615,60.929
+leave-one-gesture-out,"A1 arm only: b,c,d (a=1)",21,136.476,121.113,85.976,104.826,651.0,68.916,404.36
+leave-one-gesture-out,"A2 arm only: b,c,d,e_ij (paper structure)",42,136.476,121.113,85.976,104.826,651.0,68.916,404.36
+leave-one-gesture-out,"W1 whole-body b (a=1), no c,d",16,11.369,10.955,-7.399,9.126,58.616,6.064,33.203
+leave-one-gesture-out,"W2 whole-body b, braking coef free",17,10.65,10.334,-7.286,8.706,54.58,5.846,30.873
+leave-one-gesture-out,"W3 W2 + arm c,d",31,10.667,10.349,-7.288,8.717,54.684,5.851,30.914
+leave-one-gesture-out,"W4 W2 + arm c,d,e_ij",52,10.667,10.349,-7.288,8.717,54.684,5.851,30.914

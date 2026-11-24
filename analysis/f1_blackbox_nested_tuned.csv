@@ -1,0 +1,5 @@
+﻿model,session_mae,session_max,action_mae,action_max,worst_action,nogest_mae,nogest_max,noloco_mae,noloco_max,minutes
+ridge,2.016,8.111,3.379,18.375,reject +13.9,56.247,337.903,5.304,11.468,0.147
+gradient boosting,3.427,20.4,6.539,36.393,reject -20.7,12.883,38.783,11.71,28.343,2.106
+random forest,3.749,30.526,6.653,32.019,reject -19.5,16.521,45.378,24.472,40.524,3.541
+MLP 64-64,5.215,26.129,72.129,669.095,reject +531.6,266.474,1566.627,323.842,400.084,11.747

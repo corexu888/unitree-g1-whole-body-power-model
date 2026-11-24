@@ -1,0 +1,113 @@
+﻿no,date,robot,session,segment,action,frames,duration_s,bms_rows_in_fit,in_net_power_set,in_hold_drift_set,in_paired_stance_set,stance_transition,moving_window_start_s,moving_window_end_s
+1,2026-08-04,A,1,high_five,high five,253,26.0,48,1,1,0,,,
+2,2026-08-04,A,1,hug,hug,254,26.1,51,1,1,0,,,
+3,2026-08-04,A,1,heart,heart,254,26.1,51,1,1,0,,,
+4,2026-08-04,A,1,shake_hand,shake hand,253,26.0,50,1,1,0,,,
+5,2026-08-04,A,1,xray,xray,253,26.0,50,1,1,0,,,
+6,2026-08-04,A,1,handsup,hands up,254,26.1,49,1,1,0,,,
+7,2026-08-04,A,1,reject,reject,253,26.0,50,1,1,0,,,
+8,2026-08-04,A,1,squat,squat,270,28.6,32,0,0,0,,,
+9,2026-11-06,B,2,Walk forward - Run 1,walk forward,227,23.3,45,0,0,0,,10.4,18.9
+10,2026-11-06,B,2,Walk forward - Run 2,walk forward,248,25.5,50,0,0,0,,13.9,22.2
+11,2026-11-06,B,2,Walk forward - Run 3,walk forward,204,21.2,37,0,0,0,,9.1,17.5
+12,2026-11-06,B,2,Step in place - Run 1,step in place,343,35.4,65,0,0,0,,12.6,31.2
+13,2026-11-06,B,2,Step in place - Run 2,step in place,303,31.2,61,0,0,0,,8.5,27.2
+14,2026-11-06,B,2,Step in place - Run 3,step in place,321,33.1,64,0,0,0,,10.3,29.2
+15,2026-11-06,B,2,Turn around - Repeat Count 3 - Run 1,turn around,134,15.2,21,0,0,0,,10.0,11.4
+16,2026-11-06,B,2,Turn around - Repeat Count 3 - Run 2,turn around,117,12.0,23,0,0,0,,8.9,10.1
+17,2026-11-06,B,2,Turn around - Repeat Count 3 - Run 3,turn around,127,15.6,23,0,0,0,,8.8,10.0
+18,2026-11-06,B,2,Turn around - Repeat Count 5 - Run 1,turn around,156,16.0,30,0,0,0,,9.0,12.3
+19,2026-11-06,B,2,Turn around - Repeat Count 5 - Run 2,turn around,164,16.8,32,0,0,0,,9.8,13.2
+20,2026-11-06,B,2,Turn around - Repeat Count 5 - Run 3,turn around,165,16.9,32,0,0,0,,9.8,13.2
+21,2026-11-11,B,3,xray - Run 1,xray,289,29.7,58,1,1,0,,,
+22,2026-11-11,B,3,xray - Run 2,xray,283,29.1,55,1,1,0,,,
+23,2026-11-11,B,3,xray - Run 3,xray,295,30.4,58,1,1,0,,,
+24,2026-11-11,B,3,shake hand - Run 3,shake hand,295,31.0,56,1,1,0,,,
+25,2026-11-11,B,3,shake hand - Run 2,shake hand,301,31.0,61,1,1,1,shallow -> shallow,,
+26,2026-11-11,B,3,shake hand - Run 1,shake hand,322,33.2,65,1,1,1,shallow -> shallow,,
+27,2026-11-11,B,3,reject - Run 3,reject,319,32.8,63,1,1,0,,,
+28,2026-11-11,B,3,reject - Run 2,reject,319,32.9,64,1,1,1,shallow -> shallow,,
+29,2026-11-11,B,3,reject - Run 1,reject,292,30.9,55,1,1,0,,,
+30,2026-11-11,B,3,hug - Run 2,hug,287,29.5,58,1,1,0,,,
+31,2026-11-11,B,3,hug - Run 3,hug,293,30.2,56,1,1,0,,,
+32,2026-11-11,B,3,hug - Run 1,hug,302,31.1,61,1,1,0,,,
+33,2026-11-11,B,3,high five - Run 1,high five,320,33.0,65,1,1,0,,,
+34,2026-11-11,B,3,high five - Run 3,high five,295,31.6,56,1,1,1,shallow -> shallow,,
+35,2026-11-11,B,3,high five - Run 2,high five,292,30.1,59,1,1,0,,,
+36,2026-11-11,B,3,heart - Run 1,heart,292,30.1,56,1,1,0,,,
+37,2026-11-11,B,3,heart - Run 3,heart,311,32.4,58,1,1,0,,,
+38,2026-11-11,B,3,heart - Run 2,heart,279,28.7,56,1,1,0,,,
+39,2026-11-11,B,3,hands up - Run 1,hands up,298,30.7,60,1,1,0,,,
+40,2026-11-11,B,3,hands up - Run 3,hands up,293,30.2,59,1,1,0,,,
+41,2026-11-11,B,3,hands up - Run 2,hands up,306,31.5,60,1,1,0,,,
+42,2026-11-11,B,3,stand still - Run 1,stand still,186,19.1,36,0,0,0,,,
+43,2026-11-11,B,4,stand still - Run 3,stand still,169,17.4,33,0,0,0,,,
+44,2026-11-11,B,4,stand still - Run 2,stand still,179,18.4,36,0,0,0,,,
+45,2026-11-13,B,5,stand still - Run 1 - exec157031804,stand still,193,19.8,37,0,0,0,,,
+46,2026-11-13,B,5,stand still - Run 1 - exec157031918,stand still,201,20.7,39,0,0,0,,,
+47,2026-11-13,B,5,hands up - Run 1 - exec157031941,hands up,299,30.8,59,1,1,1,deep -> shallow,,
+48,2026-11-13,B,5,heart - Run 1 - exec157031962,heart,293,30.2,57,1,1,0,,,
+49,2026-11-13,B,5,hug - Run 1 - exec157032021,hug,305,31.4,59,1,1,0,,,
+50,2026-11-13,B,5,reject - Run 1 - exec157032041,reject,284,29.3,54,1,1,0,,,
+51,2026-11-13,B,5,shake hand - Run 1 - exec157032091,shake hand,282,29.0,55,1,1,0,,,
+52,2026-11-13,B,6,stand still - Run 2 - exec157032359,stand still,195,20.0,37,0,0,0,,,
+53,2026-11-13,B,6,heart - Run 2 - exec157032415,heart,280,28.8,56,1,1,0,,,
+54,2026-11-13,B,6,hug - Run 2 - exec157032457,hug,295,30.4,60,1,1,0,,,
+55,2026-11-13,B,6,reject - Run 2 - exec157032539,reject,278,28.6,56,1,1,0,,,
+56,2026-11-13,B,6,shake hand - Run 2 - exec157032549,shake hand,276,28.4,56,1,1,0,,,
+57,2026-11-13,B,6,hands up - Run 2 - exec157032572,hands up,286,29.5,57,1,1,0,,,
+58,2026-11-13,B,6,stand still - Run 3 - exec157032608,stand still,182,18.7,35,0,0,0,,,
+59,2026-11-13,B,6,hands up - Run 3 - exec157032622,hands up,276,28.4,55,1,1,0,,,
+60,2026-11-13,B,6,heart - Run 3 - exec157032635,heart,277,28.5,54,1,1,0,,,
+61,2026-11-13,B,6,hug - Run 3 - exec157032673,hug,282,29.1,56,1,1,0,,,
+62,2026-11-13,B,6,reject - Run 3 - exec157032698,reject,297,30.6,60,1,1,0,,,
+63,2026-11-13,B,6,shake hand - Run 3 - exec157032718,shake hand,300,30.9,61,1,1,0,,,
+64,2026-11-13,B,6,stand still - Run 1 - exec157032741,stand still,192,19.7,37,0,0,0,,,
+65,2026-11-13,B,6,hands up - Run 1 - exec157032744,hands up,39,3.9,6,0,0,0,,,
+66,2026-11-13,B,6,hands up - Run 1 - exec157032790,hands up,310,31.9,62,1,1,1,deep -> shallow,,
+67,2026-11-13,B,6,heart - Run 1 - exec157032814,heart,300,30.9,60,1,1,0,,,
+68,2026-11-13,B,6,hug - Run 1 - exec157032846,hug,311,32.0,54,0,1,0,,,
+69,2026-11-13,B,6,hug - Run 1 - exec157032906,hug,311,32.0,63,1,1,1,deep -> shallow,,
+70,2026-11-13,B,6,reject - Run 1 - exec157032925,reject,294,30.3,58,1,1,0,,,
+71,2026-11-13,B,6,shake hand - Run 1 - exec157032943,shake hand,328,33.8,65,1,1,1,deep -> deep,,
+72,2026-11-13,B,7,hands up - Run 3 - exec157033007,hands up,4,0.3,0,0,0,0,,,
+73,2026-11-13,B,7,hands up - Run 3 - exec157033031,hands up,331,34.1,65,1,1,0,,,
+74,2026-11-13,B,7,heart - Run 4 - exec157033048,heart,326,33.6,66,1,1,0,,,
+75,2026-11-13,B,7,hug - Run 4 - exec157033049,hug,315,32.4,64,1,1,0,,,
+76,2026-11-13,B,7,reject - Run 4 - exec157033050,reject,301,31.0,59,1,1,0,,,
+77,2026-11-13,B,7,shake hand - Run 4 - exec157033051,shake hand,299,30.8,60,1,1,0,,,
+78,2026-11-13,B,7,hands up - Run 4 - exec157033052,hands up,291,30.0,59,1,1,0,,,
+79,2026-11-13,B,7,stand still - Run 4 - exec157033053,stand still,174,17.9,34,0,0,0,,,
+80,2026-11-13,B,7,heart - Run 5 - exec157033152,heart,289,29.8,57,1,1,0,,,
+81,2026-11-13,B,7,hug - Run 5 - exec157033153,hug,288,29.7,56,1,1,0,,,
+82,2026-11-13,B,7,reject - Run 5 - exec157033154,reject,276,28.4,55,1,1,0,,,
+83,2026-11-13,B,7,shake hand - Run 5 - exec157033155,shake hand,277,28.5,56,1,1,0,,,
+84,2026-11-13,B,7,hands up - Run 5 - exec157033156,hands up,276,28.4,55,1,1,0,,,
+85,2026-11-13,B,7,stand still - Run 5 - exec157033157,stand still,178,18.3,35,0,0,0,,,
+86,2026-11-18,B,8,Arm\Stand Still - Run 3,stand still,194,19.9,39,0,0,0,,,
+87,2026-11-18,B,8,Arm\Stand Still - Run 2,stand still,201,20.7,38,0,0,0,,,
+88,2026-11-18,B,8,Arm\Stand Still - Run 1,stand still,204,21.0,40,0,0,0,,,
+89,2026-11-18,B,8,Arm\Hands Up - Run 3,hands up,329,33.9,64,1,1,1,shallow -> shallow,,
+90,2026-11-18,B,8,Arm\Hands Up - Run 2,hands up,323,33.3,65,1,1,1,shallow -> shallow,,
+91,2026-11-18,B,8,Arm\Hands Up - Run 1,hands up,326,33.6,65,1,1,1,shallow -> shallow,,
+92,2026-11-18,B,8,Arm\Heart - Run 3,heart,316,32.5,62,1,1,1,shallow -> shallow,,
+93,2026-11-18,B,8,Arm\Heart - Run 2,heart,316,32.5,63,1,1,1,shallow -> shallow,,
+94,2026-11-18,B,8,Arm\Heart - Run 1,heart,305,31.4,58,1,1,1,shallow -> deep,,
+95,2026-11-18,B,8,Arm\Hug - Run 3,hug,321,33.1,65,1,1,1,shallow -> shallow,,
+96,2026-11-18,B,8,Arm\Hug - Run 2,hug,334,34.4,66,1,1,1,shallow -> shallow,,
+97,2026-11-18,B,8,Arm\Hug - Run 1,hug,311,32.1,62,1,1,1,shallow -> shallow,,
+98,2026-11-18,B,8,Arm\Reject - Run 3,reject,364,37.5,72,1,1,1,shallow -> shallow,,
+99,2026-11-18,B,8,Arm\Reject - Run 2,reject,325,33.5,63,1,1,1,shallow -> shallow,,
+100,2026-11-18,B,8,Arm\Reject - Run 1,reject,333,34.3,65,1,1,1,shallow -> shallow,,
+101,2026-11-18,B,8,Arm\Shake Hand - Run 2,shake hand,322,33.2,63,1,1,1,shallow -> shallow,,
+102,2026-11-18,B,8,Arm\Shake Hand - Run 3,shake hand,309,31.9,63,1,1,1,shallow -> shallow,,
+103,2026-11-18,B,8,Arm\Shake Hand - Run 1,shake hand,322,33.2,64,1,1,1,shallow -> shallow,,
+104,2026-11-18,B,9,Locomotion\Walk forward (Run 1),walk forward,222,22.8,41,0,0,0,,8.6,17.4
+105,2026-11-18,B,9,Locomotion\Walk forward (Run 2),walk forward,231,23.8,46,0,0,0,,9.1,17.8
+106,2026-11-18,B,9,Locomotion\Walk forward (Run 3),walk forward,239,24.6,47,0,0,0,,9.8,18.3
+107,2026-11-18,B,9,Locomotion\Step in place (Run 1),step in place,316,32.6,64,0,0,0,,9.6,28.5
+108,2026-11-18,B,9,Locomotion\Step in place (Run 2),step in place,303,31.2,61,0,0,0,,8.3,27.3
+109,2026-11-18,B,9,Locomotion\Step in place (Run 3),step in place,303,31.2,60,0,0,0,,8.4,27.1
+110,2026-11-18,B,9,Locomotion\Turn around (Run 1) -1.5x5,turn around,178,18.3,34,0,0,0,,9.4,12.5
+111,2026-11-18,B,9,Locomotion\Turn around (Run 2) -1.5x5,turn around,196,20.1,38,0,0,0,,11.1,12.7
+112,2026-11-18,B,9,Locomotion\Turn around (Run 3) -1.5x5,turn around,177,18.2,35,0,0,0,,10.5,12.4

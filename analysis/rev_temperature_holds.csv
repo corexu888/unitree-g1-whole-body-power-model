@@ -1,0 +1,76 @@
+﻿segid,action,cut_shift_W,Tstart_arm,rise_before_hold,hold_s,drift_no_factor,drift_v2,hold_bms_samples,set
+2026-08-04|high_five,high five,0.245,43.719,1.467,19.623,-0.158,-0.799,38,other gestures
+2026-08-04|hug,hug,0.244,44.438,1.0,18.599,0.786,-0.507,37,other gestures
+2026-08-04|heart,heart,0.247,45.171,1.533,18.588,1.828,0.205,38,other gestures
+2026-08-04|shake_hand,shake hand,-0.015,45.01,0.2,19.725,0.329,0.266,40,other gestures
+2026-08-04|xray,xray,0.42,45.024,1.267,18.479,0.852,-0.844,37,other gestures
+2026-08-04|handsup,hands up,-0.153,45.252,0.6,19.71,1.023,0.609,39,other gestures
+2026-08-04|reject,reject,0.097,44.924,1.2,19.727,0.955,0.111,39,reject
+2026-11-11|xray - Run 1,xray,0.297,39.619,0.8,10.149,1.634,0.176,20,other gestures
+2026-11-11|xray - Run 2,xray,0.219,39.786,1.267,9.097,2.801,1.209,18,other gestures
+2026-11-11|xray - Run 3,xray,0.251,39.938,1.733,9.423,3.04,1.555,19,other gestures
+2026-11-11|shake hand - Run 3,shake hand,0.01,40.143,1.0,10.248,0.078,-0.055,21,other gestures
+2026-11-11|shake hand - Run 2,shake hand,0.008,40.571,1.0,10.346,0.576,0.451,21,other gestures
+2026-11-11|shake hand - Run 1,shake hand,-0.004,40.743,0.8,10.247,-0.687,-0.803,21,other gestures
+2026-11-11|reject - Run 3,reject,0.361,40.91,1.933,10.551,7.165,2.007,21,reject
+2026-11-11|reject - Run 2,reject,0.406,41.305,1.333,10.352,9.418,1.749,21,reject
+2026-11-11|reject - Run 1,reject,0.422,41.8,1.933,10.58,12.119,7.721,18,reject
+2026-11-11|hug - Run 2,hug,0.161,42.21,1.2,9.302,2.957,1.146,19,other gestures
+2026-11-11|hug - Run 3,hug,0.073,42.286,1.2,9.929,1.772,0.194,20,other gestures
+2026-11-11|hug - Run 1,hug,0.032,42.5,1.2,9.199,2.434,0.862,19,other gestures
+2026-11-11|high five - Run 1,high five,-0.002,42.676,0.533,11.181,0.992,0.595,22,other gestures
+2026-11-11|high five - Run 3,high five,0.079,42.767,1.0,10.249,-2.769,-3.168,21,other gestures
+2026-11-11|high five - Run 2,high five,0.043,42.971,1.067,10.134,0.931,0.601,20,other gestures
+2026-11-11|heart - Run 1,heart,0.56,43.081,1.467,9.306,-0.852,-4.571,18,other gestures
+2026-11-11|heart - Run 3,heart,0.647,43.152,1.933,9.11,2.217,-1.257,19,other gestures
+2026-11-11|heart - Run 2,heart,0.393,43.4,1.733,9.319,3.942,-0.112,19,other gestures
+2026-11-11|hands up - Run 1,hands up,0.065,43.567,0.467,10.656,0.518,-0.317,21,other gestures
+2026-11-11|hands up - Run 3,hands up,0.032,43.714,1.0,10.231,3.741,3.251,21,other gestures
+2026-11-11|hands up - Run 2,hands up,0.019,43.724,1.0,10.459,-1.273,-1.783,19,other gestures
+2026-11-13|hands up - Run 1 - exec157031941,hands up,0.22,38.786,0.0,10.551,2.844,2.307,22,other gestures
+2026-11-13|heart - Run 1 - exec157031962,heart,0.399,39.5,1.2,9.205,0.322,-2.112,18,other gestures
+2026-11-13|hug - Run 1 - exec157032021,hug,0.07,39.862,0.8,8.994,2.039,0.279,18,other gestures
+2026-11-13|reject - Run 1 - exec157032041,reject,0.443,40.286,1.733,10.35,0.228,-3.61,21,reject
+2026-11-13|shake hand - Run 1 - exec157032091,shake hand,-0.038,40.952,0.4,10.239,-1.098,-0.989,20,other gestures
+2026-11-13|heart - Run 2 - exec157032415,heart,0.26,44.29,1.067,9.423,5.654,4.902,19,other gestures
+2026-11-13|hug - Run 2 - exec157032457,hug,0.191,44.333,1.333,9.311,-1.356,-2.691,18,other gestures
+2026-11-13|reject - Run 2 - exec157032539,reject,0.396,44.443,2.0,10.241,3.938,0.734,21,reject
+2026-11-13|shake hand - Run 2 - exec157032549,shake hand,0.124,44.576,0.933,10.443,-2.037,-1.858,21,other gestures
+2026-11-13|hands up - Run 2 - exec157032572,hands up,0.102,45.01,0.133,10.346,3.904,3.408,21,other gestures
+2026-11-13|hands up - Run 3 - exec157032622,hands up,-0.005,45.124,0.867,10.346,1.19,0.932,21,other gestures
+2026-11-13|heart - Run 3 - exec157032635,heart,0.318,45.362,2.133,9.313,-4.222,-5.324,18,other gestures
+2026-11-13|hug - Run 3 - exec157032673,hug,0.089,45.481,1.4,9.425,3.881,2.662,19,other gestures
+2026-11-13|reject - Run 3 - exec157032698,reject,0.452,45.562,2.4,10.452,3.282,-0.316,21,reject
+2026-11-13|shake hand - Run 3 - exec157032718,shake hand,0.117,45.976,0.667,10.234,-1.493,-1.46,20,other gestures
+2026-11-13|hands up - Run 1 - exec157032790,hands up,0.137,46.443,0.6,10.255,1.991,1.384,21,other gestures
+2026-11-13|heart - Run 1 - exec157032814,heart,0.446,46.624,1.733,9.309,12.134,11.175,18,other gestures
+2026-11-13|hug - Run 1 - exec157032846,hug,0.236,46.719,1.533,10.854,1.024,-0.565,21,other gestures
+2026-11-13|hug - Run 1 - exec157032906,hug,0.0,46.948,0.0,27.065,1.553,1.684,36,other gestures
+2026-11-13|reject - Run 1 - exec157032925,reject,0.821,46.876,2.8,10.346,7.283,-0.111,21,reject
+2026-11-13|shake hand - Run 1 - exec157032943,shake hand,0.072,47.019,1.0,10.76,0.485,0.431,22,other gestures
+2026-11-13|hands up - Run 3 - exec157033031,hands up,0.369,46.5,1.0,11.061,5.354,4.759,22,other gestures
+2026-11-13|heart - Run 4 - exec157033048,heart,0.263,46.724,1.733,10.141,-0.324,-1.855,21,other gestures
+2026-11-13|hug - Run 4 - exec157033049,hug,0.246,46.924,1.267,9.626,1.415,-0.285,19,other gestures
+2026-11-13|reject - Run 4 - exec157033050,reject,0.442,47.052,2.333,11.074,1.175,-3.09,22,reject
+2026-11-13|shake hand - Run 4 - exec157033051,shake hand,-0.0,47.433,0.667,11.39,-0.433,-0.552,23,other gestures
+2026-11-13|hands up - Run 4 - exec157033052,hands up,0.049,47.319,1.0,10.548,1.835,1.309,22,other gestures
+2026-11-13|heart - Run 5 - exec157033152,heart,0.278,47.4,1.4,9.21,5.668,3.667,18,other gestures
+2026-11-13|hug - Run 5 - exec157033153,hug,0.26,47.367,1.2,9.21,-1.519,-3.207,18,other gestures
+2026-11-13|reject - Run 5 - exec157033154,reject,0.432,47.705,2.8,10.341,2.774,-2.98,21,reject
+2026-11-13|shake hand - Run 5 - exec157033155,shake hand,-0.01,48.062,1.0,10.14,1.187,1.079,20,other gestures
+2026-11-13|hands up - Run 5 - exec157033156,hands up,0.029,47.781,0.533,10.249,1.448,0.991,20,other gestures
+2026-11-18|Arm\Hands Up - Run 3,hands up,0.022,43.395,0.933,10.343,1.69,1.164,21,other gestures
+2026-11-18|Arm\Hands Up - Run 2,hands up,0.021,43.524,1.0,10.347,2.976,2.584,21,other gestures
+2026-11-18|Arm\Hands Up - Run 1,hands up,0.031,43.881,0.533,10.246,1.204,0.704,21,other gestures
+2026-11-18|Arm\Heart - Run 3,heart,0.828,44.362,1.8,10.036,9.296,5.075,20,other gestures
+2026-11-18|Arm\Heart - Run 2,heart,0.73,44.771,1.6,9.296,4.953,0.407,19,other gestures
+2026-11-18|Arm\Heart - Run 1,heart,0.618,44.924,2.067,9.103,1.568,-2.026,19,other gestures
+2026-11-18|Arm\Hug - Run 3,hug,0.22,45.338,1.533,9.516,-0.993,-2.469,19,other gestures
+2026-11-18|Arm\Hug - Run 2,hug,0.192,45.643,1.2,8.997,1.154,-0.435,17,other gestures
+2026-11-18|Arm\Hug - Run 1,hug,0.209,45.781,1.533,9.11,-0.482,-2.249,18,other gestures
+2026-11-18|Arm\Reject - Run 3,reject,0.614,45.986,3.067,10.242,11.414,6.071,21,reject
+2026-11-18|Arm\Reject - Run 2,reject,0.428,46.333,1.933,10.355,6.161,1.042,21,reject
+2026-11-18|Arm\Reject - Run 1,reject,0.759,46.719,2.067,10.458,5.882,-8.754,21,reject
+2026-11-18|Arm\Shake Hand - Run 2,shake hand,-0.019,47.014,0.333,10.859,-0.059,-0.188,22,other gestures
+2026-11-18|Arm\Shake Hand - Run 3,shake hand,0.018,47.038,0.4,10.463,-0.463,-0.547,22,other gestures
+2026-11-18|Arm\Shake Hand - Run 1,shake hand,0.014,47.219,0.467,10.249,-1.116,-1.206,20,other gestures

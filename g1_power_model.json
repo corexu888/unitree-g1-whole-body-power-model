@@ -1,0 +1,301 @@
+{
+ "name": "G1 whole-robot electrical power model (BMS pack power), v1",
+ "equation": "P[W] = P0 + sum_types b_type * sum_{j in type} tau_j^2 + sum_j max(tau_j*dq_j,0) + eta_regen * sum_j min(tau_j*dq_j,0)",
+ "units": {
+  "tau": "N*m (lowstate tau_est)",
+  "dq": "rad/s",
+  "P": "W, battery pack V*|I| as reported by the BMS"
+ },
+ "joint_order": [
+  "left_hip_pitch",
+  "left_hip_roll",
+  "left_hip_yaw",
+  "left_knee",
+  "left_ankle_pitch",
+  "left_ankle_roll",
+  "right_hip_pitch",
+  "right_hip_roll",
+  "right_hip_yaw",
+  "right_knee",
+  "right_ankle_pitch",
+  "right_ankle_roll",
+  "waist_yaw",
+  "waist_roll",
+  "waist_pitch",
+  "left_shoulder_pitch",
+  "left_shoulder_roll",
+  "left_shoulder_yaw",
+  "left_elbow",
+  "left_wrist_roll",
+  "left_wrist_pitch",
+  "left_wrist_yaw",
+  "right_shoulder_pitch",
+  "right_shoulder_roll",
+  "right_shoulder_yaw",
+  "right_elbow",
+  "right_wrist_roll",
+  "right_wrist_pitch",
+  "right_wrist_yaw"
+ ],
+ "P0": 106.52612802675593,
+ "eta_regen": 0.6176142152163825,
+ "mech_pos_coef": 1.0,
+ "b": {
+  "hip_pitch": 0.011613266003436302,
+  "hip_roll": 0.027249085517214982,
+  "hip_yaw": 0.00030205330630978596,
+  "knee": 0.026842669424613292,
+  "ankle_pitch": 0.07934791218958101,
+  "ankle_roll": 0.2591382422473417,
+  "waist_yaw": 0.6694038368136692,
+  "waist_roll": 0.2724173195466073,
+  "waist_pitch": 0.10018017521686974,
+  "shoulder_pitch": 0.29990864078223284,
+  "shoulder_roll": 0.251033848806982,
+  "shoulder_yaw": 0.45629772981067246,
+  "elbow": 0.38303297476048553,
+  "wrist_roll": 0.0,
+  "wrist_pitch": 0.0,
+  "wrist_yaw": 0.5985969061662535
+ },
+ "b_ci95": {
+  "hip_pitch": [
+   0.0001143875958704,
+   0.0210542500427137
+  ],
+  "hip_roll": [
+   0.0206255585291753,
+   0.0305406592493603
+  ],
+  "hip_yaw": [
+   0.0,
+   0.0420497789823946
+  ],
+  "knee": [
+   0.0227114635173649,
+   0.0305968802214024
+  ],
+  "ankle_pitch": [
+   0.0763873826924614,
+   0.08239353676365
+  ],
+  "ankle_roll": [
+   0.2037795438514909,
+   0.316238836347346
+  ],
+  "waist_yaw": [
+   0.1904867827738424,
+   1.0866116797306191
+  ],
+  "waist_roll": [
+   0.1748573463907465,
+   0.3644215072631788
+  ],
+  "waist_pitch": [
+   0.0892363566459662,
+   0.1140571579949034
+  ],
+  "shoulder_pitch": [
+   0.2336235830338496,
+   0.3638689337439784
+  ],
+  "shoulder_roll": [
+   0.1030479917770195,
+   0.3454884464567752
+  ],
+  "shoulder_yaw": [
+   0.357044186697819,
+   0.536813870677675
+  ],
+  "elbow": [
+   0.3205313215058602,
+   0.4356693331207527
+  ],
+  "wrist_roll": [
+   0.0,
+   0.0
+  ],
+  "wrist_pitch": [
+   0.0,
+   0.4623589894651971
+  ],
+  "wrist_yaw": [
+   0.0757083594764329,
+   1.186065178237215
+  ]
+ },
+ "P0_ci95": [
+  105.64634794871608,
+  107.7026506194052
+ ],
+ "eta_regen_ci95": [
+  0.4436894788697401,
+  0.7834411001883932
+ ],
+ "confidence": {
+  "P0": "high",
+  "b_hip_pitch": "not identified",
+  "b_hip_roll": "high",
+  "b_hip_yaw": "not identified",
+  "b_knee": "high",
+  "b_ankle_pitch": "high",
+  "b_ankle_roll": "high",
+  "b_waist_yaw": "low",
+  "b_waist_roll": "medium",
+  "b_waist_pitch": "high",
+  "b_shoulder_pitch": "high",
+  "b_shoulder_roll": "medium",
+  "b_shoulder_yaw": "high",
+  "b_elbow": "high",
+  "b_wrist_roll": "not identified",
+  "b_wrist_pitch": "not identified",
+  "b_wrist_yaw": "low",
+  "mech_pos": "fixed (energy conservation)",
+  "mech_neg": "medium"
+ },
+ "bms_response_fir_10hz": [
+  0.0,
+  0.062311557788944726,
+  0.18693467336683417,
+  0.1698492462311558,
+  0.1658291457286432,
+  0.1758793969849246,
+  0.14070351758793972,
+  0.0914572864321608,
+  0.007035175879396985
+ ],
+ "fitted_on": {
+  "rows": 5840,
+  "segments": 111,
+  "boots": 9,
+  "robots": [
+   "A",
+   "B"
+  ],
+  "dates": [
+   "2026-08-04",
+   "2026-11-06",
+   "2026-11-11",
+   "2026-11-13",
+   "2026-11-18"
+  ],
+  "excluded": "damping (fsm=1) frames; first 0.8 s of each segment"
+ },
+ "envelope": {
+  "per_joint_type": {
+   "hip_pitch": {
+    "tau_abs_p99": 15.8203125,
+    "tau_abs_max": 34.189453125,
+    "dq_abs_p99": 1.4562591314315796,
+    "dq_abs_max": 3.22013258934021
+   },
+   "hip_roll": {
+    "tau_abs_p99": 35.33203125,
+    "tau_abs_max": 49.21875,
+    "dq_abs_p99": 0.7384924292564392,
+    "dq_abs_max": 2.1762075424194336
+   },
+   "hip_yaw": {
+    "tau_abs_p99": 14.653764724731445,
+    "tau_abs_max": 28.971946716308594,
+    "dq_abs_p99": 0.6942358613014221,
+    "dq_abs_max": 5.289906024932861
+   },
+   "knee": {
+    "tau_abs_p99": 24.9609375,
+    "tau_abs_max": 41.748046875,
+    "dq_abs_p99": 3.1123258471488935,
+    "dq_abs_max": 7.814712047576904
+   },
+   "ankle_pitch": {
+    "tau_abs_p99": 18.867862701416016,
+    "tau_abs_max": 44.92363739013672,
+    "dq_abs_p99": 0.8448982882499676,
+    "dq_abs_max": 4.655604362487793
+   },
+   "ankle_roll": {
+    "tau_abs_p99": 6.554749870300289,
+    "tau_abs_max": 12.695589065551758,
+    "dq_abs_p99": 0.7089640682935697,
+    "dq_abs_max": 4.851046085357666
+   },
+   "waist_yaw": {
+    "tau_abs_p99": 4.530362129211426,
+    "tau_abs_max": 7.494673252105713,
+    "dq_abs_p99": 0.2828368544578552,
+    "dq_abs_max": 1.1124916076660156
+   },
+   "waist_roll": {
+    "tau_abs_p99": 4.7130239915847785,
+    "tau_abs_max": 12.992049217224121,
+    "dq_abs_p99": 0.5212709969282151,
+    "dq_abs_max": 2.057762384414673
+   },
+   "waist_pitch": {
+    "tau_abs_p99": 21.38702964782715,
+    "tau_abs_max": 23.029329299926758,
+    "dq_abs_p99": 0.323048691749573,
+    "dq_abs_max": 2.274095058441162
+   },
+   "shoulder_pitch": {
+    "tau_abs_p99": 7.573124999999891,
+    "tau_abs_max": 11.6875,
+    "dq_abs_p99": 1.2992818355560303,
+    "dq_abs_max": 2.876214027404785
+   },
+   "shoulder_roll": {
+    "tau_abs_p99": 4.3125,
+    "tau_abs_max": 15.625,
+    "dq_abs_p99": 0.6964272856712341,
+    "dq_abs_max": 1.830039143562317
+   },
+   "shoulder_yaw": {
+    "tau_abs_p99": 9.625,
+    "tau_abs_max": 12.5625,
+    "dq_abs_p99": 0.8160778284072876,
+    "dq_abs_max": 2.2718255519866943
+   },
+   "elbow": {
+    "tau_abs_p99": 4.1875,
+    "tau_abs_max": 12.75,
+    "dq_abs_p99": 1.4879614114761353,
+    "dq_abs_max": 4.928680419921875
+   },
+   "wrist_roll": {
+    "tau_abs_p99": 3.625,
+    "tau_abs_max": 4.0625,
+    "dq_abs_p99": 1.4557478427886963,
+    "dq_abs_max": 2.7182140350341797
+   },
+   "wrist_pitch": {
+    "tau_abs_p99": 1.931249976158142,
+    "tau_abs_max": 6.118750095367432,
+    "dq_abs_p99": 0.7240389585494995,
+    "dq_abs_max": 2.362330436706543
+   },
+   "wrist_yaw": {
+    "tau_abs_p99": 3.4312500953674316,
+    "tau_abs_max": 4.231249809265137,
+    "dq_abs_p99": 0.5951845645904541,
+    "dq_abs_max": 3.779728889465332
+   }
+  },
+  "pack_voltage_V": [
+   47.729,
+   52.917
+  ],
+  "soc_percent": [
+   46.0,
+   98.0
+  ],
+  "motor_temp_C": [
+   32.0,
+   102.0
+  ],
+  "power_W_bms": [
+   106.32884599999998,
+   386.076661
+  ],
+  "conditions": "standing / arm gestures / 0.5 m/s commanded walk, step in place, turning; flat floor; slack safety rope; ~28 C ambient; no payload"
+ }
+}

@@ -1,0 +1,12 @@
+﻿,coef,lo,hi,confidence
+const,105.80413,105.0989,106.62972,high
+cu_N7520_14,0.022,0.00895,0.03301,medium
+cu_N7520_22,0.02671,0.02474,0.02941,high
+cu_ankle_pitch,0.0786,0.07598,0.08094,high
+cu_ankle_roll,0.27123,0.21927,0.31656,high
+cu_waist_roll,0.23211,0.15942,0.30548,medium
+cu_waist_pitch,0.08558,0.07608,0.0975,high
+cu_N5020_arm,0.32423,0.30546,0.33713,high
+cu_W4010,0.77261,0.6449,0.94605,high
+mech_pos,1.0,1.0,1.0,fixed (energy conservation)
+mech_neg,0.64851,0.43041,0.78695,medium

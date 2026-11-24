@@ -1,0 +1,5 @@
+﻿model,parameters,bias,mae,largest,segments
+"whole-body copper terms, one coefficient per joint type, fitted to the net power of the gesture segments",17,-0.309,1.609,5.958,74
+"whole-body copper terms, coefficients shared by actuator, fitted to the net power of the gesture segments",9,-0.139,1.724,5.307,74
+the same with the temperature factor,9,-0.068,1.675,5.098,74
+"proposed ten-parameter model, fitted to the total power of all motions",10,0.183,1.745,4.809,74

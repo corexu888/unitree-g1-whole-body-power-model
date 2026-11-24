@@ -1,0 +1,12 @@
+﻿variant,arms,waist,legs,model_total,measured,share_of_measured,share_of_model_total,lo,hi
+"proposed model, all data",36.898,17.813,20.178,74.889,75.045,50.624,50.729,,
+each segment decomposed with coefficients fitted without its session,36.958,18.007,19.992,74.957,75.045,50.635,50.694,,
+range over the nine fits without one session,,,,,75.045,,,50.175,50.918
+"shared coefficients, no temperature factor",36.557,17.86,20.288,74.705,75.045,50.833,51.065,,
+"one coefficient per joint type, no temperature factor",36.415,20.251,18.165,74.831,75.045,51.19,51.337,,
+"one coefficient per joint type, with temperature factor",37.376,19.511,18.234,75.122,75.045,50.297,50.246,,
+braking applied to the summed joint power,37.048,17.083,20.848,74.979,75.045,50.545,50.589,,
+with terms linear in |torque|,35.805,19.455,19.904,75.164,75.045,52.448,52.365,,
+"main-board power as the target, one intercept per session",36.316,16.298,21.933,74.547,75.045,50.944,51.285,,
+"fitted to the net power of the 74 gesture segments only, shared coefficients",37.035,14.12,23.669,74.824,75.045,50.355,50.504,,
+"fitted to the net power of the 74 gesture segments only, one coefficient per joint type",39.192,14.807,21.009,75.008,75.045,47.726,47.749,,

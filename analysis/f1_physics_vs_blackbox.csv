@@ -1,0 +1,8 @@
+﻿model,session_mae,session_max,action_mae,action_max,worst_action,nogest_mae,nogest_max,noloco_mae,noloco_max,BtoA_mae,BtoA_max,sec
+physics v2 (10 parameters),1.654,5.794,2.13,6.515,reject -5.4,4.601,11.49,2.537,5.486,2.327,3.912,0.106
+"physics, tied coefficients only",1.643,5.901,2.208,7.559,reject -6.2,4.728,12.161,2.544,5.686,2.277,4.244,0.083
+physics v1 (18 parameters),1.595,6.581,2.929,14.758,reject +10.2,11.673,42.446,2.286,5.571,2.58,4.909,0.18
+"ridge, 116 per-joint features",1.942,8.111,2.277,8.721,step in place -6.3,37.067,207.164,6.417,14.798,4.471,6.511,2.319
+random forest,4.287,65.745,7.235,50.957,reject -20.5,15.525,44.63,23.464,38.596,13.973,65.745,78.735
+gradient boosting,3.604,25.138,6.386,35.436,reject -20.4,16.356,45.218,16.056,34.072,9.142,25.138,14.492
+MLP 64-64,5.351,28.827,72.364,664.953,reject +529.0,267.312,1567.627,381.297,504.274,11.976,28.827,106.692

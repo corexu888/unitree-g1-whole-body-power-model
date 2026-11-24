@@ -1,0 +1,9 @@
+﻿target,model,P0,mech_pos,mech_pos_lo,mech_pos_hi,mech_neg,mech_neg_lo,mech_neg_hi,heldout_session_seg_mae,heldout_session_seg_max,mech_net,mech_net_lo,mech_net_hi
+BMS,"v2: positive mech fixed at 1, braking in [0,1]",105.8041,1.0,1.0,1.0,0.6485,0.4519,0.8016,1.6543,5.7939,,,
+BMS,"positive mech free, braking in [0,1]",104.5328,0.6959,0.4839,0.8088,0.4909,0.0832,0.6956,1.5941,5.7852,,,
+BMS,"positive mech free, braking free",104.5328,0.6959,0.4794,0.8179,0.4909,0.0641,0.708,1.5941,5.7852,,,
+BMS,one free coefficient on net mechanical power,103.7441,,,,,,,1.5989,5.7354,0.6472,0.4496,0.7783
+main board + session offset,"v2: positive mech fixed at 1, braking in [0,1]",104.2002,1.0,1.0,1.0,0.8733,0.7923,0.9524,,,,,
+main board + session offset,"positive mech free, braking in [0,1]",103.6845,0.8278,0.6438,1.036,0.7304,0.5445,0.9525,,,,,
+main board + session offset,"positive mech free, braking free",103.6845,0.8278,0.5659,1.0616,0.7304,0.4621,0.9313,,,,,
+main board + session offset,one free coefficient on net mechanical power,103.3705,,,,,,,,,0.8193,0.6448,1.0514

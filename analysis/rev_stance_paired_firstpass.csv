@@ -1,0 +1,4 @@
+﻿transition,n,sessions,P_before,P_after,dP,dP_lo,dP_hi,d_model,d_ankle_deg,d_knee_deg,d_T_ankle,d_T_arm,gap_s
+deep -> deep,1,1,146.334,135.505,-10.83,,,-12.314,4.555,-6.471,-3.359,0.479,25.231
+shallow -> deep,1,1,125.032,130.402,5.37,,,5.072,-2.173,3.839,5.131,0.821,23.622
+shallow -> shallow,15,2,121.414,124.138,2.724,0.658,4.789,2.786,0.001,0.454,2.581,1.662,24.446

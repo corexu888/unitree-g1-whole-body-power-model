@@ -1,0 +1,4 @@
+﻿correction,mae_segments,mae_sessions,largest,bias_s5,bias_s8,bias_s9,bias_min,bias_max
+none (main line),1.654,2.313,5.794,-4.009,0.742,0.197,-4.009,5.277
+SOH-95 pack only,1.468,1.985,5.794,0.153,0.742,0.197,-1.785,5.277
+SOH-95 and SOH-100 packs,1.471,1.981,5.98,0.153,-0.829,-1.374,-1.785,5.277

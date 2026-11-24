@@ -1,0 +1,8 @@
+﻿model,session_mae,session_max,action_mae,action_max,nogesture_mae,P0,mech_neg,netneg,x_ankle,x_waist,abs_leg,abs_waist,abs_arm,i2,lvl_arm,lvl_ankle,lvl_other
+v2 as in the draft,1.65433,5.79395,2.13019,6.515,4.60137,105.80413,0.64851,,,,,,,,,,
+braking applied to the summed joint power (common bus),1.65587,5.96394,2.14859,6.25933,9.09154,104.64389,,0.64249,,,,,,,,,
+parallel joints: mean temperature of the two motors,1.66565,5.79358,2.14098,6.52893,4.63286,105.81019,0.64655,,,,,,,,,,
+"+ cross terms tau_pitch*tau_roll (ankle, waist)",1.75089,6.22251,2.16852,6.59875,4.48564,105.75212,,,-0.01263,-0.0191,,,,,,,
+"+ |tau| terms (legs, waist, arms)",1.55237,5.57468,2.26004,8.9394,4.70772,103.67721,,,,,0.02404,0.43281,0.0,,,,
++ bus resistance term (I^2),1.65433,5.79395,2.13019,6.515,4.60137,105.80413,,,,,,,,0.0,,,
++ absolute temperature level terms (free sign),1.66628,6.33577,2.13828,8.22081,3.01552,105.8182,,,,,,,,,-0.00551,0.00103,0.00268

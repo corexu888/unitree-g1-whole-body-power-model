@@ -1,0 +1,6 @@
+﻿scheme,rows,session_seg_mae,session_seg_max,rmse_static,rmse_loco,win2s_static_mae,win2s_loco_mae,nogesture_seg_mae,nogesture_seg_max
+identified response (9 taps),5840,1.654,5.794,3.461,14.407,1.93,4.978,4.601,11.49
+"boxcar, lags 1-6",5888,1.693,5.796,4.075,15.148,2.063,5.477,3.302,9.604
+"pure delay, 4 frames",5933,2.961,12.45,6.241,31.51,3.635,10.372,10.743,38.44
+no alignment (lag 0),6009,4.312,12.412,13.043,31.335,5.944,10.88,15.253,39.026
+fit on segment means (no kernel),111,1.877,7.949,,,,,15.128,73.057

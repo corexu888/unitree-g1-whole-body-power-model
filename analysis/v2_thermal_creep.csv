@@ -1,0 +1,13 @@
+﻿model,target,bms_seg_mae,bms_seg_max,f_rmse_static,f_2s_mae_static,f_rmse_loco,reject_hold_resid_slope_W_per_10s,n_holds,creep_arm_inf,creep_arm_60,creep_arm_20,creep_leg_inf,creep_waist_inf,creep_leg_60,creep_waist_60
+no creep term,BMS,1.64331,5.90064,4.62787,1.82876,26.97919,5.30326,13,,,,,,,
+no creep term,fused,1.76871,6.37994,4.58185,1.93416,26.86366,4.91081,13,,,,,,,
+"creep arm, no leak",BMS,1.639,5.98984,4.68876,1.84053,26.99261,-3.34583,13,5e-05,,,,,,
+"creep arm, no leak",fused,1.76172,6.38292,4.57602,1.92144,26.8658,2.80002,13,2e-05,,,,,,
+"creep arm, 60 s leak",BMS,1.6421,5.98984,4.69244,1.84262,26.99326,-3.25405,13,,6e-05,,,,,
+"creep arm, 60 s leak",fused,1.76253,6.3827,4.57676,1.92221,26.86583,2.91444,13,,2e-05,,,,,
+"creep arm, 20 s leak",BMS,1.64757,5.99005,4.69952,1.84663,26.99438,-3.03804,13,,,7e-05,,,,
+"creep arm, 20 s leak",fused,1.76404,6.38244,4.57821,1.9238,26.8659,3.13795,13,,,2e-05,,,,
+"creep arm+leg+waist, no leak",BMS,1.65329,5.6598,4.74464,1.91371,27.07018,-3.21862,13,5e-05,,,0.0,0.0,,
+"creep arm+leg+waist, no leak",fused,1.77645,6.41356,4.58388,1.93748,26.87191,3.04126,13,1e-05,,,0.0,0.0,,
+"creep arm+leg+waist, 60 s leak",BMS,1.65726,5.66933,4.74404,1.91491,27.06754,-3.17375,13,,6e-05,,,,0.0,0.0
+"creep arm+leg+waist, 60 s leak",fused,1.77839,6.41089,4.58551,1.93961,26.8715,3.10213,13,,1e-05,,,,0.0,0.0
