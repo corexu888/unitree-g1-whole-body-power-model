@@ -79,7 +79,7 @@ The script writes the three-panel figure to `manuscript/figures_v2/fig5_temperat
 - **Panel b, single-motor heating.** The script reads the torque estimates and motor temperature channels in `data/` and writes `analysis/figure5_motor_heating.csv`. It contains 1,090 arm and 218 waist motor observations, with channel identity, mean temperature, heating rate and the loss used on the horizontal axis. The plotted lines are simple regressions. The Section 5.5 regressions additionally account for mean motor temperature.
 - **Panel c, ankle motor differences.** `analysis/figure5_ankle_temperature.csv` contains 81 paired observations per ankle from robot B's non-locomotion segments. Motor 1 is the pitch-index channel. The empirical pitch-channel cross-term sign is positive for the waist and left ankle, negative for the right ankle. The correlations between the within-pair temperature and loss differences are 0.96835 (left) and 0.90718 (right).
 
-**Waist loss convention in Section 5.5.** For equal-split loss `H` and signed pitch-channel cross term `C`, the two modelled losses are `H + C` and `H - C`. Regressing the difference in heating rates on `C` gives 0.13547 K/J, corresponding to the approximately 0.136 K/J quoted in the text. Using the complete motor-to-motor loss difference, `2C`, gives 0.06774 K/J. Both regressions give the same correlation (0.88840). The plotting script prints both slopes.
+**Waist heating-rate regression (Section 5.5).** The difference in heating rates is regressed on the signed pitch-channel cross term in watts. The fitted slope is 0.13547 K/J (r = 0.88840).
 
 ## Refit and load the alternative coefficient sets
 

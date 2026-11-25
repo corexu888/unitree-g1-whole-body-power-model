@@ -167,9 +167,9 @@ def report_fits(heating, ankles):
                                                 values=["rise_rate_K_s", "signed_cross_term_W"])
     rate_difference = waist.rise_rate_K_s.waist_pitch - waist.rise_rate_K_s.waist_roll
     cross = waist.signed_cross_term_W.waist_pitch
-    print(f"waist rate difference vs signed pitch cross term: slope={np.polyfit(cross, rate_difference, 1)[0]:.6f} K/J")
-    print(f"waist rate difference vs full motor-loss difference: slope={np.polyfit(2 * cross, rate_difference, 1)[0]:.6f} K/J")
-    print(f"waist rate difference vs loss difference: r={cross.corr(rate_difference):.6f}")
+    slope = np.polyfit(cross, rate_difference, 1)[0]
+    print(f"waist rate difference vs signed pitch cross term: slope={slope:.6f} K/J, "
+          f"r={cross.corr(rate_difference):.6f}")
     for side, points in ankles.groupby("ankle"):
         x, y = points.difference_loss_W, points.difference_temperature_K
         print(f"{side}: n={len(x)}, r={x.corr(y):.6f}, slope={np.polyfit(x, y, 1)[0]:.6f} K/W")
