@@ -1,0 +1,1309 @@
+segment_no,date,segment,robot,session,action,frames,group,channel,mean_temperature_C,rise_rate_K_s,equal_split_loss_W,signed_cross_term_W,single_motor_loss_W
+6,2026-08-04,handsup,A,1,hands up,254,arm,left_shoulder_pitch,47.91338583,0.08280642581,2.86307455,0,2.86307455
+6,2026-08-04,handsup,A,1,hands up,254,arm,left_shoulder_roll,44.92519685,-0.08280642581,0.27172352,0,0.27172352
+6,2026-08-04,handsup,A,1,hands up,254,arm,left_shoulder_yaw,42,0,0.139581541,0,0.139581541
+6,2026-08-04,handsup,A,1,hands up,254,arm,left_elbow,44.43307087,0.1242096387,3.910551916,0,3.910551916
+6,2026-08-04,handsup,A,1,hands up,254,arm,left_wrist_roll,43,0,0.04450274189,0,0.04450274189
+6,2026-08-04,handsup,A,1,hands up,254,arm,right_shoulder_pitch,51.2007874,0.01863144581,2.116764815,0,2.116764815
+6,2026-08-04,handsup,A,1,hands up,254,arm,right_shoulder_roll,47.39370079,-0.0414032129,0.4279742674,0,0.4279742674
+6,2026-08-04,handsup,A,1,hands up,254,arm,right_shoulder_yaw,48,0,0.07600120917,0,0.07600120917
+6,2026-08-04,handsup,A,1,hands up,254,arm,right_elbow,49.76377953,0.2070160645,3.593836996,0,3.593836996
+6,2026-08-04,handsup,A,1,hands up,254,arm,right_wrist_roll,43,0,0.01900778175,0,0.01900778175
+6,2026-08-04,handsup,A,1,hands up,254,waist,waist_pitch,57.6023622,0.1097185142,6.876189985,0.3429773512,7.219167336
+6,2026-08-04,handsup,A,1,hands up,254,waist,waist_roll,52.5,0.2028757432,6.876189985,-0.3429773512,6.533212634
+3,2026-08-04,heart,A,1,heart,254,arm,left_shoulder_pitch,51.89370079,0.3311097963,7.87126104,0,7.87126104
+3,2026-08-04,heart,A,1,heart,254,arm,left_shoulder_roll,45.70472441,-0.08277744907,0.9024158795,0,0.9024158795
+3,2026-08-04,heart,A,1,heart,254,arm,left_shoulder_yaw,42.64566929,0.04138872454,0.9222813051,0,0.9222813051
+3,2026-08-04,heart,A,1,heart,254,arm,left_elbow,41.53543307,-0.0538053419,0.1836853788,0,0.1836853788
+3,2026-08-04,heart,A,1,heart,254,arm,left_wrist_roll,43,0,0.01863879543,0,0.01863879543
+3,2026-08-04,heart,A,1,heart,254,arm,right_shoulder_pitch,54.46850394,0.4304427352,8.811577798,0,8.811577798
+3,2026-08-04,heart,A,1,heart,254,arm,right_shoulder_roll,49,0,1.921316751,0,1.921316751
+3,2026-08-04,heart,A,1,heart,254,arm,right_shoulder_yaw,48.57480315,0.04138872454,0.9779184585,0,0.9779184585
+3,2026-08-04,heart,A,1,heart,254,arm,right_elbow,47.38188976,-0.04138872454,0.2944012198,0,0.2944012198
+3,2026-08-04,heart,A,1,heart,254,arm,right_wrist_roll,43,0,0.02311649427,0,0.02311649427
+3,2026-08-04,heart,A,1,heart,254,waist,waist_pitch,58.00393701,0.7449970417,11.09504232,1.829097093,12.92413941
+3,2026-08-04,heart,A,1,heart,254,waist,waist_roll,54.2519685,0.4759703322,11.09504232,-1.829097093,9.265945229
+1,2026-08-04,high_five,A,1,high five,253,arm,left_shoulder_pitch,44.43873518,0.04155055759,1.003730098,0,1.003730098
+1,2026-08-04,high_five,A,1,high five,253,arm,left_shoulder_roll,44.28853755,0.04155055759,1.493758436,0,1.493758436
+1,2026-08-04,high_five,A,1,high five,253,arm,left_shoulder_yaw,42,0,0.2097768622,0,0.2097768622
+1,2026-08-04,high_five,A,1,high five,253,arm,left_elbow,41,0,0.02892472759,0,0.02892472759
+1,2026-08-04,high_five,A,1,high five,253,arm,left_wrist_roll,43,0,0.01007709876,0,0.01007709876
+1,2026-08-04,high_five,A,1,high five,253,arm,right_shoulder_pitch,53.31620553,0.5671651111,8.894614048,0,8.894614048
+1,2026-08-04,high_five,A,1,high five,253,arm,right_shoulder_roll,46.33596838,0.09141122669,2.333701888,0,2.333701888
+1,2026-08-04,high_five,A,1,high five,253,arm,right_shoulder_yaw,47.81422925,0.04155055759,0.2667752956,0,0.2667752956
+1,2026-08-04,high_five,A,1,high five,253,arm,right_elbow,46,0,0.4482932296,0,0.4482932296
+1,2026-08-04,high_five,A,1,high five,253,arm,right_wrist_roll,42,0,0.006492795377,0,0.006492795377
+1,2026-08-04,high_five,A,1,high five,253,waist,waist_pitch,47.33201581,0.1641247025,4.392638308,-1.545309763,2.847328545
+1,2026-08-04,high_five,A,1,high five,253,waist,waist_roll,46.20158103,0.3324044607,4.392638308,1.545309763,5.937948071
+2,2026-08-04,hug,A,1,hug,254,arm,left_shoulder_pitch,51.11811024,0.4943005488,7.921682522,0,7.921682522
+2,2026-08-04,hug,A,1,hug,254,arm,left_shoulder_roll,46.98818898,0.1654562507,4.255903166,0,4.255903166
+2,2026-08-04,hug,A,1,hug,254,arm,left_shoulder_yaw,43.04330709,0.08272812533,1.797038169,0,1.797038169
+2,2026-08-04,hug,A,1,hug,254,arm,left_elbow,43.8976378,0.248184376,4.540017645,0,4.540017645
+2,2026-08-04,hug,A,1,hug,254,arm,left_wrist_roll,43,0,0.03245085089,0,0.03245085089
+2,2026-08-04,hug,A,1,hug,254,arm,right_shoulder_pitch,51.39370079,0.3515945327,6.891881595,0,6.891881595
+2,2026-08-04,hug,A,1,hug,254,arm,right_shoulder_roll,49.47244094,0.1530470319,5.055082657,0,5.055082657
+2,2026-08-04,hug,A,1,hug,254,arm,right_shoulder_yaw,48.54330709,0.04136406266,1.286276336,0,1.286276336
+2,2026-08-04,hug,A,1,hug,254,arm,right_elbow,49.91732283,0.2688664073,4.383198459,0,4.383198459
+2,2026-08-04,hug,A,1,hug,254,arm,right_wrist_roll,43,0,0.02894548086,0,0.02894548086
+2,2026-08-04,hug,A,1,hug,254,waist,waist_pitch,51.62598425,0.4467318768,6.850158722,0.6235387768,7.473697499
+2,2026-08-04,hug,A,1,hug,254,waist,waist_roll,51.01574803,0.2378433603,6.850158722,-0.6235387768,6.226619945
+7,2026-08-04,reject,A,1,reject,253,arm,left_shoulder_pitch,51.1541502,0.3761992119,6.667785474,0,6.667785474
+7,2026-08-04,reject,A,1,reject,253,arm,left_shoulder_roll,45.19367589,-0.04156897369,0.8172862499,0,0.8172862499
+7,2026-08-04,reject,A,1,reject,253,arm,left_shoulder_yaw,42.58893281,0.03117673027,0.02755808678,0,0.02755808678
+7,2026-08-04,reject,A,1,reject,253,arm,left_elbow,47.33596838,0.4094543909,7.162469401,0,7.162469401
+7,2026-08-04,reject,A,1,reject,253,arm,left_wrist_roll,43,0,0.02462957075,0,0.02462957075
+7,2026-08-04,reject,A,1,reject,253,arm,right_shoulder_pitch,51.2055336,0.1662758948,3.365400566,0,3.365400566
+7,2026-08-04,reject,A,1,reject,253,arm,right_shoulder_roll,47.45849802,-0.04156897369,0.7824594361,0,0.7824594361
+7,2026-08-04,reject,A,1,reject,253,arm,right_shoulder_yaw,48,0,0.2281689441,0,0.2281689441
+7,2026-08-04,reject,A,1,reject,253,arm,right_elbow,48.41897233,0.07482415265,1.754226158,0,1.754226158
+7,2026-08-04,reject,A,1,reject,253,arm,right_wrist_roll,43,0,0.004019826282,0,0.004019826282
+7,2026-08-04,reject,A,1,reject,253,waist,waist_pitch,54.71936759,0.3699638659,8.65052159,-1.25837052,7.39215107
+7,2026-08-04,reject,A,1,reject,253,waist,waist_roll,55.93280632,0.6318484001,8.65052159,1.25837052,9.90889211
+4,2026-08-04,shake_hand,A,1,shake hand,253,arm,left_shoulder_pitch,47.19762846,-0.04155866845,0.5167554267,0,0.5167554267
+4,2026-08-04,shake_hand,A,1,shake hand,253,arm,left_shoulder_roll,45.77865613,0,1.445300256,0,1.445300256
+4,2026-08-04,shake_hand,A,1,shake hand,253,arm,left_shoulder_yaw,42,0,0.1652584125,0,0.1652584125
+4,2026-08-04,shake_hand,A,1,shake hand,253,arm,left_elbow,41,0,0.1437225561,0,0.1437225561
+4,2026-08-04,shake_hand,A,1,shake hand,253,arm,left_wrist_roll,43,0,0.007368847182,0,0.007368847182
+4,2026-08-04,shake_hand,A,1,shake hand,253,arm,right_shoulder_pitch,50.54545455,0.02285726765,2.372668673,0,2.372668673
+4,2026-08-04,shake_hand,A,1,shake hand,253,arm,right_shoulder_roll,47.2687747,-0.06026006925,0.4216862848,0,0.4216862848
+4,2026-08-04,shake_hand,A,1,shake hand,253,arm,right_shoulder_yaw,48,0,0.08270930241,0,0.08270930241
+4,2026-08-04,shake_hand,A,1,shake hand,253,arm,right_elbow,49.88537549,0.2244168096,3.754717988,0,3.754717988
+4,2026-08-04,shake_hand,A,1,shake hand,253,arm,right_wrist_roll,43,0,0.004034844313,0,0.004034844313
+4,2026-08-04,shake_hand,A,1,shake hand,253,waist,waist_pitch,49.62055336,-0.1662346738,1.613764097,-1.470597842,0.1431662548
+4,2026-08-04,shake_hand,A,1,shake hand,253,waist,waist_roll,49,0,1.613764097,1.470597842,3.084361938
+8,2026-08-04,squat,A,1,squat,270,arm,left_shoulder_pitch,47.15185185,0.03866626362,1.155226284,0,1.155226284
+8,2026-08-04,squat,A,1,squat,270,arm,left_shoulder_roll,47.3,-0.03673295044,0.8885392606,0,0.8885392606
+8,2026-08-04,squat,A,1,squat,270,arm,left_shoulder_yaw,44,0,0.1153565734,0,0.1153565734
+8,2026-08-04,squat,A,1,squat,270,arm,left_elbow,43,0,0.1978821182,0,0.1978821182
+8,2026-08-04,squat,A,1,squat,270,arm,left_wrist_roll,45,0,0.01441019005,0,0.01441019005
+8,2026-08-04,squat,A,1,squat,270,arm,right_shoulder_pitch,49.14444444,0.03866626362,1.272402894,0,1.272402894
+8,2026-08-04,squat,A,1,squat,270,arm,right_shoulder_roll,50.82222222,0.001933313181,1.425651888,0,1.425651888
+8,2026-08-04,squat,A,1,squat,270,arm,right_shoulder_yaw,51,0,0.08845473753,0,0.08845473753
+8,2026-08-04,squat,A,1,squat,270,arm,right_elbow,48,0,0.1561432279,0,0.1561432279
+8,2026-08-04,squat,A,1,squat,270,arm,right_wrist_roll,45,0,0.01174580595,0,0.01174580595
+8,2026-08-04,squat,A,1,squat,270,waist,waist_pitch,48.28148148,0.03866626362,1.90179418,-0.3790913795,1.5227028
+8,2026-08-04,squat,A,1,squat,270,waist,waist_roll,47.21481481,-0.03866626362,1.90179418,0.3790913795,2.280885559
+5,2026-08-04,xray,A,1,xray,253,arm,left_shoulder_pitch,47.26482213,0.08313247744,1.911830381,0,1.911830381
+5,2026-08-04,xray,A,1,xray,253,arm,left_shoulder_roll,45.97628458,-0.01246987162,1.109091597,0,1.109091597
+5,2026-08-04,xray,A,1,xray,253,arm,left_shoulder_yaw,42,0,0.37664721,0,0.37664721
+5,2026-08-04,xray,A,1,xray,253,arm,left_elbow,43.81818182,0.2078311936,3.531194621,0,3.531194621
+5,2026-08-04,xray,A,1,xray,253,arm,left_wrist_roll,43,0,0.01882259878,0,0.01882259878
+5,2026-08-04,xray,A,1,xray,253,arm,right_shoulder_pitch,52.88932806,0.2992769188,6.653723591,0,6.653723591
+5,2026-08-04,xray,A,1,xray,253,arm,right_shoulder_roll,47.26482213,-0.04156623872,0.6887819651,0,0.6887819651
+5,2026-08-04,xray,A,1,xray,253,arm,right_shoulder_yaw,48,0,0.07208654852,0,0.07208654852
+5,2026-08-04,xray,A,1,xray,253,arm,right_elbow,48.20948617,-0.04156623872,1.230752666,0,1.230752666
+5,2026-08-04,xray,A,1,xray,253,arm,right_wrist_roll,43,0,0.004735685757,0,0.004735685757
+5,2026-08-04,xray,A,1,xray,253,waist,waist_pitch,62.19762846,1.130601693,11.03607555,5.081971209,16.11804676
+5,2026-08-04,xray,A,1,xray,253,waist,waist_roll,52.98418972,0.1891263862,11.03607555,-5.081971209,5.954104337
+12,2026-11-06,Step in place - Run 1,B,2,step in place,343,arm,left_shoulder_pitch,52.43148688,0.02993762982,0.9244049608,0,0.9244049608
+12,2026-11-06,Step in place - Run 1,B,2,step in place,343,arm,left_shoulder_roll,50.45772595,0.02993762982,1.956338629,0,1.956338629
+12,2026-11-06,Step in place - Run 1,B,2,step in place,343,arm,left_shoulder_yaw,48,0,0.2030679327,0,0.2030679327
+12,2026-11-06,Step in place - Run 1,B,2,step in place,343,arm,left_elbow,45,0,0.3823304474,0,0.3823304474
+12,2026-11-06,Step in place - Run 1,B,2,step in place,343,arm,left_wrist_roll,48,0,0.0004615599889,0,0.0004615599889
+12,2026-11-06,Step in place - Run 1,B,2,step in place,343,arm,right_shoulder_pitch,50.44314869,0.01796257789,0.7362804942,0,0.7362804942
+12,2026-11-06,Step in place - Run 1,B,2,step in place,343,arm,right_shoulder_roll,53.49562682,0.02993762982,2.493982166,0,2.493982166
+12,2026-11-06,Step in place - Run 1,B,2,step in place,343,arm,right_shoulder_yaw,47,0,0.1475773446,0,0.1475773446
+12,2026-11-06,Step in place - Run 1,B,2,step in place,343,arm,right_elbow,46,0,0.2813448143,0,0.2813448143
+12,2026-11-06,Step in place - Run 1,B,2,step in place,343,arm,right_wrist_roll,48,0,0.009903231121,0,0.009903231121
+12,2026-11-06,Step in place - Run 1,B,2,step in place,343,waist,waist_pitch,45,0,0.6424272208,-0.1952993301,0.4471278907
+12,2026-11-06,Step in place - Run 1,B,2,step in place,343,waist,waist_roll,46.89212828,-0.02993762982,0.6424272208,0.1952993301,0.8377265509
+13,2026-11-06,Step in place - Run 2,B,2,step in place,303,arm,left_shoulder_pitch,52.55115512,0.03419402244,1.008622738,0,1.008622738
+13,2026-11-06,Step in place - Run 2,B,2,step in place,303,arm,left_shoulder_roll,50.52145215,0.03419402244,2.179715408,0,2.179715408
+13,2026-11-06,Step in place - Run 2,B,2,step in place,303,arm,left_shoulder_yaw,48,0,0.2140169034,0,0.2140169034
+13,2026-11-06,Step in place - Run 2,B,2,step in place,303,arm,left_elbow,45,0,0.4550947125,0,0.4550947125
+13,2026-11-06,Step in place - Run 2,B,2,step in place,303,arm,left_wrist_roll,48,0,0.0007941878409,0,0.0007941878409
+13,2026-11-06,Step in place - Run 2,B,2,step in place,303,arm,right_shoulder_pitch,50.53135314,0.03077462019,0.8461277257,0,0.8461277257
+13,2026-11-06,Step in place - Run 2,B,2,step in place,303,arm,right_shoulder_roll,53.07920792,0.06838804487,2.823120418,0,2.823120418
+13,2026-11-06,Step in place - Run 2,B,2,step in place,303,arm,right_shoulder_yaw,47,0,0.1629171857,0,0.1629171857
+13,2026-11-06,Step in place - Run 2,B,2,step in place,303,arm,right_elbow,46,0,0.3186699611,0,0.3186699611
+13,2026-11-06,Step in place - Run 2,B,2,step in place,303,arm,right_wrist_roll,48,0,0.01170800075,0,0.01170800075
+13,2026-11-06,Step in place - Run 2,B,2,step in place,303,waist,waist_pitch,45,0,0.6529420118,-0.152587883,0.5003541288
+13,2026-11-06,Step in place - Run 2,B,2,step in place,303,waist,waist_roll,46,0,0.6529420118,0.152587883,0.8055298948
+14,2026-11-06,Step in place - Run 3,B,2,step in place,321,arm,left_shoulder_pitch,52.56074766,0.03215968992,1.028110928,0,1.028110928
+14,2026-11-06,Step in place - Run 3,B,2,step in place,321,arm,left_shoulder_roll,50.16199377,0.06431937984,2.048453073,0,2.048453073
+14,2026-11-06,Step in place - Run 3,B,2,step in place,321,arm,left_shoulder_yaw,48,0,0.1932528955,0,0.1932528955
+14,2026-11-06,Step in place - Run 3,B,2,step in place,321,arm,left_elbow,45,0,0.5835266839,0,0.5835266839
+14,2026-11-06,Step in place - Run 3,B,2,step in place,321,arm,left_wrist_roll,48,0,0.002746100761,0,0.002746100761
+14,2026-11-06,Step in place - Run 3,B,2,step in place,321,arm,right_shoulder_pitch,50.55451713,0.03215968992,0.8348461956,0,0.8348461956
+14,2026-11-06,Step in place - Run 3,B,2,step in place,321,arm,right_shoulder_roll,53.10280374,0.06431937984,2.754698108,0,2.754698108
+14,2026-11-06,Step in place - Run 3,B,2,step in place,321,arm,right_shoulder_yaw,47,0,0.1543655836,0,0.1543655836
+14,2026-11-06,Step in place - Run 3,B,2,step in place,321,arm,right_elbow,45.23987539,0,0.4422642622,0,0.4422642622
+14,2026-11-06,Step in place - Run 3,B,2,step in place,321,arm,right_wrist_roll,48,0,0.01073583358,0,0.01073583358
+14,2026-11-06,Step in place - Run 3,B,2,step in place,321,waist,waist_pitch,45,0,0.5585111875,-0.1674269604,0.3910842271
+14,2026-11-06,Step in place - Run 3,B,2,step in place,321,waist,waist_roll,46,0,0.5585111875,0.1674269604,0.7259381479
+15,2026-11-06,Turn around - Repeat Count 3 - Run 1,B,2,turn around,134,arm,left_shoulder_pitch,52,0,0.2317921748,0,0.2317921748
+15,2026-11-06,Turn around - Repeat Count 3 - Run 1,B,2,turn around,134,arm,left_shoulder_roll,50.09701493,0.04994686809,1.435582208,0,1.435582208
+15,2026-11-06,Turn around - Repeat Count 3 - Run 1,B,2,turn around,134,arm,left_shoulder_yaw,47.15671642,0.07684133552,0.1004899039,0,0.1004899039
+15,2026-11-06,Turn around - Repeat Count 3 - Run 1,B,2,turn around,134,arm,left_elbow,45,0,0.0721633198,0,0.0721633198
+15,2026-11-06,Turn around - Repeat Count 3 - Run 1,B,2,turn around,134,arm,left_wrist_roll,48,0,0.01271246433,0,0.01271246433
+15,2026-11-06,Turn around - Repeat Count 3 - Run 1,B,2,turn around,134,arm,right_shoulder_pitch,50,0,0.1612734415,0,0.1612734415
+15,2026-11-06,Turn around - Repeat Count 3 - Run 1,B,2,turn around,134,arm,right_shoulder_roll,52.7761194,0,1.616656848,0,1.616656848
+15,2026-11-06,Turn around - Repeat Count 3 - Run 1,B,2,turn around,134,arm,right_shoulder_yaw,46,0,0.03540586719,0,0.03540586719
+15,2026-11-06,Turn around - Repeat Count 3 - Run 1,B,2,turn around,134,arm,right_elbow,45,0,0.07790992077,0,0.07790992077
+15,2026-11-06,Turn around - Repeat Count 3 - Run 1,B,2,turn around,134,arm,right_wrist_roll,48,0,0.01404514646,0,0.01404514646
+15,2026-11-06,Turn around - Repeat Count 3 - Run 1,B,2,turn around,134,waist,waist_pitch,45,0,0.7140309856,-0.1636020623,0.5504289234
+15,2026-11-06,Turn around - Repeat Count 3 - Run 1,B,2,turn around,134,waist,waist_roll,46,0,0.7140309856,0.1636020623,0.8776330479
+17,2026-11-06,Turn around - Repeat Count 3 - Run 3,B,2,turn around,127,arm,left_shoulder_pitch,52,0,0.2358121758,0,0.2358121758
+17,2026-11-06,Turn around - Repeat Count 3 - Run 3,B,2,turn around,127,arm,left_shoulder_roll,50.05511811,0.03129999329,1.400512506,0,1.400512506
+17,2026-11-06,Turn around - Repeat Count 3 - Run 3,B,2,turn around,127,arm,left_shoulder_yaw,47,0,0.113857211,0,0.113857211
+17,2026-11-06,Turn around - Repeat Count 3 - Run 3,B,2,turn around,127,arm,left_elbow,45,0,0.1086215943,0,0.1086215943
+17,2026-11-06,Turn around - Repeat Count 3 - Run 3,B,2,turn around,127,arm,left_wrist_roll,48,0,0.009972603224,0,0.009972603224
+17,2026-11-06,Turn around - Repeat Count 3 - Run 3,B,2,turn around,127,arm,right_shoulder_pitch,50,0,0.1867569406,0,0.1867569406
+17,2026-11-06,Turn around - Repeat Count 3 - Run 3,B,2,turn around,127,arm,right_shoulder_roll,53.00787402,0.004471427612,1.433382207,0,1.433382207
+17,2026-11-06,Turn around - Repeat Count 3 - Run 3,B,2,turn around,127,arm,right_shoulder_yaw,46,0,0.03996022112,0,0.03996022112
+17,2026-11-06,Turn around - Repeat Count 3 - Run 3,B,2,turn around,127,arm,right_elbow,45,0,0.07765666131,0,0.07765666131
+17,2026-11-06,Turn around - Repeat Count 3 - Run 3,B,2,turn around,127,arm,right_wrist_roll,48,0,0.01061084983,0,0.01061084983
+17,2026-11-06,Turn around - Repeat Count 3 - Run 3,B,2,turn around,127,waist,waist_pitch,44,0,0.68792723,-0.1988236811,0.4891035489
+17,2026-11-06,Turn around - Repeat Count 3 - Run 3,B,2,turn around,127,waist,waist_roll,46,0,0.68792723,0.1988236811,0.8867509111
+18,2026-11-06,Turn around - Repeat Count 5 - Run 1,B,2,turn around,156,arm,left_shoulder_pitch,52,0,0.2657095289,0,0.2657095289
+18,2026-11-06,Turn around - Repeat Count 5 - Run 1,B,2,turn around,156,arm,left_shoulder_roll,50.14102564,0.07117982617,1.473637323,0,1.473637323
+18,2026-11-06,Turn around - Repeat Count 5 - Run 1,B,2,turn around,156,arm,left_shoulder_yaw,48,0,0.1008264067,0,0.1008264067
+18,2026-11-06,Turn around - Repeat Count 5 - Run 1,B,2,turn around,156,arm,left_elbow,45,0,0.1045610188,0,0.1045610188
+18,2026-11-06,Turn around - Repeat Count 5 - Run 1,B,2,turn around,156,arm,left_wrist_roll,48,0,0.01126066721,0,0.01126066721
+18,2026-11-06,Turn around - Repeat Count 5 - Run 1,B,2,turn around,156,arm,right_shoulder_pitch,50,0,0.1898075983,0,0.1898075983
+18,2026-11-06,Turn around - Repeat Count 5 - Run 1,B,2,turn around,156,arm,right_shoulder_roll,53,0,1.590157219,0,1.590157219
+18,2026-11-06,Turn around - Repeat Count 5 - Run 1,B,2,turn around,156,arm,right_shoulder_yaw,46.00641026,0.003558991309,0.02540348069,0,0.02540348069
+18,2026-11-06,Turn around - Repeat Count 5 - Run 1,B,2,turn around,156,arm,right_elbow,45,0,0.07962842396,0,0.07962842396
+18,2026-11-06,Turn around - Repeat Count 5 - Run 1,B,2,turn around,156,arm,right_wrist_roll,48,0,0.01852692327,0,0.01852692327
+18,2026-11-06,Turn around - Repeat Count 5 - Run 1,B,2,turn around,156,waist,waist_pitch,44,0,0.7564327445,-0.2276910556,0.5287416889
+18,2026-11-06,Turn around - Repeat Count 5 - Run 1,B,2,turn around,156,waist,waist_roll,46,0,0.7564327445,0.2276910556,0.9841238
+19,2026-11-06,Turn around - Repeat Count 5 - Run 2,B,2,turn around,164,arm,left_shoulder_pitch,52,0,0.2681316802,0,0.2681316802
+19,2026-11-06,Turn around - Repeat Count 5 - Run 2,B,2,turn around,164,arm,left_shoulder_roll,50.1097561,0.06052076018,1.587583584,0,1.587583584
+19,2026-11-06,Turn around - Repeat Count 5 - Run 2,B,2,turn around,164,arm,left_shoulder_yaw,47,0,0.1004412625,0,0.1004412625
+19,2026-11-06,Turn around - Repeat Count 5 - Run 2,B,2,turn around,164,arm,left_elbow,45,0,0.1154850561,0,0.1154850561
+19,2026-11-06,Turn around - Repeat Count 5 - Run 2,B,2,turn around,164,arm,left_wrist_roll,48,0,0.0185035572,0,0.0185035572
+19,2026-11-06,Turn around - Repeat Count 5 - Run 2,B,2,turn around,164,arm,right_shoulder_pitch,50,0,0.1385063849,0,0.1385063849
+19,2026-11-06,Turn around - Repeat Count 5 - Run 2,B,2,turn around,164,arm,right_shoulder_roll,52.26219512,0.06724528909,1.441748369,0,1.441748369
+19,2026-11-06,Turn around - Repeat Count 5 - Run 2,B,2,turn around,164,arm,right_shoulder_yaw,46.54268293,0.05043396682,0.01864256556,0,0.01864256556
+19,2026-11-06,Turn around - Repeat Count 5 - Run 2,B,2,turn around,164,arm,right_elbow,45,0,0.0904867194,0,0.0904867194
+19,2026-11-06,Turn around - Repeat Count 5 - Run 2,B,2,turn around,164,arm,right_wrist_roll,48,0,0.01881246466,0,0.01881246466
+19,2026-11-06,Turn around - Repeat Count 5 - Run 2,B,2,turn around,164,waist,waist_pitch,44,0,0.7327570038,-0.3158782549,0.4168787489
+19,2026-11-06,Turn around - Repeat Count 5 - Run 2,B,2,turn around,164,waist,waist_roll,45.42073171,0.06724528909,0.7327570038,0.3158782549,1.048635259
+20,2026-11-06,Turn around - Repeat Count 5 - Run 3,B,2,turn around,165,arm,left_shoulder_pitch,52,0,0.2618089997,0,0.2618089997
+20,2026-11-06,Turn around - Repeat Count 5 - Run 3,B,2,turn around,165,arm,left_shoulder_roll,50.12727273,0.06677279705,1.56404549,0,1.56404549
+20,2026-11-06,Turn around - Repeat Count 5 - Run 3,B,2,turn around,165,arm,left_shoulder_yaw,47.12121212,0.06677279705,0.1224303256,0,0.1224303256
+20,2026-11-06,Turn around - Repeat Count 5 - Run 3,B,2,turn around,165,arm,left_elbow,45,0,0.1054743012,0,0.1054743012
+20,2026-11-06,Turn around - Repeat Count 5 - Run 3,B,2,turn around,165,arm,left_wrist_roll,48,0,0.01917435444,0,0.01917435444
+20,2026-11-06,Turn around - Repeat Count 5 - Run 3,B,2,turn around,165,arm,right_shoulder_pitch,50,0,0.1893409932,0,0.1893409932
+20,2026-11-06,Turn around - Repeat Count 5 - Run 3,B,2,turn around,165,arm,right_shoulder_roll,52.21818182,0.06677279705,1.422655735,0,1.422655735
+20,2026-11-06,Turn around - Repeat Count 5 - Run 3,B,2,turn around,165,arm,right_shoulder_yaw,46.04242424,0.01335455941,0.02077861388,0,0.02077861388
+20,2026-11-06,Turn around - Repeat Count 5 - Run 3,B,2,turn around,165,arm,right_elbow,45,0,0.07375755477,0,0.07375755477
+20,2026-11-06,Turn around - Repeat Count 5 - Run 3,B,2,turn around,165,arm,right_wrist_roll,48,0,0.01846817325,0,0.01846817325
+20,2026-11-06,Turn around - Repeat Count 5 - Run 3,B,2,turn around,165,waist,waist_pitch,44,0,0.9202487175,-0.2822696842,0.6379790333
+20,2026-11-06,Turn around - Repeat Count 5 - Run 3,B,2,turn around,165,waist,waist_roll,46,0,0.9202487175,0.2822696842,1.202518402
+9,2026-11-06,Walk forward - Run 1,B,2,walk forward,227,arm,left_shoulder_pitch,50,0,0.1287889658,0,0.1287889658
+9,2026-11-06,Walk forward - Run 1,B,2,walk forward,227,arm,left_shoulder_roll,48.33480176,0,1.163815273,0,1.163815273
+9,2026-11-06,Walk forward - Run 1,B,2,walk forward,227,arm,left_shoulder_yaw,46.01321586,0,0.2265565457,0,0.2265565457
+9,2026-11-06,Walk forward - Run 1,B,2,walk forward,227,arm,left_elbow,45,0,0.1106950171,0,0.1106950171
+9,2026-11-06,Walk forward - Run 1,B,2,walk forward,227,arm,left_wrist_roll,48,0,0.01212400566,0,0.01212400566
+9,2026-11-06,Walk forward - Run 1,B,2,walk forward,227,arm,right_shoulder_pitch,49,0,0.2815525529,0,0.2815525529
+9,2026-11-06,Walk forward - Run 1,B,2,walk forward,227,arm,right_shoulder_roll,51.28193833,0.02104347254,1.298457015,0,1.298457015
+9,2026-11-06,Walk forward - Run 1,B,2,walk forward,227,arm,right_shoulder_yaw,47,0,0.03919518626,0,0.03919518626
+9,2026-11-06,Walk forward - Run 1,B,2,walk forward,227,arm,right_elbow,46,0,0.1126756992,0,0.1126756992
+9,2026-11-06,Walk forward - Run 1,B,2,walk forward,227,arm,right_wrist_roll,48,0,0.01195104469,0,0.01195104469
+9,2026-11-06,Walk forward - Run 1,B,2,walk forward,227,waist,waist_pitch,45.64317181,-0.04676327232,0.952472049,-0.105404339,0.84706771
+9,2026-11-06,Walk forward - Run 1,B,2,walk forward,227,waist,waist_roll,46.47136564,0.04676327232,0.952472049,0.105404339,1.057876388
+10,2026-11-06,Walk forward - Run 2,B,2,walk forward,248,arm,left_shoulder_pitch,51,0,0.2234949251,0,0.2234949251
+10,2026-11-06,Walk forward - Run 2,B,2,walk forward,248,arm,left_shoulder_roll,50,0,1.835183256,0,1.835183256
+10,2026-11-06,Walk forward - Run 2,B,2,walk forward,248,arm,left_shoulder_yaw,47,0,0.2395613519,0,0.2395613519
+10,2026-11-06,Walk forward - Run 2,B,2,walk forward,248,arm,left_elbow,45,0,0.1065920087,0,0.1065920087
+10,2026-11-06,Walk forward - Run 2,B,2,walk forward,248,arm,left_wrist_roll,48,0,0.01328825252,0,0.01328825252
+10,2026-11-06,Walk forward - Run 2,B,2,walk forward,248,arm,right_shoulder_pitch,49,0,0.3717595474,0,0.3717595474
+10,2026-11-06,Walk forward - Run 2,B,2,walk forward,248,arm,right_shoulder_roll,52.09274194,0.04249175817,1.841863131,0,1.841863131
+10,2026-11-06,Walk forward - Run 2,B,2,walk forward,248,arm,right_shoulder_yaw,47,0,0.05654912383,0,0.05654912383
+10,2026-11-06,Walk forward - Run 2,B,2,walk forward,248,arm,right_elbow,46,0,0.1058770374,0,0.1058770374
+10,2026-11-06,Walk forward - Run 2,B,2,walk forward,248,arm,right_wrist_roll,48,0,0.03132085039,0,0.03132085039
+10,2026-11-06,Walk forward - Run 2,B,2,walk forward,248,waist,waist_pitch,45.97177419,0,1.558329616,-0.2660281088,1.292301507
+10,2026-11-06,Walk forward - Run 2,B,2,walk forward,248,waist,waist_roll,48.79435484,-0.04249175817,1.558329616,0.2660281088,1.824357725
+11,2026-11-06,Walk forward - Run 3,B,2,walk forward,204,arm,left_shoulder_pitch,51,0,0.1330094977,0,0.1330094977
+11,2026-11-06,Walk forward - Run 3,B,2,walk forward,204,arm,left_shoulder_roll,49.17647059,0.02607828212,1.420992665,0,1.420992665
+11,2026-11-06,Walk forward - Run 3,B,2,walk forward,204,arm,left_shoulder_yaw,47,0,0.1713652052,0,0.1713652052
+11,2026-11-06,Walk forward - Run 3,B,2,walk forward,204,arm,left_elbow,45,0,0.0925305057,0,0.0925305057
+11,2026-11-06,Walk forward - Run 3,B,2,walk forward,204,arm,left_wrist_roll,48,0,0.01338538448,0,0.01338538448
+11,2026-11-06,Walk forward - Run 3,B,2,walk forward,204,arm,right_shoulder_pitch,50,0,0.2331142934,0,0.2331142934
+11,2026-11-06,Walk forward - Run 3,B,2,walk forward,204,arm,right_shoulder_roll,52,0,1.233659366,0,1.233659366
+11,2026-11-06,Walk forward - Run 3,B,2,walk forward,204,arm,right_shoulder_yaw,47,0,0.02869538361,0,0.02869538361
+11,2026-11-06,Walk forward - Run 3,B,2,walk forward,204,arm,right_elbow,46,0,0.1202946242,0,0.1202946242
+11,2026-11-06,Walk forward - Run 3,B,2,walk forward,204,arm,right_wrist_roll,48,0,0.01701731858,0,0.01701731858
+11,2026-11-06,Walk forward - Run 3,B,2,walk forward,204,waist,waist_pitch,45.35294118,0.05215656425,1.28434839,0.293955741,1.578304131
+11,2026-11-06,Walk forward - Run 3,B,2,walk forward,204,waist,waist_roll,47,0,1.28434839,-0.293955741,0.9903926485
+39,2026-11-11,hands up - Run 1,B,3,hands up,298,arm,left_shoulder_pitch,47.91275168,0.08702616938,1.59534846,0,1.59534846
+39,2026-11-11,hands up - Run 1,B,3,hands up,298,arm,left_shoulder_roll,44,0,0.5049464667,0,0.5049464667
+39,2026-11-11,hands up - Run 1,B,3,hands up,298,arm,left_shoulder_yaw,44,0,0.1384162524,0,0.1384162524
+39,2026-11-11,hands up - Run 1,B,3,hands up,298,arm,left_elbow,41.96308725,0.09398826293,1.562223421,0,1.562223421
+39,2026-11-11,hands up - Run 1,B,3,hands up,298,arm,left_wrist_roll,44,0,0.005945846754,0,0.005945846754
+39,2026-11-11,hands up - Run 1,B,3,hands up,298,arm,right_shoulder_pitch,47.43288591,0.06962093551,1.57446362,0,1.57446362
+39,2026-11-11,hands up - Run 1,B,3,hands up,298,arm,right_shoulder_roll,47,0,0.2462107565,0,0.2462107565
+39,2026-11-11,hands up - Run 1,B,3,hands up,298,arm,right_shoulder_yaw,43,0,0.01963531952,0,0.01963531952
+39,2026-11-11,hands up - Run 1,B,3,hands up,298,arm,right_elbow,42.66778523,0.06962093551,1.214410512,0,1.214410512
+39,2026-11-11,hands up - Run 1,B,3,hands up,298,arm,right_wrist_roll,44,0,0.01697902629,0,0.01697902629
+39,2026-11-11,hands up - Run 1,B,3,hands up,298,waist,waist_pitch,48.02013423,0.1322797775,3.071565171,0.4610842701,3.532649442
+39,2026-11-11,hands up - Run 1,B,3,hands up,298,waist,waist_roll,47.49328859,0.07484250567,3.071565171,-0.4610842701,2.610480901
+41,2026-11-11,hands up - Run 2,B,3,hands up,306,arm,left_shoulder_pitch,47.97385621,0.06932092404,1.374911595,0,1.374911595
+41,2026-11-11,hands up - Run 2,B,3,hands up,306,arm,left_shoulder_roll,44,0,0.5878145652,0,0.5878145652
+41,2026-11-11,hands up - Run 2,B,3,hands up,306,arm,left_shoulder_yaw,43.13071895,-0.0338150849,0.1149346758,0,0.1149346758
+41,2026-11-11,hands up - Run 2,B,3,hands up,306,arm,left_elbow,42.81372549,0.06763016979,1.470393177,0,1.470393177
+41,2026-11-11,hands up - Run 2,B,3,hands up,306,arm,left_wrist_roll,44.62418301,0.0338150849,0.008522110898,0,0.008522110898
+41,2026-11-11,hands up - Run 2,B,3,hands up,306,arm,right_shoulder_pitch,47.83660131,0.06763016979,1.509555981,0,1.509555981
+41,2026-11-11,hands up - Run 2,B,3,hands up,306,arm,right_shoulder_roll,47,0,0.306738047,0,0.306738047
+41,2026-11-11,hands up - Run 2,B,3,hands up,306,arm,right_shoulder_yaw,43,0,0.02074858763,0,0.02074858763
+41,2026-11-11,hands up - Run 2,B,3,hands up,306,arm,right_elbow,42.9248366,0.06763016979,1.294773125,0,1.294773125
+41,2026-11-11,hands up - Run 2,B,3,hands up,306,arm,right_wrist_roll,44.00980392,0.00338150849,0.02241244804,0,0.02241244804
+41,2026-11-11,hands up - Run 2,B,3,hands up,306,waist,waist_pitch,46.68627451,0.152167882,2.679233198,0.5045612174,3.183794415
+41,2026-11-11,hands up - Run 2,B,3,hands up,306,waist,waist_roll,46.62418301,0.1403326023,2.679233198,-0.5045612174,2.17467198
+40,2026-11-11,hands up - Run 3,B,3,hands up,293,arm,left_shoulder_pitch,47.94197952,0.07089265032,1.457233542,0,1.457233542
+40,2026-11-11,hands up - Run 3,B,3,hands up,293,arm,left_shoulder_roll,44,0,0.6059285306,0,0.6059285306
+40,2026-11-11,hands up - Run 3,B,3,hands up,293,arm,left_shoulder_yaw,43.83276451,-0.03544632516,0.1293234252,0,0.1293234252
+40,2026-11-11,hands up - Run 3,B,3,hands up,293,arm,left_elbow,42.35836177,0.07089265032,1.476464772,0,1.476464772
+40,2026-11-11,hands up - Run 3,B,3,hands up,293,arm,left_wrist_roll,44,0,0.01091887734,0,0.01091887734
+40,2026-11-11,hands up - Run 3,B,3,hands up,293,arm,right_shoulder_pitch,47.87372014,0.07089265032,1.534231944,0,1.534231944
+40,2026-11-11,hands up - Run 3,B,3,hands up,293,arm,right_shoulder_roll,47,0,0.3339205361,0,0.3339205361
+40,2026-11-11,hands up - Run 3,B,3,hands up,293,arm,right_shoulder_yaw,43,0,0.01488269781,0,0.01488269781
+40,2026-11-11,hands up - Run 3,B,3,hands up,293,arm,right_elbow,42.77474403,0.07089265032,1.354260662,0,1.354260662
+40,2026-11-11,hands up - Run 3,B,3,hands up,293,arm,right_wrist_roll,44,0,0.014463406,0,0.014463406
+40,2026-11-11,hands up - Run 3,B,3,hands up,293,waist,waist_pitch,47.54948805,0.1276067706,2.994303467,0.5125738566,3.506877324
+40,2026-11-11,hands up - Run 3,B,3,hands up,293,waist,waist_roll,47.25255973,0.1063389755,2.994303467,-0.5125738566,2.481729611
+36,2026-11-11,heart - Run 1,B,3,heart,292,arm,left_shoulder_pitch,48.41438356,0.2488540431,4.464719368,0,4.464719368
+36,2026-11-11,heart - Run 1,B,3,heart,292,arm,left_shoulder_roll,44,0,0.8112368122,0,0.8112368122
+36,2026-11-11,heart - Run 1,B,3,heart,292,arm,left_shoulder_yaw,43.36986301,0.02844046207,0.5133138632,0,0.5133138632
+36,2026-11-11,heart - Run 1,B,3,heart,292,arm,left_elbow,41,0,0.1236028692,0,0.1236028692
+36,2026-11-11,heart - Run 1,B,3,heart,292,arm,left_wrist_roll,44,0,0.01639970693,0,0.01639970693
+36,2026-11-11,heart - Run 1,B,3,heart,292,arm,right_shoulder_pitch,47.83219178,0.177752888,3.27126225,0,3.27126225
+36,2026-11-11,heart - Run 1,B,3,heart,292,arm,right_shoulder_roll,47,0,0.7166901812,0,0.7166901812
+36,2026-11-11,heart - Run 1,B,3,heart,292,arm,right_shoulder_yaw,42,0,0.1676057856,0,0.1676057856
+36,2026-11-11,heart - Run 1,B,3,heart,292,arm,right_elbow,41.23287671,0.03555057759,0.188702896,0,0.188702896
+36,2026-11-11,heart - Run 1,B,3,heart,292,arm,right_wrist_roll,44,0,0.004445834331,0,0.004445834331
+36,2026-11-11,heart - Run 1,B,3,heart,292,waist,waist_pitch,47.3869863,0.4621575087,7.174791784,0.2996168918,7.474408676
+36,2026-11-11,heart - Run 1,B,3,heart,292,waist,waist_roll,48.14383562,0.5385912505,7.174791784,-0.2996168918,6.875174892
+38,2026-11-11,heart - Run 2,B,3,heart,279,arm,left_shoulder_pitch,49.57706093,0.267010728,4.483292298,0,4.483292298
+38,2026-11-11,heart - Run 2,B,3,heart,279,arm,left_shoulder_roll,44,0,0.8522548827,0,0.8522548827
+38,2026-11-11,heart - Run 2,B,3,heart,279,arm,left_shoulder_yaw,44,0,0.6458256418,0,0.6458256418
+38,2026-11-11,heart - Run 2,B,3,heart,279,arm,left_elbow,41,0,0.1011673057,0,0.1011673057
+38,2026-11-11,heart - Run 2,B,3,heart,279,arm,left_wrist_roll,44,0,0.02731417386,0,0.02731417386
+38,2026-11-11,heart - Run 2,B,3,heart,279,arm,right_shoulder_pitch,48.33691756,0.2203305308,3.340187086,0,3.340187086
+38,2026-11-11,heart - Run 2,B,3,heart,279,arm,right_shoulder_roll,47,0,0.6108714888,0,0.6108714888
+38,2026-11-11,heart - Run 2,B,3,heart,279,arm,right_shoulder_yaw,42.93548387,0.01307045522,0.150484438,0,0.150484438
+38,2026-11-11,heart - Run 2,B,3,heart,279,arm,right_elbow,42,0,0.1866869536,0,0.1866869536
+38,2026-11-11,heart - Run 2,B,3,heart,279,arm,right_wrist_roll,44,0,0.007245042626,0,0.007245042626
+38,2026-11-11,heart - Run 2,B,3,heart,279,waist,waist_pitch,51,0.4724035957,7.94919566,0.4333786879,8.382574348
+38,2026-11-11,heart - Run 2,B,3,heart,279,waist,waist_roll,50.47670251,0.5097477534,7.94919566,-0.4333786879,7.515816973
+37,2026-11-11,heart - Run 3,B,3,heart,311,arm,left_shoulder_pitch,48.65273312,0.2436117772,4.214695519,0,4.214695519
+37,2026-11-11,heart - Run 3,B,3,heart,311,arm,left_shoulder_roll,44,0,0.8378379987,0,0.8378379987
+37,2026-11-11,heart - Run 3,B,3,heart,311,arm,left_shoulder_yaw,43.52733119,0.03292051044,0.6470372797,0,0.6470372797
+37,2026-11-11,heart - Run 3,B,3,heart,311,arm,left_elbow,41,0,0.09138495973,0,0.09138495973
+37,2026-11-11,heart - Run 3,B,3,heart,311,arm,left_wrist_roll,44,0,0.02314759853,0,0.02314759853
+37,2026-11-11,heart - Run 3,B,3,heart,311,arm,right_shoulder_pitch,48.1607717,0.1942310116,3.119187771,0,3.119187771
+37,2026-11-11,heart - Run 3,B,3,heart,311,arm,right_shoulder_roll,47,0,0.6046230928,0,0.6046230928
+37,2026-11-11,heart - Run 3,B,3,heart,311,arm,right_shoulder_yaw,42.24758842,0.02304435731,0.1581155279,0,0.1581155279
+37,2026-11-11,heart - Run 3,B,3,heart,311,arm,right_elbow,42,0,0.1675553825,0,0.1675553825
+37,2026-11-11,heart - Run 3,B,3,heart,311,arm,right_wrist_roll,44,0,0.004654768671,0,0.004654768671
+37,2026-11-11,heart - Run 3,B,3,heart,311,waist,waist_pitch,47.09324759,0.3489574106,6.987883988,0.2666075306,7.254491518
+37,2026-11-11,heart - Run 3,B,3,heart,311,waist,waist_roll,48.33762058,0.3736477935,6.987883988,-0.2666075306,6.721276457
+33,2026-11-11,high five - Run 1,B,3,high five,320,arm,left_shoulder_pitch,45,0,0.2491760563,0,0.2491760563
+33,2026-11-11,high five - Run 1,B,3,high five,320,arm,left_shoulder_roll,43,0,0.9337344036,0,0.9337344036
+33,2026-11-11,high five - Run 1,B,3,high five,320,arm,left_shoulder_yaw,44,0,0.2620431141,0,0.2620431141
+33,2026-11-11,high five - Run 1,B,3,high five,320,arm,left_elbow,41,0,0.05372026323,0,0.05372026323
+33,2026-11-11,high five - Run 1,B,3,high five,320,arm,left_wrist_roll,43,0,0.009403915525,0,0.009403915525
+33,2026-11-11,high five - Run 1,B,3,high five,320,arm,right_shoulder_pitch,48.009375,0.2031633012,3.7451054,0,3.7451054
+33,2026-11-11,high five - Run 1,B,3,high five,320,arm,right_shoulder_roll,46.19375,0.01612407153,0.9938189329,0,0.9938189329
+33,2026-11-11,high five - Run 1,B,3,high five,320,arm,right_shoulder_yaw,42,0,0.0336577852,0,0.0336577852
+33,2026-11-11,high five - Run 1,B,3,high five,320,arm,right_elbow,41,0,0.2182650377,0,0.2182650377
+33,2026-11-11,high five - Run 1,B,3,high five,320,arm,right_wrist_roll,43,0,0.01275623726,0,0.01275623726
+33,2026-11-11,high five - Run 1,B,3,high five,320,waist,waist_pitch,44.36875,0.06449628611,1.957107947,0.2669205994,2.224028546
+33,2026-11-11,high five - Run 1,B,3,high five,320,waist,waist_roll,45.40625,0.03224814305,1.957107947,-0.2669205994,1.690187348
+35,2026-11-11,high five - Run 2,B,3,high five,292,arm,left_shoulder_pitch,46,0,0.2253148839,0,0.2253148839
+35,2026-11-11,high five - Run 2,B,3,high five,292,arm,left_shoulder_roll,44,0,0.9065901994,0,0.9065901994
+35,2026-11-11,high five - Run 2,B,3,high five,292,arm,left_shoulder_yaw,43,0,0.279111648,0,0.279111648
+35,2026-11-11,high five - Run 2,B,3,high five,292,arm,left_elbow,41,0,0.04480099786,0,0.04480099786
+35,2026-11-11,high five - Run 2,B,3,high five,292,arm,left_wrist_roll,44,0,0.005920550109,0,0.005920550109
+35,2026-11-11,high five - Run 2,B,3,high five,292,arm,right_shoulder_pitch,48.50684932,0.2222943952,3.64413546,0,3.64413546
+35,2026-11-11,high five - Run 2,B,3,high five,292,arm,right_shoulder_roll,46.50684932,0.03556710324,0.9414455406,0,0.9414455406
+35,2026-11-11,high five - Run 2,B,3,high five,292,arm,right_shoulder_yaw,42,0,0.03639078053,0,0.03639078053
+35,2026-11-11,high five - Run 2,B,3,high five,292,arm,right_elbow,41,0,0.1669334887,0,0.1669334887
+35,2026-11-11,high five - Run 2,B,3,high five,292,arm,right_wrist_roll,44,0,0.01186712461,0,0.01186712461
+35,2026-11-11,high five - Run 2,B,3,high five,292,waist,waist_pitch,44.28082192,0.03556710324,1.597239597,0.4121733056,2.009412903
+35,2026-11-11,high five - Run 2,B,3,high five,292,waist,waist_roll,44.28767123,0.03556710324,1.597239597,-0.4121733056,1.185066292
+34,2026-11-11,high five - Run 3,B,3,high five,295,arm,left_shoulder_pitch,45.04745763,0.01010913605,0.229738252,0,0.229738252
+34,2026-11-11,high five - Run 3,B,3,high five,295,arm,left_shoulder_roll,43.50169492,0.03369712016,0.8978643664,0,0.8978643664
+34,2026-11-11,high five - Run 3,B,3,high five,295,arm,left_shoulder_yaw,43.82372881,-0.03369712016,0.2689316982,0,0.2689316982
+34,2026-11-11,high five - Run 3,B,3,high five,295,arm,left_elbow,41,0,0.04448277978,0,0.04448277978
+34,2026-11-11,high five - Run 3,B,3,high five,295,arm,left_wrist_roll,43.78983051,0.0202182721,0.00490293741,0,0.00490293741
+34,2026-11-11,high five - Run 3,B,3,high five,295,arm,right_shoulder_pitch,48.88135593,0.200497865,3.762137218,0,3.762137218
+34,2026-11-11,high five - Run 3,B,3,high five,295,arm,right_shoulder_roll,46.5559322,0.03369712016,0.95126431,0,0.95126431
+34,2026-11-11,high five - Run 3,B,3,high five,295,arm,right_shoulder_yaw,42,0,0.03292953585,0,0.03292953585
+34,2026-11-11,high five - Run 3,B,3,high five,295,arm,right_elbow,41,0,0.1771111007,0,0.1771111007
+34,2026-11-11,high five - Run 3,B,3,high five,295,arm,right_wrist_roll,43.70847458,0.03369712016,0.01236467578,0,0.01236467578
+34,2026-11-11,high five - Run 3,B,3,high five,295,waist,waist_pitch,44.29491525,0.1010913605,1.89753844,0.3825139911,2.280052431
+34,2026-11-11,high five - Run 3,B,3,high five,295,waist,waist_roll,44.71864407,0.05728510428,1.89753844,-0.3825139911,1.515024449
+32,2026-11-11,hug - Run 1,B,3,hug,302,arm,left_shoulder_pitch,47.28476821,0.2025754224,3.293368769,0,3.293368769
+32,2026-11-11,hug - Run 1,B,3,hug,302,arm,left_shoulder_roll,43.59933775,0.0583691895,1.954006449,0,1.954006449
+32,2026-11-11,hug - Run 1,B,3,hug,302,arm,left_shoulder_yaw,44,0,0.3743113592,0,0.3743113592
+32,2026-11-11,hug - Run 1,B,3,hug,302,arm,left_elbow,41.25165563,0.1030044521,1.715460228,0,1.715460228
+32,2026-11-11,hug - Run 1,B,3,hug,302,arm,left_wrist_roll,43,0,0.0254184815,0,0.0254184815
+32,2026-11-11,hug - Run 1,B,3,hug,302,arm,right_shoulder_pitch,47.43046358,0.193991718,3.262225782,0,3.262225782
+32,2026-11-11,hug - Run 1,B,3,hug,302,arm,right_shoulder_roll,46.55298013,0.03433481735,1.588942368,0,1.588942368
+32,2026-11-11,hug - Run 1,B,3,hug,302,arm,right_shoulder_yaw,42,0,0.3082635675,0,0.3082635675
+32,2026-11-11,hug - Run 1,B,3,hug,302,arm,right_elbow,41.93377483,0.0686696347,1.481611037,0,1.481611037
+32,2026-11-11,hug - Run 1,B,3,hug,302,arm,right_wrist_roll,43,0,0.007292977947,0,0.007292977947
+32,2026-11-11,hug - Run 1,B,3,hug,302,waist,waist_pitch,45.14900662,0.2163093493,3.831583836,0.2274802228,4.059064059
+32,2026-11-11,hug - Run 1,B,3,hug,302,waist,waist_roll,46.00993377,0.1321890468,3.831583836,-0.2274802228,3.604103613
+30,2026-11-11,hug - Run 2,B,3,hug,287,arm,left_shoulder_pitch,46.46341463,0.2193628355,3.531972943,0,3.531972943
+30,2026-11-11,hug - Run 2,B,3,hug,287,arm,left_shoulder_roll,42.23344948,0.1087749598,2.011733393,0,2.011733393
+30,2026-11-11,hug - Run 2,B,3,hug,287,arm,left_shoulder_yaw,44.44250871,-0.07251663984,0.3969813972,0,0.3969813972
+30,2026-11-11,hug - Run 2,B,3,hug,287,arm,left_elbow,40.93031359,0.07976830383,1.832981881,0,1.832981881
+30,2026-11-11,hug - Run 2,B,3,hug,287,arm,left_wrist_roll,43,0,0.02331368773,0,0.02331368773
+30,2026-11-11,hug - Run 2,B,3,hug,287,arm,right_shoulder_pitch,47.45644599,0.1776657676,3.39897504,0,3.39897504
+30,2026-11-11,hug - Run 2,B,3,hug,287,arm,right_shoulder_roll,45.70731707,0.07251663984,1.611309884,0,1.611309884
+30,2026-11-11,hug - Run 2,B,3,hug,287,arm,right_shoulder_yaw,42,0,0.3496523605,0,0.3496523605
+30,2026-11-11,hug - Run 2,B,3,hug,287,arm,right_elbow,41.18815331,0.1087749598,1.567780409,0,1.567780409
+30,2026-11-11,hug - Run 2,B,3,hug,287,arm,right_wrist_roll,43,0,0.007722686643,0,0.007722686643
+30,2026-11-11,hug - Run 2,B,3,hug,287,waist,waist_pitch,44.58885017,0.2519953234,3.78061114,0.4221621311,4.202773271
+30,2026-11-11,hug - Run 2,B,3,hug,287,waist,waist_roll,44.48083624,0.1812915996,3.78061114,-0.4221621311,3.358449008
+31,2026-11-11,hug - Run 3,B,3,hug,293,arm,left_shoulder_pitch,46.80546075,0.218030399,3.642314433,0,3.642314433
+31,2026-11-11,hug - Run 3,B,3,hug,293,arm,left_shoulder_roll,42.94880546,0.09394805812,2.086300929,0,2.086300929
+31,2026-11-11,hug - Run 3,B,3,hug,293,arm,left_shoulder_yaw,44,0,0.3977479877,0,0.3977479877
+31,2026-11-11,hug - Run 3,B,3,hug,293,arm,left_elbow,41.15358362,0.1063562922,1.910487984,0,1.910487984
+31,2026-11-11,hug - Run 3,B,3,hug,293,arm,left_wrist_roll,43,0,0.02540821892,0,0.02540821892
+31,2026-11-11,hug - Run 3,B,3,hug,293,arm,right_shoulder_pitch,47.44709898,0.2375290526,3.620290807,0,3.620290807
+31,2026-11-11,hug - Run 3,B,3,hug,293,arm,right_shoulder_roll,46.42320819,0.03545209741,1.67319908,0,1.67319908
+31,2026-11-11,hug - Run 3,B,3,hug,293,arm,right_shoulder_yaw,42,0,0.3418135963,0,0.3418135963
+31,2026-11-11,hug - Run 3,B,3,hug,293,arm,right_elbow,41.89419795,0.08153982403,1.658169414,0,1.658169414
+31,2026-11-11,hug - Run 3,B,3,hug,293,arm,right_wrist_roll,43,0,0.006717314086,0,0.006717314086
+31,2026-11-11,hug - Run 3,B,3,hug,293,waist,waist_pitch,45.23549488,0.2499372867,4.14954853,0.359331734,4.508880264
+31,2026-11-11,hug - Run 3,B,3,hug,293,waist,waist_roll,45.57337884,0.177260487,4.14954853,-0.359331734,3.790216796
+29,2026-11-11,reject - Run 1,B,3,reject,292,arm,left_shoulder_pitch,44.97945205,0.09316312301,1.961766688,0,1.961766688
+29,2026-11-11,reject - Run 1,B,3,reject,292,arm,left_shoulder_roll,41,0,0.465077645,0,0.465077645
+29,2026-11-11,reject - Run 1,B,3,reject,292,arm,left_shoulder_yaw,50.76027397,0.6090107856,10.22327195,0,10.22327195
+29,2026-11-11,reject - Run 1,B,3,reject,292,arm,left_elbow,39.99315068,0.003450486037,0.2562882526,0,0.2562882526
+29,2026-11-11,reject - Run 1,B,3,reject,292,arm,left_wrist_roll,43.87328767,0.06900972075,1.424467007,0,1.424467007
+29,2026-11-11,reject - Run 1,B,3,reject,292,arm,right_shoulder_pitch,48.44178082,0.3122689864,6.365519571,0,6.365519571
+29,2026-11-11,reject - Run 1,B,3,reject,292,arm,right_shoulder_roll,45,0,0.7749978406,0,0.7749978406
+29,2026-11-11,reject - Run 1,B,3,reject,292,arm,right_shoulder_yaw,43.34246575,0.1966777041,3.381549304,0,3.381549304
+29,2026-11-11,reject - Run 1,B,3,reject,292,arm,right_elbow,40.03767123,0,0.2160154997,0,0.2160154997
+29,2026-11-11,reject - Run 1,B,3,reject,292,arm,right_wrist_roll,43,0,0.1137179361,0,0.1137179361
+29,2026-11-11,reject - Run 1,B,3,reject,292,waist,waist_pitch,42.60616438,0.1380194415,2.4159775,-0.190782054,2.225195446
+29,2026-11-11,reject - Run 1,B,3,reject,292,waist,waist_roll,44.28424658,0.1949524611,2.4159775,0.190782054,2.606759554
+28,2026-11-11,reject - Run 2,B,3,reject,319,arm,left_shoulder_pitch,44.1661442,0.0647187019,1.399695847,0,1.399695847
+28,2026-11-11,reject - Run 2,B,3,reject,319,arm,left_shoulder_roll,41,0,0.4588338159,0,0.4588338159
+28,2026-11-11,reject - Run 2,B,3,reject,319,arm,left_shoulder_yaw,53.73354232,0.6908721427,12.32349169,0,12.32349169
+28,2026-11-11,reject - Run 2,B,3,reject,319,arm,left_elbow,39,0,0.2639444831,0,0.2639444831
+28,2026-11-11,reject - Run 2,B,3,reject,319,arm,left_wrist_roll,43.27586207,0.07928040982,1.414024602,0,1.414024602
+28,2026-11-11,reject - Run 2,B,3,reject,319,arm,right_shoulder_pitch,50.07523511,0.4012559518,7.244843301,0,7.244843301
+28,2026-11-11,reject - Run 2,B,3,reject,319,arm,right_shoulder_roll,45.05956113,0,0.973092797,0,0.973092797
+28,2026-11-11,reject - Run 2,B,3,reject,319,arm,right_shoulder_yaw,42.81504702,0.1245835011,2.874009212,0,2.874009212
+28,2026-11-11,reject - Run 2,B,3,reject,319,arm,right_elbow,40,0,0.2736637385,0,0.2736637385
+28,2026-11-11,reject - Run 2,B,3,reject,319,arm,right_wrist_roll,42.00940439,0.004853902642,0.1539358529,0,0.1539358529
+28,2026-11-11,reject - Run 2,B,3,reject,319,waist,waist_pitch,42.63009404,0.1067858581,2.379710219,-0.09721466747,2.282495552
+28,2026-11-11,reject - Run 2,B,3,reject,319,waist,waist_roll,44.24137931,0.153706917,2.379710219,0.09721466747,2.476924887
+27,2026-11-11,reject - Run 3,B,3,reject,319,arm,left_shoulder_pitch,44.08777429,0.09719305829,2.181774309,0,2.181774309
+27,2026-11-11,reject - Run 3,B,3,reject,319,arm,left_shoulder_roll,41,0,0.4593499528,0,0.4593499528
+27,2026-11-11,reject - Run 3,B,3,reject,319,arm,left_shoulder_yaw,47.81504702,0.5961174242,10.34445199,0,10.34445199
+27,2026-11-11,reject - Run 3,B,3,reject,319,arm,left_elbow,39,0,0.347725417,0,0.347725417
+27,2026-11-11,reject - Run 3,B,3,reject,319,arm,left_wrist_roll,42.75862069,0.06479537219,1.431061091,0,1.431061091
+27,2026-11-11,reject - Run 3,B,3,reject,319,arm,right_shoulder_pitch,47.29467085,0.3547546627,6.556026812,0,6.556026812
+27,2026-11-11,reject - Run 3,B,3,reject,319,arm,right_shoulder_roll,44.21630094,0.0323976861,0.8892086358,0,0.8892086358
+27,2026-11-11,reject - Run 3,B,3,reject,319,arm,right_shoulder_yaw,42.32601881,0.1247310915,3.10446435,0,3.10446435
+27,2026-11-11,reject - Run 3,B,3,reject,319,arm,right_elbow,40,0,0.2226773508,0,0.2226773508
+27,2026-11-11,reject - Run 3,B,3,reject,319,arm,right_wrist_roll,42,0,0.111850842,0,0.111850842
+27,2026-11-11,reject - Run 3,B,3,reject,319,waist,waist_pitch,42.39498433,0.1231112072,2.639207732,-0.2179994118,2.42120832
+27,2026-11-11,reject - Run 3,B,3,reject,319,waist,waist_roll,44.37931034,0.1166316699,2.639207732,0.2179994118,2.857207144
+26,2026-11-11,shake hand - Run 1,B,3,shake hand,322,arm,left_shoulder_pitch,43,0,0.09577177118,0,0.09577177118
+26,2026-11-11,shake hand - Run 1,B,3,shake hand,322,arm,left_shoulder_roll,41,0,0.7988637744,0,0.7988637744
+26,2026-11-11,shake hand - Run 1,B,3,shake hand,322,arm,left_shoulder_yaw,41,0,0.04545314336,0,0.04545314336
+26,2026-11-11,shake hand - Run 1,B,3,shake hand,322,arm,left_elbow,39,0,0.1509165505,0,0.1509165505
+26,2026-11-11,shake hand - Run 1,B,3,shake hand,322,arm,left_wrist_roll,42,0,0.006564667383,0,0.006564667383
+26,2026-11-11,shake hand - Run 1,B,3,shake hand,322,arm,right_shoulder_pitch,43.99068323,0.07849507958,1.422640908,0,1.422640908
+26,2026-11-11,shake hand - Run 1,B,3,shake hand,322,arm,right_shoulder_roll,44,0,0.4303377434,0,0.4303377434
+26,2026-11-11,shake hand - Run 1,B,3,shake hand,322,arm,right_shoulder_yaw,40.64906832,0.02563104639,0.001939113852,0,0.001939113852
+26,2026-11-11,shake hand - Run 1,B,3,shake hand,322,arm,right_elbow,40.86956522,0.06407761599,1.332006018,0,1.332006018
+26,2026-11-11,shake hand - Run 1,B,3,shake hand,322,arm,right_wrist_roll,42,0,0.003087635647,0,0.003087635647
+26,2026-11-11,shake hand - Run 1,B,3,shake hand,322,waist,waist_pitch,41,0,0.8903850844,-0.1563004833,0.7340846011
+26,2026-11-11,shake hand - Run 1,B,3,shake hand,322,waist,waist_roll,42.36956522,0.03203880799,0.8903850844,0.1563004833,1.046685568
+25,2026-11-11,shake hand - Run 2,B,3,shake hand,301,arm,left_shoulder_pitch,43,0,0.1047593476,0,0.1047593476
+25,2026-11-11,shake hand - Run 2,B,3,shake hand,301,arm,left_shoulder_roll,41,0,0.7798442864,0,0.7798442864
+25,2026-11-11,shake hand - Run 2,B,3,shake hand,301,arm,left_shoulder_yaw,41,0,0.03316095988,0,0.03316095988
+25,2026-11-11,shake hand - Run 2,B,3,shake hand,301,arm,left_elbow,39,0,0.1451701912,0,0.1451701912
+25,2026-11-11,shake hand - Run 2,B,3,shake hand,301,arm,left_wrist_roll,42,0,0.003711199925,0,0.003711199925
+25,2026-11-11,shake hand - Run 2,B,3,shake hand,301,arm,right_shoulder_pitch,44.0166113,0.07746508834,1.613433648,0,1.613433648
+25,2026-11-11,shake hand - Run 2,B,3,shake hand,301,arm,right_shoulder_roll,44,0,0.4295019642,0,0.4295019642
+25,2026-11-11,shake hand - Run 2,B,3,shake hand,301,arm,right_shoulder_yaw,40,0,0.00214172422,0,0.00214172422
+25,2026-11-11,shake hand - Run 2,B,3,shake hand,301,arm,right_elbow,40.80398671,0.0688578563,1.401781644,0,1.401781644
+25,2026-11-11,shake hand - Run 2,B,3,shake hand,301,arm,right_wrist_roll,42,0,0.004089893795,0,0.004089893795
+25,2026-11-11,shake hand - Run 2,B,3,shake hand,301,waist,waist_pitch,41,0,0.9008198479,-0.2830891626,0.6177306853
+25,2026-11-11,shake hand - Run 2,B,3,shake hand,301,waist,waist_roll,42.43853821,0.03442892815,0.9008198479,0.2830891626,1.18390901
+24,2026-11-11,shake hand - Run 3,B,3,shake hand,295,arm,left_shoulder_pitch,42.10169492,0.0309442004,0.09760795273,0,0.09760795273
+24,2026-11-11,shake hand - Run 3,B,3,shake hand,295,arm,left_shoulder_roll,40.28135593,0.03438244489,0.8098089844,0,0.8098089844
+24,2026-11-11,shake hand - Run 3,B,3,shake hand,295,arm,left_shoulder_yaw,40.03050847,0.0154721002,0.2192540373,0,0.2192540373
+24,2026-11-11,shake hand - Run 3,B,3,shake hand,295,arm,left_elbow,39,0,0.07362134038,0,0.07362134038
+24,2026-11-11,shake hand - Run 3,B,3,shake hand,295,arm,left_wrist_roll,41.95932203,0.005157366734,0.004705446061,0,0.004705446061
+24,2026-11-11,shake hand - Run 3,B,3,shake hand,295,arm,right_shoulder_pitch,43.40677966,0.09798996794,1.662542284,0,1.662542284
+24,2026-11-11,shake hand - Run 3,B,3,shake hand,295,arm,right_shoulder_roll,43.16610169,0.03266332265,0.3455712216,0,0.3455712216
+24,2026-11-11,shake hand - Run 3,B,3,shake hand,295,arm,right_shoulder_yaw,40,0,0.01116684781,0,0.01116684781
+24,2026-11-11,shake hand - Run 3,B,3,shake hand,295,arm,right_elbow,40.18305085,0.09970909018,1.446460988,0,1.446460988
+24,2026-11-11,shake hand - Run 3,B,3,shake hand,295,arm,right_wrist_roll,42,0,0.005336559721,0,0.005336559721
+24,2026-11-11,shake hand - Run 3,B,3,shake hand,295,waist,waist_pitch,41.78983051,-0.06876488978,0.8022861061,-0.2228190037,0.5794671024
+24,2026-11-11,shake hand - Run 3,B,3,shake hand,295,waist,waist_roll,42.14915254,0,0.8022861061,0.2228190037,1.02510511
+42,2026-11-11,stand still - Run 1,B,3,stand still,186,arm,left_shoulder_pitch,47,0,0.0006400695553,0,0.0006400695553
+42,2026-11-11,stand still - Run 1,B,3,stand still,186,arm,left_shoulder_roll,44.18817204,0.05826911322,0.9780535175,0,0.9780535175
+42,2026-11-11,stand still - Run 1,B,3,stand still,186,arm,left_shoulder_yaw,44,0,0.1812077767,0,0.1812077767
+42,2026-11-11,stand still - Run 1,B,3,stand still,186,arm,left_elbow,42,0,0.003656567566,0,0.003656567566
+42,2026-11-11,stand still - Run 1,B,3,stand still,186,arm,left_wrist_roll,45,0,0.001123526347,0,0.001123526347
+42,2026-11-11,stand still - Run 1,B,3,stand still,186,arm,right_shoulder_pitch,47,0,0.01113312471,0,0.01113312471
+42,2026-11-11,stand still - Run 1,B,3,stand still,186,arm,right_shoulder_roll,47,0,0.4085005613,0,0.4085005613
+42,2026-11-11,stand still - Run 1,B,3,stand still,186,arm,right_shoulder_yaw,43,0,0.02026432975,0,0.02026432975
+42,2026-11-11,stand still - Run 1,B,3,stand still,186,arm,right_elbow,42,0,0.06236592614,0,0.06236592614
+42,2026-11-11,stand still - Run 1,B,3,stand still,186,arm,right_wrist_roll,45,0,0.005134174944,0,0.005134174944
+42,2026-11-11,stand still - Run 1,B,3,stand still,186,waist,waist_pitch,45,0,0.2893053951,0.08090707218,0.3702124672
+42,2026-11-11,stand still - Run 1,B,3,stand still,186,waist,waist_roll,45,0,0.2893053951,-0.08090707218,0.2083983229
+44,2026-11-11,stand still - Run 2,B,4,stand still,179,arm,left_shoulder_pitch,53,0,0.06205950986,0,0.06205950986
+44,2026-11-11,stand still - Run 2,B,4,stand still,179,arm,left_shoulder_roll,51,0,0.7529146624,0,0.7529146624
+44,2026-11-11,stand still - Run 2,B,4,stand still,179,arm,left_shoulder_yaw,49,0,0.2509055158,0,0.2509055158
+44,2026-11-11,stand still - Run 2,B,4,stand still,179,arm,left_elbow,46,0,0.002016527227,0,0.002016527227
+44,2026-11-11,stand still - Run 2,B,4,stand still,179,arm,left_wrist_roll,49,0,0.0006863268107,0,0.0006863268107
+44,2026-11-11,stand still - Run 2,B,4,stand still,179,arm,right_shoulder_pitch,51,0,0.1626877563,0,0.1626877563
+44,2026-11-11,stand still - Run 2,B,4,stand still,179,arm,right_shoulder_roll,53,0,0.9295765986,0,0.9295765986
+44,2026-11-11,stand still - Run 2,B,4,stand still,179,arm,right_shoulder_yaw,47,0,0.133288912,0,0.133288912
+44,2026-11-11,stand still - Run 2,B,4,stand still,179,arm,right_elbow,45.73743017,0,0.0002122660239,0,0.0002122660239
+44,2026-11-11,stand still - Run 2,B,4,stand still,179,arm,right_wrist_roll,48,0,0.02058272879,0,0.02058272879
+44,2026-11-11,stand still - Run 2,B,4,stand still,179,waist,waist_pitch,46,0,0.07489812106,-0.07345472627,0.001443394793
+44,2026-11-11,stand still - Run 2,B,4,stand still,179,waist,waist_roll,46,0,0.07489812106,0.07345472627,0.1483528473
+43,2026-11-11,stand still - Run 3,B,4,stand still,169,arm,left_shoulder_pitch,53,0,0.06217192294,0,0.06217192294
+43,2026-11-11,stand still - Run 3,B,4,stand still,169,arm,left_shoulder_roll,51,0,0.7765345119,0,0.7765345119
+43,2026-11-11,stand still - Run 3,B,4,stand still,169,arm,left_shoulder_yaw,49,0,0.2490099425,0,0.2490099425
+43,2026-11-11,stand still - Run 3,B,4,stand still,169,arm,left_elbow,46,0,0.002263249847,0,0.002263249847
+43,2026-11-11,stand still - Run 3,B,4,stand still,169,arm,left_wrist_roll,49,0,0.00089181037,0,0.00089181037
+43,2026-11-11,stand still - Run 3,B,4,stand still,169,arm,right_shoulder_pitch,51,0,0.1637633631,0,0.1637633631
+43,2026-11-11,stand still - Run 3,B,4,stand still,169,arm,right_shoulder_roll,53,0,0.9327736934,0,0.9327736934
+43,2026-11-11,stand still - Run 3,B,4,stand still,169,arm,right_shoulder_yaw,47,0,0.1287729209,0,0.1287729209
+43,2026-11-11,stand still - Run 3,B,4,stand still,169,arm,right_elbow,45.87573964,-0.003247214477,0.0002398145533,0,0.0002398145533
+43,2026-11-11,stand still - Run 3,B,4,stand still,169,arm,right_wrist_roll,48,0,0.02039922544,0,0.02039922544
+43,2026-11-11,stand still - Run 3,B,4,stand still,169,waist,waist_pitch,46,0,0.0826386789,-0.07966760913,0.002971069767
+43,2026-11-11,stand still - Run 3,B,4,stand still,169,waist,waist_roll,46,0,0.0826386789,0.07966760913,0.162306288
+21,2026-11-11,xray - Run 1,B,3,xray,289,arm,left_shoulder_pitch,42.183391,0.03598475359,1.122772712,0,1.122772712
+21,2026-11-11,xray - Run 1,B,3,xray,289,arm,left_shoulder_roll,39.38754325,0.03598475359,0.8022509664,0,0.8022509664
+21,2026-11-11,xray - Run 1,B,3,xray,289,arm,left_shoulder_yaw,40,0,0.3352729851,0,0.3352729851
+21,2026-11-11,xray - Run 1,B,3,xray,289,arm,left_elbow,38.31487889,0.03598475359,1.29119804,0,1.29119804
+21,2026-11-11,xray - Run 1,B,3,xray,289,arm,left_wrist_roll,41,0,0.006722638806,0,0.006722638806
+21,2026-11-11,xray - Run 1,B,3,xray,289,arm,right_shoulder_pitch,43.62975779,0.1601321535,3.01377563,0,3.01377563
+21,2026-11-11,xray - Run 1,B,3,xray,289,arm,right_shoulder_roll,43,0,0.3787422513,0,0.3787422513
+21,2026-11-11,xray - Run 1,B,3,xray,289,arm,right_shoulder_yaw,39.38754325,0.03418551591,0.05452174015,0,0.05452174015
+21,2026-11-11,xray - Run 1,B,3,xray,289,arm,right_elbow,39,0,0.4848100655,0,0.4848100655
+21,2026-11-11,xray - Run 1,B,3,xray,289,arm,right_wrist_roll,41,0,0.0230909934,0,0.0230909934
+21,2026-11-11,xray - Run 1,B,3,xray,289,waist,waist_pitch,43.97577855,0.4857941735,4.90800639,2.307114171,7.215120561
+21,2026-11-11,xray - Run 1,B,3,xray,289,waist,waist_roll,42.08304498,0.1997153824,4.90800639,-2.307114171,2.600892219
+22,2026-11-11,xray - Run 2,B,3,xray,283,arm,left_shoulder_pitch,42.38162544,0.03679560172,1.104356743,0,1.104356743
+22,2026-11-11,xray - Run 2,B,3,xray,283,arm,left_shoulder_roll,40,0,0.7466385136,0,0.7466385136
+22,2026-11-11,xray - Run 2,B,3,xray,283,arm,left_shoulder_yaw,40.08480565,0,0.3472056605,0,0.3472056605
+22,2026-11-11,xray - Run 2,B,3,xray,283,arm,left_elbow,38.68904594,0.05703318267,1.235542321,0,1.235542321
+22,2026-11-11,xray - Run 2,B,3,xray,283,arm,left_wrist_roll,41,0,0.0050616071,0,0.0050616071
+22,2026-11-11,xray - Run 2,B,3,xray,283,arm,right_shoulder_pitch,43.74911661,0.1600608675,3.010635847,0,3.010635847
+22,2026-11-11,xray - Run 2,B,3,xray,283,arm,right_shoulder_roll,43,0,0.4295563521,0,0.4295563521
+22,2026-11-11,xray - Run 2,B,3,xray,283,arm,right_shoulder_yaw,40,0,0.03785240747,0,0.03785240747
+22,2026-11-11,xray - Run 2,B,3,xray,283,arm,right_elbow,39,0,0.4429644643,0,0.4429644643
+22,2026-11-11,xray - Run 2,B,3,xray,283,arm,right_wrist_roll,41,0,0.02230060847,0,0.02230060847
+22,2026-11-11,xray - Run 2,B,3,xray,283,waist,waist_pitch,45.43816254,0.3937129384,4.649701889,2.168169527,6.817871415
+22,2026-11-11,xray - Run 2,B,3,xray,283,waist,waist_roll,42.56537102,0.1563813073,4.649701889,-2.168169527,2.481532362
+23,2026-11-11,xray - Run 3,B,3,xray,295,arm,left_shoulder_pitch,42.53559322,0.03519464492,1.070467512,0,1.070467512
+23,2026-11-11,xray - Run 3,B,3,xray,295,arm,left_shoulder_roll,40,0,0.7191990947,0,0.7191990947
+23,2026-11-11,xray - Run 3,B,3,xray,295,arm,left_shoulder_yaw,40,0,0.3260496311,0,0.3260496311
+23,2026-11-11,xray - Run 3,B,3,xray,295,arm,left_elbow,39.29830508,0.03519464492,1.220865761,0,1.220865761
+23,2026-11-11,xray - Run 3,B,3,xray,295,arm,left_wrist_roll,41,0,0.01153607077,0,0.01153607077
+23,2026-11-11,xray - Run 3,B,3,xray,295,arm,right_shoulder_pitch,43.83728814,0.1689342956,3.033218114,0,3.033218114
+23,2026-11-11,xray - Run 3,B,3,xray,295,arm,right_shoulder_roll,43,0,0.4301061057,0,0.4301061057
+23,2026-11-11,xray - Run 3,B,3,xray,295,arm,right_shoulder_yaw,40,0,0.03806431093,0,0.03806431093
+23,2026-11-11,xray - Run 3,B,3,xray,295,arm,right_elbow,39.0440678,0,0.4878680321,0,0.4878680321
+23,2026-11-11,xray - Run 3,B,3,xray,295,arm,right_wrist_roll,41.11864407,0.02111678695,0.0139789529,0,0.0139789529
+23,2026-11-11,xray - Run 3,B,3,xray,295,waist,waist_pitch,45.11864407,0.3607451104,4.817059452,2.420287547,7.237346999
+23,2026-11-11,xray - Run 3,B,3,xray,295,waist,waist_roll,42.62711864,0.1636550989,4.817059452,-2.420287547,2.396771905
+47,2026-11-13,hands up - Run 1 - exec157031941,B,5,hands up,299,arm,left_shoulder_pitch,40.8729097,0.06934706952,1.703415154,0,1.703415154
+47,2026-11-13,hands up - Run 1 - exec157031941,B,5,hands up,299,arm,left_shoulder_roll,38,0,0.535996605,0,0.535996605
+47,2026-11-13,hands up - Run 1 - exec157031941,B,5,hands up,299,arm,left_shoulder_yaw,38,0,0.03353949895,0,0.03353949895
+47,2026-11-13,hands up - Run 1 - exec157031941,B,5,hands up,299,arm,left_elbow,37.93645485,0.06934706952,1.532108711,0,1.532108711
+47,2026-11-13,hands up - Run 1 - exec157031941,B,5,hands up,299,arm,left_wrist_roll,41,0,0.009255342915,0,0.009255342915
+47,2026-11-13,hands up - Run 1 - exec157031941,B,5,hands up,299,arm,right_shoulder_pitch,40.11371237,0.1040206043,1.941114386,0,1.941114386
+47,2026-11-13,hands up - Run 1 - exec157031941,B,5,hands up,299,arm,right_shoulder_roll,42,0,0.466028754,0,0.466028754
+47,2026-11-13,hands up - Run 1 - exec157031941,B,5,hands up,299,arm,right_shoulder_yaw,39,0,0.01333023531,0,0.01333023531
+47,2026-11-13,hands up - Run 1 - exec157031941,B,5,hands up,299,arm,right_elbow,38.75250836,0.06934706952,1.531109049,0,1.531109049
+47,2026-11-13,hands up - Run 1 - exec157031941,B,5,hands up,299,arm,right_wrist_roll,41,0,0.02910455889,0,0.02910455889
+47,2026-11-13,hands up - Run 1 - exec157031941,B,5,hands up,299,waist,waist_pitch,39.65551839,0.138694139,2.224312791,0.3655954418,2.589908233
+47,2026-11-13,hands up - Run 1 - exec157031941,B,5,hands up,299,waist,waist_roll,40.28428094,0.1040206043,2.224312791,-0.3655954418,1.858717349
+66,2026-11-13,hands up - Run 1 - exec157032790,B,6,hands up,310,arm,left_shoulder_pitch,49.95483871,0.06672523978,1.588703025,0,1.588703025
+66,2026-11-13,hands up - Run 1 - exec157032790,B,6,hands up,310,arm,left_shoulder_roll,46,0,0.4779072526,0,0.4779072526
+66,2026-11-13,hands up - Run 1 - exec157032790,B,6,hands up,310,arm,left_shoulder_yaw,46,0,0.05709556618,0,0.05709556618
+66,2026-11-13,hands up - Run 1 - exec157032790,B,6,hands up,310,arm,left_elbow,44.66451613,0.06338897779,1.517818726,0,1.517818726
+66,2026-11-13,hands up - Run 1 - exec157032790,B,6,hands up,310,arm,left_wrist_roll,47,0,0.0109370183,0,0.0109370183
+66,2026-11-13,hands up - Run 1 - exec157032790,B,6,hands up,310,arm,right_shoulder_pitch,49.29354839,0.1000878597,1.714942445,0,1.714942445
+66,2026-11-13,hands up - Run 1 - exec157032790,B,6,hands up,310,arm,right_shoulder_roll,50,0,0.4753170136,0,0.4753170136
+66,2026-11-13,hands up - Run 1 - exec157032790,B,6,hands up,310,arm,right_shoulder_yaw,45.68064516,0.01501317895,0.03703551395,0,0.03703551395
+66,2026-11-13,hands up - Run 1 - exec157032790,B,6,hands up,310,arm,right_elbow,45.55806452,0.03336261989,1.281240847,0,1.281240847
+66,2026-11-13,hands up - Run 1 - exec157032790,B,6,hands up,310,arm,right_wrist_roll,47,0,0.006557308317,0,0.006557308317
+66,2026-11-13,hands up - Run 1 - exec157032790,B,6,hands up,310,waist,waist_pitch,44.71290323,0.1334504796,1.946639044,0.2354123315,2.182051376
+66,2026-11-13,hands up - Run 1 - exec157032790,B,6,hands up,310,waist,waist_roll,45.28387097,0.1000878597,1.946639044,-0.2354123315,1.711226713
+57,2026-11-13,hands up - Run 2 - exec157032572,B,6,hands up,286,arm,left_shoulder_pitch,47.70979021,0.07272480618,1.716281563,0,1.716281563
+57,2026-11-13,hands up - Run 2 - exec157032572,B,6,hands up,286,arm,left_shoulder_roll,44.18531469,0,0.5001472173,0,0.5001472173
+57,2026-11-13,hands up - Run 2 - exec157032572,B,6,hands up,286,arm,left_shoulder_yaw,45,0,0.05682514846,0,0.05682514846
+57,2026-11-13,hands up - Run 2 - exec157032572,B,6,hands up,286,arm,left_elbow,42.84615385,0.07272480618,1.617289249,0,1.617289249
+57,2026-11-13,hands up - Run 2 - exec157032572,B,6,hands up,286,arm,left_wrist_roll,46,0,0.005553205749,0,0.005553205749
+57,2026-11-13,hands up - Run 2 - exec157032572,B,6,hands up,286,arm,right_shoulder_pitch,47.98951049,0.07454292634,1.777030268,0,1.777030268
+57,2026-11-13,hands up - Run 2 - exec157032572,B,6,hands up,286,arm,right_shoulder_roll,48,0,0.4505226371,0,0.4505226371
+57,2026-11-13,hands up - Run 2 - exec157032572,B,6,hands up,286,arm,right_shoulder_yaw,45,0,0.03442633293,0,0.03442633293
+57,2026-11-13,hands up - Run 2 - exec157032572,B,6,hands up,286,arm,right_elbow,44.65734266,0.0599979651,1.426155347,0,1.426155347
+57,2026-11-13,hands up - Run 2 - exec157032572,B,6,hands up,286,arm,right_wrist_roll,46,0,0.0122356519,0,0.0122356519
+57,2026-11-13,hands up - Run 2 - exec157032572,B,6,hands up,286,waist,waist_pitch,43.81118881,0.1472677325,2.138102385,0.2784951624,2.416597547
+57,2026-11-13,hands up - Run 2 - exec157032572,B,6,hands up,286,waist,waist_roll,44.48601399,0.1399952519,2.138102385,-0.2784951624,1.859607222
+59,2026-11-13,hands up - Run 3 - exec157032622,B,6,hands up,276,arm,left_shoulder_pitch,48.00362319,0.09265036762,1.790442557,0,1.790442557
+59,2026-11-13,hands up - Run 3 - exec157032622,B,6,hands up,276,arm,left_shoulder_roll,44.99637681,0,0.4270101768,0,0.4270101768
+59,2026-11-13,hands up - Run 3 - exec157032622,B,6,hands up,276,arm,left_shoulder_yaw,45,0,0.06832786911,0,0.06832786911
+59,2026-11-13,hands up - Run 3 - exec157032622,B,6,hands up,276,arm,left_elbow,43.17028986,0.06996048167,1.597954369,0,1.597954369
+59,2026-11-13,hands up - Run 3 - exec157032622,B,6,hands up,276,arm,left_wrist_roll,46,0,0.02391704861,0,0.02391704861
+59,2026-11-13,hands up - Run 3 - exec157032622,B,6,hands up,276,arm,right_shoulder_pitch,47.82971014,0.07563295316,1.898418028,0,1.898418028
+59,2026-11-13,hands up - Run 3 - exec157032622,B,6,hands up,276,arm,right_shoulder_roll,48,0,0.4460263413,0,0.4460263413
+59,2026-11-13,hands up - Run 3 - exec157032622,B,6,hands up,276,arm,right_shoulder_yaw,45,0,0.02153085036,0,0.02153085036
+59,2026-11-13,hands up - Run 3 - exec157032622,B,6,hands up,276,arm,right_elbow,44.65942029,0.06996048167,1.425322103,0,1.425322103
+59,2026-11-13,hands up - Run 3 - exec157032622,B,6,hands up,276,arm,right_wrist_roll,46,0,0.01560206548,0,0.01560206548
+59,2026-11-13,hands up - Run 3 - exec157032622,B,6,hands up,276,waist,waist_pitch,43.94202899,0.09454119145,1.550922017,0.2323978704,1.783319887
+59,2026-11-13,hands up - Run 3 - exec157032622,B,6,hands up,276,waist,waist_roll,44.11956522,0.1134494297,1.550922017,-0.2323978704,1.318524146
+73,2026-11-13,hands up - Run 3 - exec157033031,B,7,hands up,331,arm,left_shoulder_pitch,49.64350453,0.0622159983,1.426584326,0,1.426584326
+73,2026-11-13,hands up - Run 3 - exec157033031,B,7,hands up,331,arm,left_shoulder_roll,47,0,0.5409994439,0,0.5409994439
+73,2026-11-13,hands up - Run 3 - exec157033031,B,7,hands up,331,arm,left_shoulder_yaw,46.09667674,0.03110799915,0.07544024271,0,0.07544024271
+73,2026-11-13,hands up - Run 3 - exec157033031,B,7,hands up,331,arm,left_elbow,44.6918429,0.0622159983,1.469336093,0,1.469336093
+73,2026-11-13,hands up - Run 3 - exec157033031,B,7,hands up,331,arm,left_wrist_roll,47,0,0.01645711523,0,0.01645711523
+73,2026-11-13,hands up - Run 3 - exec157033031,B,7,hands up,331,arm,right_shoulder_pitch,49.73413897,0.0622159983,1.523532461,0,1.523532461
+73,2026-11-13,hands up - Run 3 - exec157033031,B,7,hands up,331,arm,right_shoulder_roll,50,0,0.4762347072,0,0.4762347072
+73,2026-11-13,hands up - Run 3 - exec157033031,B,7,hands up,331,arm,right_shoulder_yaw,45.99697885,0,0.02346698156,0,0.02346698156
+73,2026-11-13,hands up - Run 3 - exec157033031,B,7,hands up,331,arm,right_elbow,45.081571,0.06532679822,1.305813359,0,1.305813359
+73,2026-11-13,hands up - Run 3 - exec157033031,B,7,hands up,331,arm,right_wrist_roll,47,0,0.005471675141,0,0.005471675141
+73,2026-11-13,hands up - Run 3 - exec157033031,B,7,hands up,331,waist,waist_pitch,44.91238671,0.1555399958,2.130631576,0.3438320748,2.474463651
+73,2026-11-13,hands up - Run 3 - exec157033031,B,7,hands up,331,waist,waist_roll,45.18126888,0.09332399746,2.130631576,-0.3438320748,1.786799502
+78,2026-11-13,hands up - Run 4 - exec157033052,B,7,hands up,291,arm,left_shoulder_pitch,51.17869416,0.1070706422,1.591489777,0,1.591489777
+78,2026-11-13,hands up - Run 4 - exec157033052,B,7,hands up,291,arm,left_shoulder_roll,48,0,0.4227001653,0,0.4227001653
+78,2026-11-13,hands up - Run 4 - exec157033052,B,7,hands up,291,arm,left_shoulder_yaw,47,0,0.1140782532,0,0.1140782532
+78,2026-11-13,hands up - Run 4 - exec157033052,B,7,hands up,291,arm,left_elbow,45.84536082,0.07138042814,1.671110836,0,1.671110836
+78,2026-11-13,hands up - Run 4 - exec157033052,B,7,hands up,291,arm,left_wrist_roll,48,0,0.009279113194,0,0.009279113194
+78,2026-11-13,hands up - Run 4 - exec157033052,B,7,hands up,291,arm,right_shoulder_pitch,51.00343643,0.09457906729,1.634333863,0,1.634333863
+78,2026-11-13,hands up - Run 4 - exec157033052,B,7,hands up,291,arm,right_shoulder_roll,51,0,0.4741313476,0,0.4741313476
+78,2026-11-13,hands up - Run 4 - exec157033052,B,7,hands up,291,arm,right_shoulder_yaw,46.41237113,0,0.01216033877,0,0.01216033877
+78,2026-11-13,hands up - Run 4 - exec157033052,B,7,hands up,291,arm,right_elbow,46.0137457,0.08387200307,1.432003931,0,1.432003931
+78,2026-11-13,hands up - Run 4 - exec157033052,B,7,hands up,291,arm,right_wrist_roll,48,0,0.01041071236,0,0.01041071236
+78,2026-11-13,hands up - Run 4 - exec157033052,B,7,hands up,291,waist,waist_pitch,46.74226804,0.1766665596,2.622842962,0.1668254598,2.789668422
+78,2026-11-13,hands up - Run 4 - exec157033052,B,7,hands up,291,waist,waist_roll,47.13745704,0.1070706422,2.622842962,-0.1668254598,2.456017503
+84,2026-11-13,hands up - Run 5 - exec157033156,B,7,hands up,276,arm,left_shoulder_pitch,51.77536232,0.07558507873,1.3769557,0,1.3769557
+84,2026-11-13,hands up - Run 5 - exec157033156,B,7,hands up,276,arm,left_shoulder_roll,48.02173913,0,0.4140421071,0,0.4140421071
+84,2026-11-13,hands up - Run 5 - exec157033156,B,7,hands up,276,arm,left_shoulder_yaw,48,0,0.1192135468,0,0.1192135468
+84,2026-11-13,hands up - Run 5 - exec157033156,B,7,hands up,276,arm,left_elbow,46.08333333,0.1114879911,1.675657244,0,1.675657244
+84,2026-11-13,hands up - Run 5 - exec157033156,B,7,hands up,276,arm,left_wrist_roll,48,0,0.008902355009,0,0.008902355009
+84,2026-11-13,hands up - Run 5 - exec157033156,B,7,hands up,276,arm,right_shoulder_pitch,51.6557971,0.07558507873,1.535743427,0,1.535743427
+84,2026-11-13,hands up - Run 5 - exec157033156,B,7,hands up,276,arm,right_shoulder_roll,51,0,0.4609354915,0,0.4609354915
+84,2026-11-13,hands up - Run 5 - exec157033156,B,7,hands up,276,arm,right_shoulder_yaw,47,0,0.01102240038,0,0.01102240038
+84,2026-11-13,hands up - Run 5 - exec157033156,B,7,hands up,276,arm,right_elbow,46.67028986,0.07558507873,1.573298516,0,1.573298516
+84,2026-11-13,hands up - Run 5 - exec157033156,B,7,hands up,276,arm,right_wrist_roll,48,0,0.01751561292,0,0.01751561292
+84,2026-11-13,hands up - Run 5 - exec157033156,B,7,hands up,276,waist,waist_pitch,46.61231884,0.1587286653,2.491128753,0.2448138314,2.735942585
+84,2026-11-13,hands up - Run 5 - exec157033156,B,7,hands up,276,waist,waist_roll,47.55797101,0.1511701575,2.491128753,-0.2448138314,2.246314922
+48,2026-11-13,heart - Run 1 - exec157031962,B,5,heart,293,arm,left_shoulder_pitch,43.25938567,0.2198453232,4.276564613,0,4.276564613
+48,2026-11-13,heart - Run 1 - exec157031962,B,5,heart,293,arm,left_shoulder_roll,39,0,0.8907443769,0,0.8907443769
+48,2026-11-13,heart - Run 1 - exec157031962,B,5,heart,293,arm,left_shoulder_yaw,39,0,0.5075462471,0,0.5075462471
+48,2026-11-13,heart - Run 1 - exec157031962,B,5,heart,293,arm,left_elbow,38,0,0.1173455119,0,0.1173455119
+48,2026-11-13,heart - Run 1 - exec157031962,B,5,heart,293,arm,left_wrist_roll,41,0,0.02485924923,0,0.02485924923
+48,2026-11-13,heart - Run 1 - exec157031962,B,5,heart,293,arm,right_shoulder_pitch,42.0887372,0.1967970232,3.407493732,0,3.407493732
+48,2026-11-13,heart - Run 1 - exec157031962,B,5,heart,293,arm,right_shoulder_roll,42,0,0.794869199,0,0.794869199
+48,2026-11-13,heart - Run 1 - exec157031962,B,5,heart,293,arm,right_shoulder_yaw,40,0,0.1218193987,0,0.1218193987
+48,2026-11-13,heart - Run 1 - exec157031962,B,5,heart,293,arm,right_elbow,39,0,0.1772221108,0,0.1772221108
+48,2026-11-13,heart - Run 1 - exec157031962,B,5,heart,293,arm,right_wrist_roll,41,0,0.007002605418,0,0.007002605418
+48,2026-11-13,heart - Run 1 - exec157031962,B,5,heart,293,waist,waist_pitch,42.47098976,0.4396906464,6.165292499,1.127593438,7.292885938
+48,2026-11-13,heart - Run 1 - exec157031962,B,5,heart,293,waist,waist_roll,43.03412969,0.297854954,6.165292499,-1.127593438,5.037699061
+67,2026-11-13,heart - Run 1 - exec157032814,B,6,heart,300,arm,left_shoulder_pitch,51.14333333,0.2072074886,3.626462235,0,3.626462235
+67,2026-11-13,heart - Run 1 - exec157032814,B,6,heart,300,arm,left_shoulder_roll,47,0,0.8283804698,0,0.8283804698
+67,2026-11-13,heart - Run 1 - exec157032814,B,6,heart,300,arm,left_shoulder_yaw,46.99666667,0,0.4768196791,0,0.4768196791
+67,2026-11-13,heart - Run 1 - exec157032814,B,6,heart,300,arm,left_elbow,44,0,0.1351504142,0,0.1351504142
+67,2026-11-13,heart - Run 1 - exec157032814,B,6,heart,300,arm,left_wrist_roll,47,0,0.01499560402,0,0.01499560402
+67,2026-11-13,heart - Run 1 - exec157032814,B,6,heart,300,arm,right_shoulder_pitch,49.89333333,0.1778530944,2.870547853,0,2.870547853
+67,2026-11-13,heart - Run 1 - exec157032814,B,6,heart,300,arm,right_shoulder_roll,50,0,0.7687906752,0,0.7687906752
+67,2026-11-13,heart - Run 1 - exec157032814,B,6,heart,300,arm,right_shoulder_yaw,46,0,0.1339176675,0,0.1339176675
+67,2026-11-13,heart - Run 1 - exec157032814,B,6,heart,300,arm,right_elbow,45,0,0.175180909,0,0.175180909
+67,2026-11-13,heart - Run 1 - exec157032814,B,6,heart,300,arm,right_wrist_roll,47,0,0.009030291945,0,0.009030291945
+67,2026-11-13,heart - Run 1 - exec157032814,B,6,heart,300,waist,waist_pitch,45.45333333,0.2417420701,3.961400365,0.321898082,4.283298447
+67,2026-11-13,heart - Run 1 - exec157032814,B,6,heart,300,waist,waist_roll,46.58,0.2624628189,3.961400365,-0.321898082,3.639502283
+53,2026-11-13,heart - Run 2 - exec157032415,B,6,heart,280,arm,left_shoulder_pitch,47.99642857,0.2121900658,3.8388692,0,3.8388692
+53,2026-11-13,heart - Run 2 - exec157032415,B,6,heart,280,arm,left_shoulder_roll,43.68214286,-0.03722632733,0.8278159635,0,0.8278159635
+53,2026-11-13,heart - Run 2 - exec157032415,B,6,heart,280,arm,left_shoulder_yaw,44,0,0.5381898398,0,0.5381898398
+53,2026-11-13,heart - Run 2 - exec157032415,B,6,heart,280,arm,left_elbow,41.99285714,0,0.1331610722,0,0.1331610722
+53,2026-11-13,heart - Run 2 - exec157032415,B,6,heart,280,arm,left_wrist_roll,45,0,0.03054576313,0,0.03054576313
+53,2026-11-13,heart - Run 2 - exec157032415,B,6,heart,280,arm,right_shoulder_pitch,47.42142857,0.1489053093,3.157815836,0,3.157815836
+53,2026-11-13,heart - Run 2 - exec157032415,B,6,heart,280,arm,right_shoulder_roll,47,0,0.7922855371,0,0.7922855371
+53,2026-11-13,heart - Run 2 - exec157032415,B,6,heart,280,arm,right_shoulder_yaw,44,0,0.1437862755,0,0.1437862755
+53,2026-11-13,heart - Run 2 - exec157032415,B,6,heart,280,arm,right_elbow,43,0,0.1833288582,0,0.1833288582
+53,2026-11-13,heart - Run 2 - exec157032415,B,6,heart,280,arm,right_wrist_roll,45.98571429,0.001861316367,0.006201427698,0,0.006201427698
+53,2026-11-13,heart - Run 2 - exec157032415,B,6,heart,280,waist,waist_pitch,44.41428571,0.2550003422,4.132315618,0.4939875844,4.626303202
+53,2026-11-13,heart - Run 2 - exec157032415,B,6,heart,280,waist,waist_roll,45.38214286,0.2624456077,4.132315618,-0.4939875844,3.638328034
+60,2026-11-13,heart - Run 3 - exec157032635,B,6,heart,277,arm,left_shoulder_pitch,49.83754513,0.2765534854,4.283857363,0,4.283857363
+60,2026-11-13,heart - Run 3 - exec157032635,B,6,heart,277,arm,left_shoulder_roll,45,0,0.8316742464,0,0.8316742464
+60,2026-11-13,heart - Run 3 - exec157032635,B,6,heart,277,arm,left_shoulder_yaw,45,0,0.5180755134,0,0.5180755134
+60,2026-11-13,heart - Run 3 - exec157032635,B,6,heart,277,arm,left_elbow,43,0,0.1467197828,0,0.1467197828
+60,2026-11-13,heart - Run 3 - exec157032635,B,6,heart,277,arm,left_wrist_roll,46,0,0.01960134965,0,0.01960134965
+60,2026-11-13,heart - Run 3 - exec157032635,B,6,heart,277,arm,right_shoulder_pitch,48.93501805,0.1881316227,3.29489223,0,3.29489223
+60,2026-11-13,heart - Run 3 - exec157032635,B,6,heart,277,arm,right_shoulder_roll,49,0,0.7232838581,0,0.7232838581
+60,2026-11-13,heart - Run 3 - exec157032635,B,6,heart,277,arm,right_shoulder_yaw,45,0,0.1402317224,0,0.1402317224
+60,2026-11-13,heart - Run 3 - exec157032635,B,6,heart,277,arm,right_elbow,44,0,0.2015459511,0,0.2015459511
+60,2026-11-13,heart - Run 3 - exec157032635,B,6,heart,277,arm,right_wrist_roll,47,0,0.006780686151,0,0.006780686151
+60,2026-11-13,heart - Run 3 - exec157032635,B,6,heart,277,waist,waist_pitch,45.30685921,0.2351645284,4.358475484,0.2763786448,4.634854129
+60,2026-11-13,heart - Run 3 - exec157032635,B,6,heart,277,waist,waist_roll,46.19494585,0.2389271609,4.358475484,-0.2763786448,4.082096839
+74,2026-11-13,heart - Run 4 - exec157033048,B,7,heart,326,arm,left_shoulder_pitch,52.07055215,0.1880641021,3.706313277,0,3.706313277
+74,2026-11-13,heart - Run 4 - exec157033048,B,7,heart,326,arm,left_shoulder_roll,47.86196319,0.03160741213,0.8693304223,0,0.8693304223
+74,2026-11-13,heart - Run 4 - exec157033048,B,7,heart,326,arm,left_shoulder_yaw,46,0,0.3214203975,0,0.3214203975
+74,2026-11-13,heart - Run 4 - exec157033048,B,7,heart,326,arm,left_elbow,44,0,0.1046239264,0,0.1046239264
+74,2026-11-13,heart - Run 4 - exec157033048,B,7,heart,326,arm,left_wrist_roll,47.17177914,0.01896444728,0.01353156835,0,0.01353156835
+74,2026-11-13,heart - Run 4 - exec157033048,B,7,heart,326,arm,right_shoulder_pitch,50.88343558,0.1580370606,2.719530551,0,2.719530551
+74,2026-11-13,heart - Run 4 - exec157033048,B,7,heart,326,arm,right_shoulder_roll,50,0,0.6879848732,0,0.6879848732
+74,2026-11-13,heart - Run 4 - exec157033048,B,7,heart,326,arm,right_shoulder_yaw,46,0,0.1589444515,0,0.1589444515
+74,2026-11-13,heart - Run 4 - exec157033048,B,7,heart,326,arm,right_elbow,45,0,0.2041196099,0,0.2041196099
+74,2026-11-13,heart - Run 4 - exec157033048,B,7,heart,326,arm,right_wrist_roll,48,0,0.007871075935,0,0.007871075935
+74,2026-11-13,heart - Run 4 - exec157033048,B,7,heart,326,waist,waist_pitch,47.06748466,0.2828863385,4.447335527,-0.09287871492,4.354456812
+74,2026-11-13,heart - Run 4 - exec157033048,B,7,heart,326,waist,waist_roll,47.90490798,0.2765648561,4.447335527,0.09287871492,4.540214242
+80,2026-11-13,heart - Run 5 - exec157033152,B,7,heart,289,arm,left_shoulder_pitch,53.26297578,0.2300978283,4.069181716,0,4.069181716
+80,2026-11-13,heart - Run 5 - exec157033152,B,7,heart,289,arm,left_shoulder_roll,48,0,0.8811126909,0,0.8811126909
+80,2026-11-13,heart - Run 5 - exec157033152,B,7,heart,289,arm,left_shoulder_yaw,47,0,0.4894773474,0,0.4894773474
+80,2026-11-13,heart - Run 5 - exec157033152,B,7,heart,289,arm,left_elbow,45,0,0.1344922179,0,0.1344922179
+80,2026-11-13,heart - Run 5 - exec157033152,B,7,heart,289,arm,left_wrist_roll,48,0,0.007713066687,0,0.007713066687
+80,2026-11-13,heart - Run 5 - exec157033152,B,7,heart,289,arm,right_shoulder_pitch,51.62975779,0.1545969784,3.096476358,0,3.096476358
+80,2026-11-13,heart - Run 5 - exec157033152,B,7,heart,289,arm,right_shoulder_roll,51,0,0.8816035224,0,0.8816035224
+80,2026-11-13,heart - Run 5 - exec157033152,B,7,heart,289,arm,right_shoulder_yaw,46.16608997,0,0.1244389367,0,0.1244389367
+80,2026-11-13,heart - Run 5 - exec157033152,B,7,heart,289,arm,right_elbow,45.01730104,0,0.2226140048,0,0.2226140048
+80,2026-11-13,heart - Run 5 - exec157033152,B,7,heart,289,arm,right_wrist_roll,48,0,0.01493530186,0,0.01493530186
+80,2026-11-13,heart - Run 5 - exec157033152,B,7,heart,289,waist,waist_pitch,48.26643599,0.336158546,5.133758622,0.5665893333,5.700347955
+80,2026-11-13,heart - Run 5 - exec157033152,B,7,heart,289,waist,waist_roll,48.94117647,0.3073963175,5.133758622,-0.5665893333,4.567169288
+49,2026-11-13,hug - Run 1 - exec157032021,B,5,hug,305,arm,left_shoulder_pitch,43.92786885,0.1833505148,3.328283281,0,3.328283281
+49,2026-11-13,hug - Run 1 - exec157032021,B,5,hug,305,arm,left_shoulder_roll,39.8,0.06790759806,1.926950896,0,1.926950896
+49,2026-11-13,hug - Run 1 - exec157032021,B,5,hug,305,arm,left_shoulder_yaw,39,0,0.3158162572,0,0.3158162572
+49,2026-11-13,hug - Run 1 - exec157032021,B,5,hug,305,arm,left_elbow,38.99016393,0.1018613971,1.705193518,0,1.705193518
+49,2026-11-13,hug - Run 1 - exec157032021,B,5,hug,305,arm,left_wrist_roll,41.09508197,0.01697689951,0.025691682,0,0.025691682
+49,2026-11-13,hug - Run 1 - exec157032021,B,5,hug,305,arm,right_shoulder_pitch,43,0.1850482047,3.126806843,0,3.126806843
+49,2026-11-13,hug - Run 1 - exec157032021,B,5,hug,305,arm,right_shoulder_roll,43.29508197,0.03395379903,1.603738989,0,1.603738989
+49,2026-11-13,hug - Run 1 - exec157032021,B,5,hug,305,arm,right_shoulder_yaw,40,0,0.3241711407,0,0.3241711407
+49,2026-11-13,hug - Run 1 - exec157032021,B,5,hug,305,arm,right_elbow,39.93442623,0.08148911767,1.387890657,0,1.387890657
+49,2026-11-13,hug - Run 1 - exec157032021,B,5,hug,305,arm,right_wrist_roll,42,0,0.01660595383,0,0.01660595383
+49,2026-11-13,hug - Run 1 - exec157032021,B,5,hug,305,waist,waist_pitch,40.65245902,0.1578851655,2.541748293,0.281354471,2.823102764
+49,2026-11-13,hug - Run 1 - exec157032021,B,5,hug,305,waist,waist_roll,41.79344262,0.1697689951,2.541748293,-0.281354471,2.260393822
+68,2026-11-13,hug - Run 1 - exec157032846,B,6,hug,311,arm,left_shoulder_pitch,52.09967846,0.2062944373,4.005312377,0,4.005312377
+68,2026-11-13,hug - Run 1 - exec157032846,B,6,hug,311,arm,left_shoulder_roll,47.89067524,0.08151957602,1.974489341,0,1.974489341
+68,2026-11-13,hug - Run 1 - exec157032846,B,6,hug,311,arm,left_shoulder_yaw,47,0,0.3250437587,0,0.3250437587
+68,2026-11-13,hug - Run 1 - exec157032846,B,6,hug,311,arm,left_elbow,45.16398714,0.09981988901,1.903694504,0,1.903694504
+68,2026-11-13,hug - Run 1 - exec157032846,B,6,hug,311,arm,left_wrist_roll,47,0,0.02107474004,0,0.02107474004
+68,2026-11-13,hug - Run 1 - exec157032846,B,6,hug,311,arm,right_shoulder_pitch,50.74276527,0.2428950633,3.748909149,0,3.748909149
+68,2026-11-13,hug - Run 1 - exec157032846,B,6,hug,311,arm,right_shoulder_roll,50.62379421,0.05822826859,1.698945768,0,1.698945768
+68,2026-11-13,hug - Run 1 - exec157032846,B,6,hug,311,arm,right_shoulder_yaw,46,0,0.3605918565,0,0.3605918565
+68,2026-11-13,hug - Run 1 - exec157032846,B,6,hug,311,arm,right_elbow,45.93247588,0.08651057048,1.549622581,0,1.549622581
+68,2026-11-13,hug - Run 1 - exec157032846,B,6,hug,311,arm,right_wrist_roll,47.99678457,0.001663664817,0.003657027355,0,0.003657027355
+68,2026-11-13,hug - Run 1 - exec157032846,B,6,hug,311,waist,waist_pitch,45.30546624,0.1214475316,2.248107229,0.01962268137,2.26772991
+68,2026-11-13,hug - Run 1 - exec157032846,B,6,hug,311,waist,waist_roll,46.23151125,0.1197838668,2.248107229,-0.01962268137,2.228484547
+69,2026-11-13,hug - Run 1 - exec157032906,B,6,hug,311,arm,left_shoulder_pitch,52.18649518,0.1846245872,3.52785447,0,3.52785447
+69,2026-11-13,hug - Run 1 - exec157032906,B,6,hug,311,arm,left_shoulder_roll,47.89710611,0.06653138277,1.877415219,0,1.877415219
+69,2026-11-13,hug - Run 1 - exec157032906,B,6,hug,311,arm,left_shoulder_yaw,47,0,0.3055450427,0,0.3055450427
+69,2026-11-13,hug - Run 1 - exec157032906,B,6,hug,311,arm,left_elbow,45.15755627,0.09979707416,1.719507384,0,1.719507384
+69,2026-11-13,hug - Run 1 - exec157032906,B,6,hug,311,arm,left_wrist_roll,47,0,0.01662359205,0,0.01662359205
+69,2026-11-13,hug - Run 1 - exec157032906,B,6,hug,311,arm,right_shoulder_pitch,51.19614148,0.1879511563,3.232808109,0,3.232808109
+69,2026-11-13,hug - Run 1 - exec157032906,B,6,hug,311,arm,right_shoulder_roll,50.66881029,0.06653138277,1.630378542,0,1.630378542
+69,2026-11-13,hug - Run 1 - exec157032906,B,6,hug,311,arm,right_shoulder_yaw,46,0,0.3218835658,0,0.3218835658
+69,2026-11-13,hug - Run 1 - exec157032906,B,6,hug,311,arm,right_elbow,45.90675241,0.06653138277,1.416804886,0,1.416804886
+69,2026-11-13,hug - Run 1 - exec157032906,B,6,hug,311,arm,right_wrist_roll,48,0,0.004015399746,0,0.004015399746
+69,2026-11-13,hug - Run 1 - exec157032906,B,6,hug,311,waist,waist_pitch,45.69131833,0.1496956112,2.472079499,0.1625830157,2.634662515
+69,2026-11-13,hug - Run 1 - exec157032906,B,6,hug,311,waist,waist_roll,46.42765273,0.1330627655,2.472079499,-0.1625830157,2.309496484
+54,2026-11-13,hug - Run 2 - exec157032457,B,6,hug,295,arm,left_shoulder_pitch,48.0440678,0.2127346305,3.618432208,0,3.618432208
+54,2026-11-13,hug - Run 2 - exec157032457,B,6,hug,295,arm,left_shoulder_roll,44.59661017,0.07032549769,1.911050801,0,1.911050801
+54,2026-11-13,hug - Run 2 - exec157032457,B,6,hug,295,arm,left_shoulder_yaw,44,0,0.333489903,0,0.333489903
+54,2026-11-13,hug - Run 2 - exec157032457,B,6,hug,295,arm,left_elbow,42.81016949,0.08966500956,1.778053257,0,1.778053257
+54,2026-11-13,hug - Run 2 - exec157032457,B,6,hug,295,arm,left_wrist_roll,45,0,0.03224260941,0,0.03224260941
+54,2026-11-13,hug - Run 2 - exec157032457,B,6,hug,295,arm,right_shoulder_pitch,48.1559322,0.2250415926,3.442995491,0,3.442995491
+54,2026-11-13,hug - Run 2 - exec157032457,B,6,hug,295,arm,right_shoulder_roll,47.71525424,0.07032549769,1.618291342,0,1.618291342
+54,2026-11-13,hug - Run 2 - exec157032457,B,6,hug,295,arm,right_shoulder_yaw,44,0,0.331729654,0,0.331729654
+54,2026-11-13,hug - Run 2 - exec157032457,B,6,hug,295,arm,right_elbow,43.86440678,0.08790687211,1.461770861,0,1.461770861
+54,2026-11-13,hug - Run 2 - exec157032457,B,6,hug,295,arm,right_wrist_roll,46,0,0.007302886633,0,0.007302886633
+54,2026-11-13,hug - Run 2 - exec157032457,B,6,hug,295,waist,waist_pitch,43.51186441,0.1617486447,2.047593116,0.2269424098,2.274535526
+54,2026-11-13,hug - Run 2 - exec157032457,B,6,hug,295,waist,waist_roll,44.28135593,0.1406509954,2.047593116,-0.2269424098,1.820650707
+61,2026-11-13,hug - Run 3 - exec157032673,B,6,hug,282,arm,left_shoulder_pitch,50.23758865,0.2213709292,3.936593071,0,3.936593071
+61,2026-11-13,hug - Run 3 - exec157032673,B,6,hug,282,arm,left_shoulder_roll,45.96808511,0.09592740264,1.991998885,0,1.991998885
+61,2026-11-13,hug - Run 3 - exec157032673,B,6,hug,282,arm,left_shoulder_yaw,45,0,0.3293986562,0,0.3293986562
+61,2026-11-13,hug - Run 3 - exec157032673,B,6,hug,282,arm,left_elbow,44.03546099,0.1106854646,1.907932456,0,1.907932456
+61,2026-11-13,hug - Run 3 - exec157032673,B,6,hug,282,arm,left_wrist_roll,46,0,0.02183176129,0,0.02183176129
+61,2026-11-13,hug - Run 3 - exec157032673,B,6,hug,282,arm,right_shoulder_pitch,49.4822695,0.2398185066,3.674135867,0,3.674135867
+61,2026-11-13,hug - Run 3 - exec157032673,B,6,hug,282,arm,right_shoulder_roll,49.59574468,0.05903224778,1.760719646,0,1.760719646
+61,2026-11-13,hug - Run 3 - exec157032673,B,6,hug,282,arm,right_shoulder_yaw,45,0,0.3809891606,0,0.3809891606
+61,2026-11-13,hug - Run 3 - exec157032673,B,6,hug,282,arm,right_elbow,45.03191489,0.1033064336,1.612828663,0,1.612828663
+61,2026-11-13,hug - Run 3 - exec157032673,B,6,hug,282,arm,right_wrist_roll,47,0,0.006184393189,0,0.006184393189
+61,2026-11-13,hug - Run 3 - exec157032673,B,6,hug,282,waist,waist_pitch,44.54609929,0.1475806194,2.319562543,0.01187892354,2.331441467
+61,2026-11-13,hug - Run 3 - exec157032673,B,6,hug,282,waist,waist_roll,45.4787234,0.1475806194,2.319562543,-0.01187892354,2.30768362
+75,2026-11-13,hug - Run 4 - exec157033049,B,7,hug,315,arm,left_shoulder_pitch,52.4031746,0.2050376338,3.374244104,0,3.374244104
+75,2026-11-13,hug - Run 4 - exec157033049,B,7,hug,315,arm,left_shoulder_roll,48.67619048,0.06561204282,1.934962042,0,1.934962042
+75,2026-11-13,hug - Run 4 - exec157033049,B,7,hug,315,arm,left_shoulder_yaw,46.01904762,0.009841806423,0.399717925,0,0.399717925
+75,2026-11-13,hug - Run 4 - exec157033049,B,7,hug,315,arm,left_elbow,45.32063492,0.1000583653,1.723959709,0,1.723959709
+75,2026-11-13,hug - Run 4 - exec157033049,B,7,hug,315,arm,left_wrist_roll,48,0,0.01920286486,0,0.01920286486
+75,2026-11-13,hug - Run 4 - exec157033049,B,7,hug,315,arm,right_shoulder_pitch,52.25714286,0.1951958274,3.324753304,0,3.324753304
+75,2026-11-13,hug - Run 4 - exec157033049,B,7,hug,315,arm,right_shoulder_roll,50.78095238,0.06561204282,1.646689889,0,1.646689889
+75,2026-11-13,hug - Run 4 - exec157033049,B,7,hug,315,arm,right_shoulder_yaw,46,0,0.3149253754,0,0.3149253754
+75,2026-11-13,hug - Run 4 - exec157033049,B,7,hug,315,arm,right_elbow,45.91428571,0.06889264496,1.428180908,0,1.428180908
+75,2026-11-13,hug - Run 4 - exec157033049,B,7,hug,315,arm,right_wrist_roll,48,0,0.01691508636,0,0.01691508636
+75,2026-11-13,hug - Run 4 - exec157033049,B,7,hug,315,waist,waist_pitch,46.94285714,0.1722316124,2.919656064,0.3281187603,3.247774824
+75,2026-11-13,hug - Run 4 - exec157033049,B,7,hug,315,waist,waist_roll,47.1968254,0.1033389674,2.919656064,-0.3281187603,2.591537304
+81,2026-11-13,hug - Run 5 - exec157033153,B,7,hug,288,arm,left_shoulder_pitch,53.29513889,0.227512493,3.540831018,0,3.540831018
+81,2026-11-13,hug - Run 5 - exec157033153,B,7,hug,288,arm,left_shoulder_roll,49.01041667,0.1083392824,1.95399943,0,1.95399943
+81,2026-11-13,hug - Run 5 - exec157033153,B,7,hug,288,arm,left_shoulder_yaw,47,0,0.2976323432,0,0.2976323432
+81,2026-11-13,hug - Run 5 - exec157033153,B,7,hug,288,arm,left_elbow,46.01736111,0.1083392824,1.80227202,0,1.80227202
+81,2026-11-13,hug - Run 5 - exec157033153,B,7,hug,288,arm,left_wrist_roll,48,0,0.02047541652,0,0.02047541652
+81,2026-11-13,hug - Run 5 - exec157033153,B,7,hug,288,arm,right_shoulder_pitch,52.27083333,0.2257068383,3.499145778,0,3.499145778
+81,2026-11-13,hug - Run 5 - exec157033153,B,7,hug,288,arm,right_shoulder_roll,51.66666667,0.06680922412,1.650074063,0,1.650074063
+81,2026-11-13,hug - Run 5 - exec157033153,B,7,hug,288,arm,right_shoulder_yaw,46.38194444,0.03611309412,0.3319075572,0,0.3319075572
+81,2026-11-13,hug - Run 5 - exec157033153,B,7,hug,288,arm,right_elbow,46.06944444,0.1083392824,1.57053393,0,1.57053393
+81,2026-11-13,hug - Run 5 - exec157033153,B,7,hug,288,arm,right_wrist_roll,48,0,0.00822358868,0,0.00822358868
+81,2026-11-13,hug - Run 5 - exec157033153,B,7,hug,288,waist,waist_pitch,47.01041667,0.1444523765,3.262035101,0.1413040471,3.403339149
+81,2026-11-13,hug - Run 5 - exec157033153,B,7,hug,288,waist,waist_roll,48.24305556,0.1426467218,3.262035101,-0.1413040471,3.120731054
+50,2026-11-13,reject - Run 1 - exec157032041,B,5,reject,284,arm,left_shoulder_pitch,43.60211268,0.146535876,2.8487304,0,2.8487304
+50,2026-11-13,reject - Run 1 - exec157032041,B,5,reject,284,arm,left_shoulder_roll,39.09507042,0.0146535876,0.4693573753,0,0.4693573753
+50,2026-11-13,reject - Run 1 - exec157032041,B,5,reject,284,arm,left_shoulder_yaw,45.40492958,0.6117872825,9.063890418,0,9.063890418
+50,2026-11-13,reject - Run 1 - exec157032041,B,5,reject,284,arm,left_elbow,39,0,0.2208785185,0,0.2208785185
+50,2026-11-13,reject - Run 1 - exec157032041,B,5,reject,284,arm,left_wrist_roll,42.53169014,0.06960454112,1.542889677,0,1.542889677
+50,2026-11-13,reject - Run 1 - exec157032041,B,5,reject,284,arm,right_shoulder_pitch,45.18309859,0.4121321514,6.351052328,0,6.351052328
+50,2026-11-13,reject - Run 1 - exec157032041,B,5,reject,284,arm,right_shoulder_roll,43.41549296,0.02198038141,0.7604207578,0,0.7604207578
+50,2026-11-13,reject - Run 1 - exec157032041,B,5,reject,284,arm,right_shoulder_yaw,42.67957746,0.2472792908,3.945586303,0,3.945586303
+50,2026-11-13,reject - Run 1 - exec157032041,B,5,reject,284,arm,right_elbow,40,0,0.2233357469,0,0.2233357469
+50,2026-11-13,reject - Run 1 - exec157032041,B,5,reject,284,arm,right_wrist_roll,42,0,0.1823566699,0,0.1823566699
+50,2026-11-13,reject - Run 1 - exec157032041,B,5,reject,284,waist,waist_pitch,40.62323944,0.1538626699,2.191416288,0.08009655873,2.271512846
+50,2026-11-13,reject - Run 1 - exec157032041,B,5,reject,284,waist,waist_roll,42.04929577,0.109901907,2.191416288,-0.08009655873,2.111319729
+70,2026-11-13,reject - Run 1 - exec157032925,B,6,reject,294,arm,left_shoulder_pitch,51.54081633,0.1235454231,2.12401968,0,2.12401968
+70,2026-11-13,reject - Run 1 - exec157032925,B,6,reject,294,arm,left_shoulder_roll,47,0,0.5082237037,0,0.5082237037
+70,2026-11-13,reject - Run 1 - exec157032925,B,6,reject,294,arm,left_shoulder_yaw,57.34693878,0.877172504,13.01279277,0,13.01279277
+70,2026-11-13,reject - Run 1 - exec157032925,B,6,reject,294,arm,left_elbow,44,0,0.2588613042,0,0.2588613042
+70,2026-11-13,reject - Run 1 - exec157032925,B,6,reject,294,arm,left_wrist_roll,48.00340136,0.08118699232,1.531072641,0,1.531072641
+70,2026-11-13,reject - Run 1 - exec157032925,B,6,reject,294,arm,right_shoulder_pitch,55.31632653,0.5294803847,9.13644705,0,9.13644705
+70,2026-11-13,reject - Run 1 - exec157032925,B,6,reject,294,arm,right_shoulder_roll,50.75170068,0.06353764616,1.370177136,0,1.370177136
+70,2026-11-13,reject - Run 1 - exec157032925,B,6,reject,294,arm,right_shoulder_yaw,47.62585034,0.1394298346,2.723127008,0,2.723127008
+70,2026-11-13,reject - Run 1 - exec157032925,B,6,reject,294,arm,right_elbow,45,0,0.1492297294,0,0.1492297294
+70,2026-11-13,reject - Run 1 - exec157032925,B,6,reject,294,arm,right_wrist_roll,48,0,0.1750770887,0,0.1750770887
+70,2026-11-13,reject - Run 1 - exec157032925,B,6,reject,294,waist,waist_pitch,45.69727891,0.1411947693,2.231802051,0.09696045305,2.328762504
+70,2026-11-13,reject - Run 1 - exec157032925,B,6,reject,294,waist,waist_roll,46.36394558,0.1200155539,2.231802051,-0.09696045305,2.134841598
+55,2026-11-13,reject - Run 2 - exec157032539,B,6,reject,278,arm,left_shoulder_pitch,47.79136691,0.1725032815,2.747388443,0,2.747388443
+55,2026-11-13,reject - Run 2 - exec157032539,B,6,reject,278,arm,left_shoulder_roll,44,0,0.4551774842,0,0.4551774842
+55,2026-11-13,reject - Run 2 - exec157032539,B,6,reject,278,arm,left_shoulder_yaw,49.3705036,0.5250099872,9.297523238,0,9.297523238
+55,2026-11-13,reject - Run 2 - exec157032539,B,6,reject,278,arm,left_elbow,42,0,0.2510672096,0,0.2510672096
+55,2026-11-13,reject - Run 2 - exec157032539,B,6,reject,278,arm,left_wrist_roll,45.76258993,0.07500142674,1.579123409,0,1.579123409
+55,2026-11-13,reject - Run 2 - exec157032539,B,6,reject,278,arm,right_shoulder_pitch,50.12230216,0.395632526,6.670117122,0,6.670117122
+55,2026-11-13,reject - Run 2 - exec157032539,B,6,reject,278,arm,right_shoulder_roll,48,0,0.7551606355,0,0.7551606355
+55,2026-11-13,reject - Run 2 - exec157032539,B,6,reject,278,arm,right_shoulder_yaw,46.28057554,0.2268793159,3.899503061,0,3.899503061
+55,2026-11-13,reject - Run 2 - exec157032539,B,6,reject,278,arm,right_elbow,43,0,0.2477460099,0,0.2477460099
+55,2026-11-13,reject - Run 2 - exec157032539,B,6,reject,278,arm,right_wrist_roll,46,0,0.187932524,0,0.187932524
+55,2026-11-13,reject - Run 2 - exec157032539,B,6,reject,278,waist,waist_pitch,43.26618705,0.1125021401,2.129023346,-0.02371976055,2.105303586
+55,2026-11-13,reject - Run 2 - exec157032539,B,6,reject,278,waist,waist_roll,44.39928058,0.1425027108,2.129023346,0.02371976055,2.152743107
+62,2026-11-13,reject - Run 3 - exec157032698,B,6,reject,297,arm,left_shoulder_pitch,49.61952862,0.1396873703,2.458708826,0,2.458708826
+62,2026-11-13,reject - Run 3 - exec157032698,B,6,reject,297,arm,left_shoulder_roll,45.59259259,-0.03492184256,0.5331923834,0,0.5331923834
+62,2026-11-13,reject - Run 3 - exec157032698,B,6,reject,297,arm,left_shoulder_yaw,50.84511785,0.5535112046,9.386316433,0,9.386316433
+62,2026-11-13,reject - Run 3 - exec157032698,B,6,reject,297,arm,left_elbow,43,0,0.2910907856,0,0.2910907856
+62,2026-11-13,reject - Run 3 - exec157032698,B,6,reject,297,arm,left_wrist_roll,46.85858586,0.07333586938,1.476809939,0,1.476809939
+62,2026-11-13,reject - Run 3 - exec157032698,B,6,reject,297,arm,right_shoulder_pitch,51.38047138,0.3911246367,6.588077738,0,6.588077738
+62,2026-11-13,reject - Run 3 - exec157032698,B,6,reject,297,arm,right_shoulder_roll,49,0,0.8020486961,0,0.8020486961
+62,2026-11-13,reject - Run 3 - exec157032698,B,6,reject,297,arm,right_shoulder_yaw,46.95959596,0.1781013971,3.541379257,0,3.541379257
+62,2026-11-13,reject - Run 3 - exec157032698,B,6,reject,297,arm,right_elbow,44,0,0.1892915264,0,0.1892915264
+62,2026-11-13,reject - Run 3 - exec157032698,B,6,reject,297,arm,right_wrist_roll,47,0,0.1750399712,0,0.1750399712
+62,2026-11-13,reject - Run 3 - exec157032698,B,6,reject,297,waist,waist_pitch,44.4983165,0.1396873703,2.121600588,0.1048300104,2.226430598
+62,2026-11-13,reject - Run 3 - exec157032698,B,6,reject,297,waist,waist_roll,45.23905724,0.1134959883,2.121600588,-0.1048300104,2.016770577
+76,2026-11-13,reject - Run 4 - exec157033050,B,7,reject,301,arm,left_shoulder_pitch,51.53488372,0.1273399531,2.583188703,0,2.583188703
+76,2026-11-13,reject - Run 4 - exec157033050,B,7,reject,301,arm,left_shoulder_roll,48,0,0.5291573599,0,0.5291573599
+76,2026-11-13,reject - Run 4 - exec157033050,B,7,reject,301,arm,left_shoulder_yaw,53.21262458,0.6005627519,10.51638347,0,10.51638347
+76,2026-11-13,reject - Run 4 - exec157033050,B,7,reject,301,arm,left_elbow,45,0,0.2893641937,0,0.2893641937
+76,2026-11-13,reject - Run 4 - exec157033050,B,7,reject,301,arm,left_wrist_roll,48.65448505,0.0688324071,1.563311411,0,1.563311411
+76,2026-11-13,reject - Run 4 - exec157033050,B,7,reject,301,arm,right_shoulder_pitch,55.1627907,0.4215984935,6.600158682,0,6.600158682
+76,2026-11-13,reject - Run 4 - exec157033050,B,7,reject,301,arm,right_shoulder_roll,51,0,0.7698173142,0,0.7698173142
+76,2026-11-13,reject - Run 4 - exec157033050,B,7,reject,301,arm,right_shoulder_yaw,47.97674419,0.1686393974,3.53585204,0,3.53585204
+76,2026-11-13,reject - Run 4 - exec157033050,B,7,reject,301,arm,right_elbow,45,0,0.2118287277,0,0.2118287277
+76,2026-11-13,reject - Run 4 - exec157033050,B,7,reject,301,arm,right_wrist_roll,48,0,0.1933526746,0,0.1933526746
+76,2026-11-13,reject - Run 4 - exec157033050,B,7,reject,301,waist,waist_pitch,46.44850498,0.135944004,2.784617541,-0.2515403854,2.533077156
+76,2026-11-13,reject - Run 4 - exec157033050,B,7,reject,301,waist,waist_roll,48.05980066,0.1720810177,2.784617541,0.2515403854,3.036157927
+82,2026-11-13,reject - Run 5 - exec157033154,B,7,reject,276,arm,left_shoulder_pitch,52.27898551,0.07566588299,2.167241616,0,2.167241616
+82,2026-11-13,reject - Run 5 - exec157033154,B,7,reject,276,arm,left_shoulder_roll,49.36956522,-0.06242435347,0.5167220533,0,0.5167220533
+82,2026-11-13,reject - Run 5 - exec157033154,B,7,reject,276,arm,left_shoulder_yaw,55.92391304,0.9023156547,11.69126092,0,11.69126092
+82,2026-11-13,reject - Run 5 - exec157033154,B,7,reject,276,arm,left_elbow,45,0,0.3062547788,0,0.3062547788
+82,2026-11-13,reject - Run 5 - exec157033154,B,7,reject,276,arm,left_wrist_roll,49.01086957,0.1059322362,1.626588748,0,1.626588748
+82,2026-11-13,reject - Run 5 - exec157033154,B,7,reject,276,arm,right_shoulder_pitch,55.53985507,0.5031781219,7.359659485,0,7.359659485
+82,2026-11-13,reject - Run 5 - exec157033154,B,7,reject,276,arm,right_shoulder_roll,51.4384058,0.0378329415,0.9040433288,0,0.9040433288
+82,2026-11-13,reject - Run 5 - exec157033154,B,7,reject,276,arm,right_shoulder_yaw,48.66304348,0.2591556493,3.675195011,0,3.675195011
+82,2026-11-13,reject - Run 5 - exec157033154,B,7,reject,276,arm,right_elbow,45.09782609,0,0.2159509416,0,0.2159509416
+82,2026-11-13,reject - Run 5 - exec157033154,B,7,reject,276,arm,right_wrist_roll,48,0,0.1964942482,0,0.1964942482
+82,2026-11-13,reject - Run 5 - exec157033154,B,7,reject,276,waist,waist_pitch,46.72101449,0.1248487069,2.635420191,-0.2872739337,2.348146257
+82,2026-11-13,reject - Run 5 - exec157033154,B,7,reject,276,waist,waist_roll,47.90217391,0.1891647075,2.635420191,0.2872739337,2.922694125
+51,2026-11-13,shake hand - Run 1 - exec157032091,B,5,shake hand,282,arm,left_shoulder_pitch,43,0,0.05281660414,0,0.05281660414
+51,2026-11-13,shake hand - Run 1 - exec157032091,B,5,shake hand,282,arm,left_shoulder_roll,40.17730496,0.03693155503,0.8864296904,0,0.8864296904
+51,2026-11-13,shake hand - Run 1 - exec157032091,B,5,shake hand,282,arm,left_shoulder_yaw,40.24113475,0.03693155503,0.1061721532,0,0.1061721532
+51,2026-11-13,shake hand - Run 1 - exec157032091,B,5,shake hand,282,arm,left_elbow,39,0,0.1427395674,0,0.1427395674
+51,2026-11-13,shake hand - Run 1 - exec157032091,B,5,shake hand,282,arm,left_wrist_roll,42,0,0.01166366675,0,0.01166366675
+51,2026-11-13,shake hand - Run 1 - exec157032091,B,5,shake hand,282,arm,right_shoulder_pitch,43.38297872,0.1292604426,2.055576423,0,2.055576423
+51,2026-11-13,shake hand - Run 1 - exec157032091,B,5,shake hand,282,arm,right_shoulder_roll,44,0,0.4488692759,0,0.4488692759
+51,2026-11-13,shake hand - Run 1 - exec157032091,B,5,shake hand,282,arm,right_shoulder_yaw,41,0,0.01051391754,0,0.01051391754
+51,2026-11-13,shake hand - Run 1 - exec157032091,B,5,shake hand,282,arm,right_elbow,40.86170213,0.07386311005,1.588926455,0,1.588926455
+51,2026-11-13,shake hand - Run 1 - exec157032091,B,5,shake hand,282,arm,right_wrist_roll,43,0,0.007379054473,0,0.007379054473
+51,2026-11-13,shake hand - Run 1 - exec157032091,B,5,shake hand,282,waist,waist_pitch,40,0,0.4209765606,-0.2173593097,0.2036172509
+51,2026-11-13,shake hand - Run 1 - exec157032091,B,5,shake hand,282,waist,waist_roll,41.26595745,0.03693155503,0.4209765606,0.2173593097,0.6383358703
+71,2026-11-13,shake hand - Run 1 - exec157032943,B,6,shake hand,328,arm,left_shoulder_pitch,50,0,0.04128934414,0,0.04128934414
+71,2026-11-13,shake hand - Run 1 - exec157032943,B,6,shake hand,328,arm,left_shoulder_roll,47.36280488,0.03141051085,0.9016468336,0,0.9016468336
+71,2026-11-13,shake hand - Run 1 - exec157032943,B,6,shake hand,328,arm,left_shoulder_yaw,48,0,0.1892328522,0,0.1892328522
+71,2026-11-13,shake hand - Run 1 - exec157032943,B,6,shake hand,328,arm,left_elbow,44,0,0.1360235412,0,0.1360235412
+71,2026-11-13,shake hand - Run 1 - exec157032943,B,6,shake hand,328,arm,left_wrist_roll,47.92682927,0.003141051085,0.008236245305,0,0.008236245305
+71,2026-11-13,shake hand - Run 1 - exec157032943,B,6,shake hand,328,arm,right_shoulder_pitch,50.45731707,0.09423153255,1.710343411,0,1.710343411
+71,2026-11-13,shake hand - Run 1 - exec157032943,B,6,shake hand,328,arm,right_shoulder_roll,50,0,0.4644925722,0,0.4644925722
+71,2026-11-13,shake hand - Run 1 - exec157032943,B,6,shake hand,328,arm,right_shoulder_yaw,46,0,0.03018798209,0,0.03018798209
+71,2026-11-13,shake hand - Run 1 - exec157032943,B,6,shake hand,328,arm,right_elbow,45.97865854,0.0628210217,1.431353633,0,1.431353633
+71,2026-11-13,shake hand - Run 1 - exec157032943,B,6,shake hand,328,arm,right_wrist_roll,48,0,0.002274331216,0,0.002274331216
+71,2026-11-13,shake hand - Run 1 - exec157032943,B,6,shake hand,328,waist,waist_pitch,44,0,0.4514264353,-0.2782324006,0.1731940347
+71,2026-11-13,shake hand - Run 1 - exec157032943,B,6,shake hand,328,waist,waist_roll,45.14634146,0,0.4514264353,0.2782324006,0.729658836
+56,2026-11-13,shake hand - Run 2 - exec157032549,B,6,shake hand,276,arm,left_shoulder_pitch,47,0,0.0397669116,0,0.0397669116
+56,2026-11-13,shake hand - Run 2 - exec157032549,B,6,shake hand,276,arm,left_shoulder_roll,44.20652174,0.03780565014,0.856837903,0,0.856837903
+56,2026-11-13,shake hand - Run 2 - exec157032549,B,6,shake hand,276,arm,left_shoulder_yaw,44.39130435,0,0.199068589,0,0.199068589
+56,2026-11-13,shake hand - Run 2 - exec157032549,B,6,shake hand,276,arm,left_elbow,42,0,0.1408866513,0,0.1408866513
+56,2026-11-13,shake hand - Run 2 - exec157032549,B,6,shake hand,276,arm,left_wrist_roll,45.07246377,0.01323197755,0.00911803062,0,0.00911803062
+56,2026-11-13,shake hand - Run 2 - exec157032549,B,6,shake hand,276,arm,right_shoulder_pitch,47.35144928,0.1115266679,1.967737087,0,1.967737087
+56,2026-11-13,shake hand - Run 2 - exec157032549,B,6,shake hand,276,arm,right_shoulder_roll,48,0,0.4218018402,0,0.4218018402
+56,2026-11-13,shake hand - Run 2 - exec157032549,B,6,shake hand,276,arm,right_shoulder_yaw,44.52173913,0.03024452011,0.004244679579,0,0.004244679579
+56,2026-11-13,shake hand - Run 2 - exec157032549,B,6,shake hand,276,arm,right_elbow,44.07971014,0.1115266679,1.627534049,0,1.627534049
+56,2026-11-13,shake hand - Run 2 - exec157032549,B,6,shake hand,276,arm,right_wrist_roll,46,0,0.005396479119,0,0.005396479119
+56,2026-11-13,shake hand - Run 2 - exec157032549,B,6,shake hand,276,waist,waist_pitch,42,0,0.4477180731,-0.1866142326,0.2611038405
+56,2026-11-13,shake hand - Run 2 - exec157032549,B,6,shake hand,276,waist,waist_roll,43.35869565,0.03780565014,0.4477180731,0.1866142326,0.6343323057
+63,2026-11-13,shake hand - Run 3 - exec157032718,B,6,shake hand,300,arm,left_shoulder_pitch,49,0,0.03480398635,0,0.03480398635
+63,2026-11-13,shake hand - Run 3 - exec157032718,B,6,shake hand,300,arm,left_shoulder_roll,46,0,0.8409190239,0,0.8409190239
+63,2026-11-13,shake hand - Run 3 - exec157032718,B,6,shake hand,300,arm,left_shoulder_yaw,46,0,0.195711208,0,0.195711208
+63,2026-11-13,shake hand - Run 3 - exec157032718,B,6,shake hand,300,arm,left_elbow,43,0,0.1440118368,0,0.1440118368
+63,2026-11-13,shake hand - Run 3 - exec157032718,B,6,shake hand,300,arm,left_wrist_roll,46.97666667,0.005181480535,0.008760100882,0,0.008760100882
+63,2026-11-13,shake hand - Run 3 - exec157032718,B,6,shake hand,300,arm,right_shoulder_pitch,49.06666667,0.1001752903,1.745966208,0,1.745966208
+63,2026-11-13,shake hand - Run 3 - exec157032718,B,6,shake hand,300,arm,right_shoulder_roll,49,0,0.4251076426,0,0.4251076426
+63,2026-11-13,shake hand - Run 3 - exec157032718,B,6,shake hand,300,arm,right_shoulder_yaw,45,0,0.006227059663,0,0.006227059663
+63,2026-11-13,shake hand - Run 3 - exec157032718,B,6,shake hand,300,arm,right_elbow,44.99333333,0.07426788767,1.497593073,0,1.497593073
+63,2026-11-13,shake hand - Run 3 - exec157032718,B,6,shake hand,300,arm,right_wrist_roll,47,0,0.00404442248,0,0.00404442248
+63,2026-11-13,shake hand - Run 3 - exec157032718,B,6,shake hand,300,waist,waist_pitch,43,0,0.4856190543,-0.2186115298,0.2670075245
+63,2026-11-13,shake hand - Run 3 - exec157032718,B,6,shake hand,300,waist,waist_roll,44.23666667,0.03454320357,0.4856190543,0.2186115298,0.7042305841
+77,2026-11-13,shake hand - Run 4 - exec157033051,B,7,shake hand,299,arm,left_shoulder_pitch,50,0,0.1039266995,0,0.1039266995
+77,2026-11-13,shake hand - Run 4 - exec157033051,B,7,shake hand,299,arm,left_shoulder_roll,48,0,0.8746828537,0,0.8746828537
+77,2026-11-13,shake hand - Run 4 - exec157033051,B,7,shake hand,299,arm,left_shoulder_yaw,48.02675585,-0.06932466784,0.2372544677,0,0.2372544677
+77,2026-11-13,shake hand - Run 4 - exec157033051,B,7,shake hand,299,arm,left_elbow,45,0,0.1329719564,0,0.1329719564
+77,2026-11-13,shake hand - Run 4 - exec157033051,B,7,shake hand,299,arm,left_wrist_roll,48,0,0.00321924971,0,0.00321924971
+77,2026-11-13,shake hand - Run 4 - exec157033051,B,7,shake hand,299,arm,right_shoulder_pitch,51.49498328,0.06932466784,1.782286772,0,1.782286772
+77,2026-11-13,shake hand - Run 4 - exec157033051,B,7,shake hand,299,arm,right_shoulder_roll,51,0,0.4648088278,0,0.4648088278
+77,2026-11-13,shake hand - Run 4 - exec157033051,B,7,shake hand,299,arm,right_shoulder_yaw,46.06354515,0,0.003151476032,0,0.003151476032
+77,2026-11-13,shake hand - Run 4 - exec157033051,B,7,shake hand,299,arm,right_elbow,46.07692308,0.09358830158,1.61829565,0,1.61829565
+77,2026-11-13,shake hand - Run 4 - exec157033051,B,7,shake hand,299,arm,right_wrist_roll,48,0,0.004341751253,0,0.004341751253
+77,2026-11-13,shake hand - Run 4 - exec157033051,B,7,shake hand,299,waist,waist_pitch,45,0,0.8443112343,-0.3193970988,0.5249141355
+77,2026-11-13,shake hand - Run 4 - exec157033051,B,7,shake hand,299,waist,waist_roll,46.40468227,0.03466233392,0.8443112343,0.3193970988,1.163708333
+83,2026-11-13,shake hand - Run 5 - exec157033155,B,7,shake hand,277,arm,left_shoulder_pitch,51,0,0.09491588928,0,0.09491588928
+83,2026-11-13,shake hand - Run 5 - exec157033155,B,7,shake hand,277,arm,left_shoulder_roll,49,0,0.8862580841,0,0.8862580841
+83,2026-11-13,shake hand - Run 5 - exec157033155,B,7,shake hand,277,arm,left_shoulder_yaw,49.02527076,-0.1129902249,0.2552702008,0,0.2552702008
+83,2026-11-13,shake hand - Run 5 - exec157033155,B,7,shake hand,277,arm,left_elbow,45,0,0.1227701981,0,0.1227701981
+83,2026-11-13,shake hand - Run 5 - exec157033155,B,7,shake hand,277,arm,left_wrist_roll,48,0,0.00323717181,0,0.00323717181
+83,2026-11-13,shake hand - Run 5 - exec157033155,B,7,shake hand,277,arm,right_shoulder_pitch,52.13357401,0.05837828287,1.758525002,0,1.758525002
+83,2026-11-13,shake hand - Run 5 - exec157033155,B,7,shake hand,277,arm,right_shoulder_roll,51.55956679,-0.03766340831,0.459065712,0,0.459065712
+83,2026-11-13,shake hand - Run 5 - exec157033155,B,7,shake hand,277,arm,right_shoulder_yaw,47,0,0.002976552046,0,0.002976552046
+83,2026-11-13,shake hand - Run 5 - exec157033155,B,7,shake hand,277,arm,right_elbow,46.14801444,0.1129902249,1.528726954,0,1.528726954
+83,2026-11-13,shake hand - Run 5 - exec157033155,B,7,shake hand,277,arm,right_wrist_roll,48,0,0.003401773767,0,0.003401773767
+83,2026-11-13,shake hand - Run 5 - exec157033155,B,7,shake hand,277,waist,waist_pitch,45.67870036,-0.03766340831,0.736610257,-0.2124724483,0.5241378087
+83,2026-11-13,shake hand - Run 5 - exec157033155,B,7,shake hand,277,waist,waist_roll,46.33212996,0.03766340831,0.736610257,0.2124724483,0.9490827053
+45,2026-11-13,stand still - Run 1 - exec157031804,B,5,stand still,193,arm,left_shoulder_pitch,39,0,7.218511246e-05,0,7.218511246e-05
+45,2026-11-13,stand still - Run 1 - exec157031804,B,5,stand still,193,arm,left_shoulder_roll,37,0,0.8985996536,0,0.8985996536
+45,2026-11-13,stand still - Run 1 - exec157031804,B,5,stand still,193,arm,left_shoulder_yaw,37.55440415,0.05600861963,0.02995025939,0,0.02995025939
+45,2026-11-13,stand still - Run 1 - exec157031804,B,5,stand still,193,arm,left_elbow,37,0,0.02550103155,0,0.02550103155
+45,2026-11-13,stand still - Run 1 - exec157031804,B,5,stand still,193,arm,left_wrist_roll,40,0,0.001286207458,0,0.001286207458
+45,2026-11-13,stand still - Run 1 - exec157031804,B,5,stand still,193,arm,right_shoulder_pitch,38,0,0.0106243361,0,0.0106243361
+45,2026-11-13,stand still - Run 1 - exec157031804,B,5,stand still,193,arm,right_shoulder_roll,41,0,1.024451116,0,1.024451116
+45,2026-11-13,stand still - Run 1 - exec157031804,B,5,stand still,193,arm,right_shoulder_yaw,38,0,0.001443702249,0,0.001443702249
+45,2026-11-13,stand still - Run 1 - exec157031804,B,5,stand still,193,arm,right_elbow,37.12953368,0.04200646472,1.968684885e-05,0,1.968684885e-05
+45,2026-11-13,stand still - Run 1 - exec157031804,B,5,stand still,193,arm,right_wrist_roll,40,0,8.530967836e-05,0,8.530967836e-05
+45,2026-11-13,stand still - Run 1 - exec157031804,B,5,stand still,193,waist,waist_pitch,37,0,0.419475305,-0.09286106745,0.3266142375
+45,2026-11-13,stand still - Run 1 - exec157031804,B,5,stand still,193,waist,waist_roll,38,0,0.419475305,0.09286106745,0.5123363724
+46,2026-11-13,stand still - Run 1 - exec157031918,B,5,stand still,201,arm,left_shoulder_pitch,39.9800995,0.01068499917,0.001921834756,0,0.001921834756
+46,2026-11-13,stand still - Run 1 - exec157031918,B,5,stand still,201,arm,left_shoulder_roll,38,0,0.9096012393,0,0.9096012393
+46,2026-11-13,stand still - Run 1 - exec157031918,B,5,stand still,201,arm,left_shoulder_yaw,38,0,0.03339581707,0,0.03339581707
+46,2026-11-13,stand still - Run 1 - exec157031918,B,5,stand still,201,arm,left_elbow,37,0,0.0366660867,0,0.0366660867
+46,2026-11-13,stand still - Run 1 - exec157031918,B,5,stand still,201,arm,left_wrist_roll,40,0,0.0007498306096,0,0.0007498306096
+46,2026-11-13,stand still - Run 1 - exec157031918,B,5,stand still,201,arm,right_shoulder_pitch,39,0,0.001064885488,0,0.001064885488
+46,2026-11-13,stand still - Run 1 - exec157031918,B,5,stand still,201,arm,right_shoulder_roll,41.00497512,0.002671249793,0.7882042937,0,0.7882042937
+46,2026-11-13,stand still - Run 1 - exec157031918,B,5,stand still,201,arm,right_shoulder_yaw,39,0,0.01577794829,0,0.01577794829
+46,2026-11-13,stand still - Run 1 - exec157031918,B,5,stand still,201,arm,right_elbow,38,0,4.410768292e-05,0,4.410768292e-05
+46,2026-11-13,stand still - Run 1 - exec157031918,B,5,stand still,201,arm,right_wrist_roll,41,0,0.0006931207315,0,0.0006931207315
+46,2026-11-13,stand still - Run 1 - exec157031918,B,5,stand still,201,waist,waist_pitch,38,0,0.5874727951,-0.109800773,0.477672022
+46,2026-11-13,stand still - Run 1 - exec157031918,B,5,stand still,201,waist,waist_roll,39,0,0.5874727951,0.109800773,0.6972735681
+64,2026-11-13,stand still - Run 1 - exec157032741,B,6,stand still,192,arm,left_shoulder_pitch,49,0,0.001009258611,0,0.001009258611
+64,2026-11-13,stand still - Run 1 - exec157032741,B,6,stand still,192,arm,left_shoulder_roll,46,0,0.7620232334,0,0.7620232334
+64,2026-11-13,stand still - Run 1 - exec157032741,B,6,stand still,192,arm,left_shoulder_yaw,46,0,0.08167078993,0,0.08167078993
+64,2026-11-13,stand still - Run 1 - exec157032741,B,6,stand still,192,arm,left_elbow,43,0,0.07445426104,0,0.07445426104
+64,2026-11-13,stand still - Run 1 - exec157032741,B,6,stand still,192,arm,left_wrist_roll,47,0,0.002196621682,0,0.002196621682
+64,2026-11-13,stand still - Run 1 - exec157032741,B,6,stand still,192,arm,right_shoulder_pitch,48,0,0.01063349595,0,0.01063349595
+64,2026-11-13,stand still - Run 1 - exec157032741,B,6,stand still,192,arm,right_shoulder_roll,49,0,0.7987853133,0,0.7987853133
+64,2026-11-13,stand still - Run 1 - exec157032741,B,6,stand still,192,arm,right_shoulder_yaw,45,0,0.0550276819,0,0.0550276819
+64,2026-11-13,stand still - Run 1 - exec157032741,B,6,stand still,192,arm,right_elbow,44,0,0.0005870850742,0,0.0005870850742
+64,2026-11-13,stand still - Run 1 - exec157032741,B,6,stand still,192,arm,right_wrist_roll,47,0,9.894692261e-05,0,9.894692261e-05
+64,2026-11-13,stand still - Run 1 - exec157032741,B,6,stand still,192,waist,waist_pitch,43,0,0.2348693202,-0.005203545732,0.2296657745
+64,2026-11-13,stand still - Run 1 - exec157032741,B,6,stand still,192,waist,waist_roll,44,0,0.2348693202,0.005203545732,0.2400728659
+52,2026-11-13,stand still - Run 2 - exec157032359,B,6,stand still,195,arm,left_shoulder_pitch,45,0,0.00190952338,0,0.00190952338
+52,2026-11-13,stand still - Run 2 - exec157032359,B,6,stand still,195,arm,left_shoulder_roll,42,0,0.7268334454,0,0.7268334454
+52,2026-11-13,stand still - Run 2 - exec157032359,B,6,stand still,195,arm,left_shoulder_yaw,42,0,0.1039780945,0,0.1039780945
+52,2026-11-13,stand still - Run 2 - exec157032359,B,6,stand still,195,arm,left_elbow,40.99487179,0.002765667813,0.04063907412,0,0.04063907412
+52,2026-11-13,stand still - Run 2 - exec157032359,B,6,stand still,195,arm,left_wrist_roll,44,0,0.01031402425,0,0.01031402425
+52,2026-11-13,stand still - Run 2 - exec157032359,B,6,stand still,195,arm,right_shoulder_pitch,44.60512821,0.05531335627,0.0051635071,0,0.0051635071
+52,2026-11-13,stand still - Run 2 - exec157032359,B,6,stand still,195,arm,right_shoulder_roll,46,0,0.6096575566,0,0.6096575566
+52,2026-11-13,stand still - Run 2 - exec157032359,B,6,stand still,195,arm,right_shoulder_yaw,43,0,0.0194719425,0,0.0194719425
+52,2026-11-13,stand still - Run 2 - exec157032359,B,6,stand still,195,arm,right_elbow,42,0,0.0008573370279,0,0.0008573370279
+52,2026-11-13,stand still - Run 2 - exec157032359,B,6,stand still,195,arm,right_wrist_roll,44.98461538,0.00829700344,0.02079042293,0,0.02079042293
+52,2026-11-13,stand still - Run 2 - exec157032359,B,6,stand still,195,waist,waist_pitch,40.74871795,0.05531335627,0.1256360287,0.01203802721,0.137674056
+52,2026-11-13,stand still - Run 2 - exec157032359,B,6,stand still,195,waist,waist_roll,42,0,0.1256360287,-0.01203802721,0.1135980015
+58,2026-11-13,stand still - Run 3 - exec157032608,B,6,stand still,182,arm,left_shoulder_pitch,47,0,0.0002226849423,0,0.0002226849423
+58,2026-11-13,stand still - Run 3 - exec157032608,B,6,stand still,182,arm,left_shoulder_roll,44,0,0.671694334,0,0.671694334
+58,2026-11-13,stand still - Run 3 - exec157032608,B,6,stand still,182,arm,left_shoulder_yaw,45,0,0.08460636027,0,0.08460636027
+58,2026-11-13,stand still - Run 3 - exec157032608,B,6,stand still,182,arm,left_elbow,42,0,0.03480148114,0,0.03480148114
+58,2026-11-13,stand still - Run 3 - exec157032608,B,6,stand still,182,arm,left_wrist_roll,46,0,0.01144739782,0,0.01144739782
+58,2026-11-13,stand still - Run 3 - exec157032608,B,6,stand still,182,arm,right_shoulder_pitch,47,0,0.01056361695,0,0.01056361695
+58,2026-11-13,stand still - Run 3 - exec157032608,B,6,stand still,182,arm,right_shoulder_roll,48,0,0.6714229367,0,0.6714229367
+58,2026-11-13,stand still - Run 3 - exec157032608,B,6,stand still,182,arm,right_shoulder_yaw,45,0,0.02026432975,0,0.02026432975
+58,2026-11-13,stand still - Run 3 - exec157032608,B,6,stand still,182,arm,right_elbow,44,0,0.001370904176,0,0.001370904176
+58,2026-11-13,stand still - Run 3 - exec157032608,B,6,stand still,182,arm,right_wrist_roll,46,0,0.004516328987,0,0.004516328987
+58,2026-11-13,stand still - Run 3 - exec157032608,B,6,stand still,182,waist,waist_pitch,42.75274725,0.02385894911,0.005565997157,0.004992854316,0.01055885147
+58,2026-11-13,stand still - Run 3 - exec157032608,B,6,stand still,182,waist,waist_roll,43,0,0.005565997157,-0.004992854316,0.0005731428412
+79,2026-11-13,stand still - Run 4 - exec157033053,B,7,stand still,174,arm,left_shoulder_pitch,51,0,0.0116024934,0,0.0116024934
+79,2026-11-13,stand still - Run 4 - exec157033053,B,7,stand still,174,arm,left_shoulder_roll,48,0,0.8235295503,0,0.8235295503
+79,2026-11-13,stand still - Run 4 - exec157033053,B,7,stand still,174,arm,left_shoulder_yaw,47,0,0.2131321262,0,0.2131321262
+79,2026-11-13,stand still - Run 4 - exec157033053,B,7,stand still,174,arm,left_elbow,45,0,0.05155612343,0,0.05155612343
+79,2026-11-13,stand still - Run 4 - exec157033053,B,7,stand still,174,arm,left_wrist_roll,48,0,0.0002765964549,0,0.0002765964549
+79,2026-11-13,stand still - Run 4 - exec157033053,B,7,stand still,174,arm,right_shoulder_pitch,50,0,0.000473125515,0,0.000473125515
+79,2026-11-13,stand still - Run 4 - exec157033053,B,7,stand still,174,arm,right_shoulder_roll,51,0,0.785883317,0,0.785883317
+79,2026-11-13,stand still - Run 4 - exec157033053,B,7,stand still,174,arm,right_shoulder_yaw,46,0,0.007417152305,0,0.007417152305
+79,2026-11-13,stand still - Run 4 - exec157033053,B,7,stand still,174,arm,right_elbow,45,0,0.07958699048,0,0.07958699048
+79,2026-11-13,stand still - Run 4 - exec157033053,B,7,stand still,174,arm,right_wrist_roll,48,0,0.02026432975,0,0.02026432975
+79,2026-11-13,stand still - Run 4 - exec157033053,B,7,stand still,174,waist,waist_pitch,45,0,0.4840409402,-0.0118414627,0.4721994775
+79,2026-11-13,stand still - Run 4 - exec157033053,B,7,stand still,174,waist,waist_roll,46,0,0.4840409402,0.0118414627,0.4958824029
+85,2026-11-13,stand still - Run 5 - exec157033157,B,7,stand still,178,arm,left_shoulder_pitch,51,0,0.01129195622,0,0.01129195622
+85,2026-11-13,stand still - Run 5 - exec157033157,B,7,stand still,178,arm,left_shoulder_roll,48,0,0.7966556939,0,0.7966556939
+85,2026-11-13,stand still - Run 5 - exec157033157,B,7,stand still,178,arm,left_shoulder_yaw,48.02247191,0.01225790385,0.04555916552,0,0.04555916552
+85,2026-11-13,stand still - Run 5 - exec157033157,B,7,stand still,178,arm,left_elbow,45,0,0.02068413153,0,0.02068413153
+85,2026-11-13,stand still - Run 5 - exec157033157,B,7,stand still,178,arm,left_wrist_roll,48,0,1.423056865e-05,0,1.423056865e-05
+85,2026-11-13,stand still - Run 5 - exec157033157,B,7,stand still,178,arm,right_shoulder_pitch,50,0,9.961398052e-05,0,9.961398052e-05
+85,2026-11-13,stand still - Run 5 - exec157033157,B,7,stand still,178,arm,right_shoulder_roll,51,0,0.7108026733,0,0.7108026733
+85,2026-11-13,stand still - Run 5 - exec157033157,B,7,stand still,178,arm,right_shoulder_yaw,47,0,0.001088638501,0,0.001088638501
+85,2026-11-13,stand still - Run 5 - exec157033157,B,7,stand still,178,arm,right_elbow,46,0,0.06227296839,0,0.06227296839
+85,2026-11-13,stand still - Run 5 - exec157033157,B,7,stand still,178,arm,right_wrist_roll,48,0,0.02032836731,0,0.02032836731
+85,2026-11-13,stand still - Run 5 - exec157033157,B,7,stand still,178,waist,waist_pitch,45.51685393,-0.06128951927,0.2573276141,0.1489847788,0.4063123929
+85,2026-11-13,stand still - Run 5 - exec157033157,B,7,stand still,178,waist,waist_roll,46,0,0.2573276141,-0.1489847788,0.1083428353
+91,2026-11-18,Arm/Hands Up - Run 1,B,8,hands up,326,arm,left_shoulder_pitch,47.78834356,0.05533591415,1.318533425,0,1.318533425
+91,2026-11-18,Arm/Hands Up - Run 1,B,8,hands up,326,arm,left_shoulder_roll,44.49386503,-0.03162052237,0.5952996517,0,0.5952996517
+91,2026-11-18,Arm/Hands Up - Run 1,B,8,hands up,326,arm,left_shoulder_yaw,44,0,0.02488751848,0,0.02488751848
+91,2026-11-18,Arm/Hands Up - Run 1,B,8,hands up,326,arm,left_elbow,42.79447853,0.05217386191,1.439948462,0,1.439948462
+91,2026-11-18,Arm/Hands Up - Run 1,B,8,hands up,326,arm,left_wrist_roll,45,0,0.007031908905,0,0.007031908905
+91,2026-11-18,Arm/Hands Up - Run 1,B,8,hands up,326,arm,right_shoulder_pitch,46.85889571,0.07905130592,1.411393473,0,1.411393473
+91,2026-11-18,Arm/Hands Up - Run 1,B,8,hands up,326,arm,right_shoulder_roll,47,0,0.4381928207,0,0.4381928207
+91,2026-11-18,Arm/Hands Up - Run 1,B,8,hands up,326,arm,right_shoulder_yaw,43.38957055,0.01106718283,0.01020209546,0,0.01020209546
+91,2026-11-18,Arm/Hands Up - Run 1,B,8,hands up,326,arm,right_elbow,43.64110429,0.03162052237,1.229760432,0,1.229760432
+91,2026-11-18,Arm/Hands Up - Run 1,B,8,hands up,326,arm,right_wrist_roll,45,0,0.009871867695,0,0.009871867695
+91,2026-11-18,Arm/Hands Up - Run 1,B,8,hands up,326,waist,waist_pitch,45.90797546,0.1264820895,2.919489556,0.4521880438,3.371677599
+91,2026-11-18,Arm/Hands Up - Run 1,B,8,hands up,326,waist,waist_roll,46.1595092,0.08695643652,2.919489556,-0.4521880438,2.467301512
+90,2026-11-18,Arm/Hands Up - Run 2,B,8,hands up,323,arm,left_shoulder_pitch,46.96904025,0.05906877396,1.170778709,0,1.170778709
+90,2026-11-18,Arm/Hands Up - Run 2,B,8,hands up,323,arm,left_shoulder_roll,44,0,0.5798311721,0,0.5798311721
+90,2026-11-18,Arm/Hands Up - Run 2,B,8,hands up,323,arm,left_shoulder_yaw,43.56037152,0.02873616031,0.02133087342,0,0.02133087342
+90,2026-11-18,Arm/Hands Up - Run 2,B,8,hands up,323,arm,left_elbow,42.57585139,0.03192906701,1.321510346,0,1.321510346
+90,2026-11-18,Arm/Hands Up - Run 2,B,8,hands up,323,arm,left_wrist_roll,45,0,0.01683727398,0,0.01683727398
+90,2026-11-18,Arm/Hands Up - Run 2,B,8,hands up,323,arm,right_shoulder_pitch,46.04334365,0.06385813401,1.246534679,0,1.246534679
+90,2026-11-18,Arm/Hands Up - Run 2,B,8,hands up,323,arm,right_shoulder_roll,47,0,0.4496148164,0,0.4496148164
+90,2026-11-18,Arm/Hands Up - Run 2,B,8,hands up,323,arm,right_shoulder_yaw,43,0,0.008536270485,0,0.008536270485
+90,2026-11-18,Arm/Hands Up - Run 2,B,8,hands up,323,arm,right_elbow,43.77089783,0.03192906701,1.227705478,0,1.227705478
+90,2026-11-18,Arm/Hands Up - Run 2,B,8,hands up,323,arm,right_wrist_roll,45,0,0.01354745729,0,0.01354745729
+90,2026-11-18,Arm/Hands Up - Run 2,B,8,hands up,323,waist,waist_pitch,45.10835913,0.127716268,2.817193136,0.3341695843,3.15136272
+90,2026-11-18,Arm/Hands Up - Run 2,B,8,hands up,323,waist,waist_roll,46.10526316,0.06385813401,2.817193136,-0.3341695843,2.483023552
+89,2026-11-18,Arm/Hands Up - Run 3,B,8,hands up,329,arm,left_shoulder_pitch,46.86322188,0.06262468926,1.336140747,0,1.336140747
+89,2026-11-18,Arm/Hands Up - Run 3,B,8,hands up,329,arm,left_shoulder_roll,44,0,0.4511200126,0,0.4511200126
+89,2026-11-18,Arm/Hands Up - Run 3,B,8,hands up,329,arm,left_shoulder_yaw,43.14589666,0.03131234463,0.04933271006,0,0.04933271006
+89,2026-11-18,Arm/Hands Up - Run 3,B,8,hands up,329,arm,left_elbow,42.31914894,0.03131234463,1.381400573,0,1.381400573
+89,2026-11-18,Arm/Hands Up - Run 3,B,8,hands up,329,arm,left_wrist_roll,44.76595745,0.01409055508,0.023501849,0,0.023501849
+89,2026-11-18,Arm/Hands Up - Run 3,B,8,hands up,329,arm,right_shoulder_pitch,46.19756839,0.06262468926,1.416170221,0,1.416170221
+89,2026-11-18,Arm/Hands Up - Run 3,B,8,hands up,329,arm,right_shoulder_roll,47.00911854,0,0.4715036801,0,0.4715036801
+89,2026-11-18,Arm/Hands Up - Run 3,B,8,hands up,329,arm,right_shoulder_yaw,43,0,0.007764656746,0,0.007764656746
+89,2026-11-18,Arm/Hands Up - Run 3,B,8,hands up,329,arm,right_elbow,43.11550152,0.06262468926,1.212214208,0,1.212214208
+89,2026-11-18,Arm/Hands Up - Run 3,B,8,hands up,329,arm,right_wrist_roll,45,0,0.01849351066,0,0.01849351066
+89,2026-11-18,Arm/Hands Up - Run 3,B,8,hands up,329,waist,waist_pitch,45.42553191,0.08610894773,2.358085642,0.5483273151,2.906412957
+89,2026-11-18,Arm/Hands Up - Run 3,B,8,hands up,329,waist,waist_roll,44.93009119,0.06262468926,2.358085642,-0.5483273151,1.809758327
+94,2026-11-18,Arm/Heart - Run 1,B,8,heart,305,arm,left_shoulder_pitch,50.76393443,0.1765494175,3.66509056,0,3.66509056
+94,2026-11-18,Arm/Heart - Run 1,B,8,heart,305,arm,left_shoulder_roll,45.56065574,0.03395181106,0.9326574718,0,0.9326574718
+94,2026-11-18,Arm/Heart - Run 1,B,8,heart,305,arm,left_shoulder_yaw,45,0,0.5412693832,0,0.5412693832
+94,2026-11-18,Arm/Heart - Run 1,B,8,heart,305,arm,left_elbow,43,0,0.118932514,0,0.118932514
+94,2026-11-18,Arm/Heart - Run 1,B,8,heart,305,arm,left_wrist_roll,46,0,0.01617409106,0,0.01617409106
+94,2026-11-18,Arm/Heart - Run 1,B,8,heart,305,arm,right_shoulder_pitch,49.29180328,0.1476903781,3.163245264,0,3.163245264
+94,2026-11-18,Arm/Heart - Run 1,B,8,heart,305,arm,right_shoulder_roll,48,0,0.6940117687,0,0.6940117687
+94,2026-11-18,Arm/Heart - Run 1,B,8,heart,305,arm,right_shoulder_yaw,44,0,0.1580908397,0,0.1580908397
+94,2026-11-18,Arm/Heart - Run 1,B,8,heart,305,arm,right_elbow,43.33442623,0.03395181106,0.1790984718,0,0.1790984718
+94,2026-11-18,Arm/Heart - Run 1,B,8,heart,305,arm,right_wrist_roll,46,0,0.007943783364,0,0.007943783364
+94,2026-11-18,Arm/Heart - Run 1,B,8,heart,305,waist,waist_pitch,52.73114754,0.2987759373,7.240722589,0.5591173192,7.799839908
+94,2026-11-18,Arm/Heart - Run 1,B,8,heart,305,waist,waist_roll,51.49180328,0.2936831657,7.240722589,-0.5591173192,6.68160527
+93,2026-11-18,Arm/Heart - Run 2,B,8,heart,316,arm,left_shoulder_pitch,50.34810127,0.14876809,3.826779998,0,3.826779998
+93,2026-11-18,Arm/Heart - Run 2,B,8,heart,316,arm,left_shoulder_roll,45,0,0.9323034557,0,0.9323034557
+93,2026-11-18,Arm/Heart - Run 2,B,8,heart,316,arm,left_shoulder_yaw,44.79113924,0,0.5244517557,0,0.5244517557
+93,2026-11-18,Arm/Heart - Run 2,B,8,heart,316,arm,left_elbow,43,0,0.1329325603,0,0.1329325603
+93,2026-11-18,Arm/Heart - Run 2,B,8,heart,316,arm,left_wrist_roll,45.81962025,0.0130785134,0.03340247709,0,0.03340247709
+93,2026-11-18,Arm/Heart - Run 2,B,8,heart,316,arm,right_shoulder_pitch,49.07911392,0.130785134,3.317105652,0,3.317105652
+93,2026-11-18,Arm/Heart - Run 2,B,8,heart,316,arm,right_shoulder_roll,48,0,0.6668511567,0,0.6668511567
+93,2026-11-18,Arm/Heart - Run 2,B,8,heart,316,arm,right_shoulder_yaw,44,0,0.1391248842,0,0.1391248842
+93,2026-11-18,Arm/Heart - Run 2,B,8,heart,316,arm,right_elbow,43.00632911,0,0.1797377112,0,0.1797377112
+93,2026-11-18,Arm/Heart - Run 2,B,8,heart,316,arm,right_wrist_roll,46,0,0.006224387679,0,0.006224387679
+93,2026-11-18,Arm/Heart - Run 2,B,8,heart,316,waist,waist_pitch,51.44303797,0.4217820573,7.47656154,1.499846725,8.976408265
+93,2026-11-18,Arm/Heart - Run 2,B,8,heart,316,waist,waist_roll,50.60443038,0.3089798792,7.47656154,-1.499846725,5.976714814
+92,2026-11-18,Arm/Heart - Run 3,B,8,heart,316,arm,left_shoulder_pitch,49.84810127,0.1749679228,4.139081535,0,4.139081535
+92,2026-11-18,Arm/Heart - Run 3,B,8,heart,316,arm,left_shoulder_roll,45,0,0.8586007738,0,0.8586007738
+92,2026-11-18,Arm/Heart - Run 3,B,8,heart,316,arm,left_shoulder_yaw,44,0,0.5362512388,0,0.5362512388
+92,2026-11-18,Arm/Heart - Run 3,B,8,heart,316,arm,left_elbow,42,0,0.1654292347,0,0.1654292347
+92,2026-11-18,Arm/Heart - Run 3,B,8,heart,316,arm,left_wrist_roll,45,0,0.04544644681,0,0.04544644681
+92,2026-11-18,Arm/Heart - Run 3,B,8,heart,316,arm,right_shoulder_pitch,48.87025316,0.1782383513,3.647759714,0,3.647759714
+92,2026-11-18,Arm/Heart - Run 3,B,8,heart,316,arm,right_shoulder_roll,48,0,0.6884180789,0,0.6884180789
+92,2026-11-18,Arm/Heart - Run 3,B,8,heart,316,arm,right_shoulder_yaw,44,0,0.08391901431,0,0.08391901431
+92,2026-11-18,Arm/Heart - Run 3,B,8,heart,316,arm,right_elbow,43,0,0.2138896799,0,0.2138896799
+92,2026-11-18,Arm/Heart - Run 3,B,8,heart,316,arm,right_wrist_roll,46,0,0.008100120733,0,0.008100120733
+92,2026-11-18,Arm/Heart - Run 3,B,8,heart,316,waist,waist_pitch,50.41139241,0.4807529843,7.444831149,2.31012196,9.75495311
+92,2026-11-18,Arm/Heart - Run 3,B,8,heart,316,waist,waist_roll,48.51265823,0.2910681333,7.444831149,-2.31012196,5.134709189
+97,2026-11-18,Arm/Hug - Run 1,B,8,hug,311,arm,left_shoulder_pitch,51.78135048,0.1844583252,3.242842536,0,3.242842536
+97,2026-11-18,Arm/Hug - Run 1,B,8,hug,311,arm,left_shoulder_roll,47.8585209,0.06647146856,1.838873897,0,1.838873897
+97,2026-11-18,Arm/Hug - Run 1,B,8,hug,311,arm,left_shoulder_yaw,45,0,0.2913526816,0,0.2913526816
+97,2026-11-18,Arm/Hug - Run 1,B,8,hug,311,arm,left_elbow,44.40514469,0.09638362941,1.677125777,0,1.677125777
+97,2026-11-18,Arm/Hug - Run 1,B,8,hug,311,arm,left_wrist_roll,46,0,0.03109694976,0,0.03109694976
+97,2026-11-18,Arm/Hug - Run 1,B,8,hug,311,arm,right_shoulder_pitch,50.42122186,0.162855098,2.984329797,0,2.984329797
+97,2026-11-18,Arm/Hug - Run 1,B,8,hug,311,arm,right_shoulder_roll,50.30868167,0.006647146856,1.626823325,0,1.626823325
+97,2026-11-18,Arm/Hug - Run 1,B,8,hug,311,arm,right_shoulder_yaw,45,0,0.3181043661,0,0.3181043661
+97,2026-11-18,Arm/Hug - Run 1,B,8,hug,311,arm,right_elbow,45.08681672,0.06647146856,1.466586069,0,1.466586069
+97,2026-11-18,Arm/Hug - Run 1,B,8,hug,311,arm,right_wrist_roll,47,0,0.007550254694,0,0.007550254694
+97,2026-11-18,Arm/Hug - Run 1,B,8,hug,311,waist,waist_pitch,48.86173633,0.1994144057,3.883017506,0.04894282752,3.931960334
+97,2026-11-18,Arm/Hug - Run 1,B,8,hug,311,waist,waist_roll,50.08681672,0.1445754441,3.883017506,-0.04894282752,3.834074679
+96,2026-11-18,Arm/Hug - Run 2,B,8,hug,334,arm,left_shoulder_pitch,51.26646707,0.1541471535,2.898822988,0,2.898822988
+96,2026-11-18,Arm/Hug - Run 2,B,8,hug,334,arm,left_shoulder_roll,47.7005988,0.03237090224,1.794382889,0,1.794382889
+96,2026-11-18,Arm/Hug - Run 2,B,8,hug,334,arm,left_shoulder_yaw,45,0,0.2890473053,0,0.2890473053
+96,2026-11-18,Arm/Hug - Run 2,B,8,hug,334,arm,left_elbow,44.13173653,0.06782474755,1.539717447,0,1.539717447
+96,2026-11-18,Arm/Hug - Run 2,B,8,hug,334,arm,left_wrist_roll,46,0,0.03224697983,0,0.03224697983
+96,2026-11-18,Arm/Hug - Run 2,B,8,hug,334,arm,right_shoulder_pitch,50.19760479,0.1479812674,2.794160607,0,2.794160607
+96,2026-11-18,Arm/Hug - Run 2,B,8,hug,334,arm,right_shoulder_roll,50.23053892,0,1.545875619,0,1.545875619
+96,2026-11-18,Arm/Hug - Run 2,B,8,hug,334,arm,right_shoulder_yaw,45,0,0.2982466436,0,0.2982466436
+96,2026-11-18,Arm/Hug - Run 2,B,8,hug,334,arm,right_elbow,44.9491018,0.06165886141,1.372669446,0,1.372669446
+96,2026-11-18,Arm/Hug - Run 2,B,8,hug,334,arm,right_wrist_roll,46.26047904,0.02774648763,0.005452864181,0,0.005452864181
+96,2026-11-18,Arm/Hug - Run 2,B,8,hug,334,waist,waist_pitch,48.00898204,0.2034742427,3.534385154,0.02770418675,3.562089341
+96,2026-11-18,Arm/Hug - Run 2,B,8,hug,334,waist,waist_roll,49.23652695,0.09248829212,3.534385154,-0.02770418675,3.506680967
+95,2026-11-18,Arm/Hug - Run 3,B,8,hug,321,arm,left_shoulder_pitch,51.48286604,0.1558908833,3.246068649,0,3.246068649
+95,2026-11-18,Arm/Hug - Run 3,B,8,hug,321,arm,left_shoulder_roll,46.93457944,0.06428490033,1.823616074,0,1.823616074
+95,2026-11-18,Arm/Hug - Run 3,B,8,hug,321,arm,left_shoulder_yaw,45,0,0.3296780765,0,0.3296780765
+95,2026-11-18,Arm/Hug - Run 3,B,8,hug,321,arm,left_elbow,44.07476636,0.06428490033,1.675034662,0,1.675034662
+95,2026-11-18,Arm/Hug - Run 3,B,8,hug,321,arm,left_wrist_roll,46,0,0.02695992313,0,0.02695992313
+95,2026-11-18,Arm/Hug - Run 3,B,8,hug,321,arm,right_shoulder_pitch,49.87227414,0.1767834759,3.064699741,0,3.064699741
+95,2026-11-18,Arm/Hug - Run 3,B,8,hug,321,arm,right_shoulder_roll,49.52647975,0.03214245016,1.515204496,0,1.515204496
+95,2026-11-18,Arm/Hug - Run 3,B,8,hug,321,arm,right_shoulder_yaw,44.8847352,0.01124985756,0.3162868898,0,0.3162868898
+95,2026-11-18,Arm/Hug - Run 3,B,8,hug,321,arm,right_elbow,44.94392523,0.06428490033,1.422523595,0,1.422523595
+95,2026-11-18,Arm/Hug - Run 3,B,8,hug,321,arm,right_wrist_roll,46,0,0.01329254808,0,0.01329254808
+95,2026-11-18,Arm/Hug - Run 3,B,8,hug,321,waist,waist_pitch,47.75389408,0.1173199431,3.279360246,0.3603135052,3.639673751
+95,2026-11-18,Arm/Hug - Run 3,B,8,hug,321,waist,waist_roll,47.60124611,0.1060700855,3.279360246,-0.3603135052,2.919046741
+100,2026-11-18,Arm/Reject - Run 1,B,8,reject,333,arm,left_shoulder_pitch,50.47447447,0.03090809568,0.8247711523,0,0.8247711523
+100,2026-11-18,Arm/Reject - Run 1,B,8,reject,333,arm,left_shoulder_roll,47,0,0.5117503935,0,0.5117503935
+100,2026-11-18,Arm/Reject - Run 1,B,8,reject,333,arm,left_shoulder_yaw,62.4954955,0.8144283213,15.8492275,0,15.8492275
+100,2026-11-18,Arm/Reject - Run 1,B,8,reject,333,arm,left_elbow,44,0,0.2846970982,0,0.2846970982
+100,2026-11-18,Arm/Reject - Run 1,B,8,reject,333,arm,left_wrist_roll,48.16516517,0.06181619137,1.404339351,0,1.404339351
+100,2026-11-18,Arm/Reject - Run 1,B,8,reject,333,arm,right_shoulder_pitch,60.92492492,0.6351613663,12.29289087,0,12.29289087
+100,2026-11-18,Arm/Reject - Run 1,B,8,reject,333,arm,right_shoulder_roll,50.78978979,0.03090809568,1.551331809,0,1.551331809
+100,2026-11-18,Arm/Reject - Run 1,B,8,reject,333,arm,right_shoulder_yaw,46.90990991,0.04327133396,1.64505053,0,1.64505053
+100,2026-11-18,Arm/Reject - Run 1,B,8,reject,333,arm,right_elbow,44.55555556,0.03090809568,0.24870205,0,0.24870205
+100,2026-11-18,Arm/Reject - Run 1,B,8,reject,333,arm,right_wrist_roll,47,0,0.1555538331,0,0.1555538331
+100,2026-11-18,Arm/Reject - Run 1,B,8,reject,333,waist,waist_pitch,47.46846847,0.08499726313,2.467433398,-0.336717541,2.130715857
+100,2026-11-18,Arm/Reject - Run 1,B,8,reject,333,waist,waist_roll,48.93693694,0.100451311,2.467433398,0.336717541,2.804150939
+99,2026-11-18,Arm/Reject - Run 2,B,8,reject,325,arm,left_shoulder_pitch,51.12307692,0.06503329265,1.825960299,0,1.825960299
+99,2026-11-18,Arm/Reject - Run 2,B,8,reject,325,arm,left_shoulder_roll,47,0,0.4792630896,0,0.4792630896
+99,2026-11-18,Arm/Reject - Run 2,B,8,reject,325,arm,left_shoulder_yaw,54.52,0.5012322067,9.758888128,0,9.758888128
+99,2026-11-18,Arm/Reject - Run 2,B,8,reject,325,arm,left_elbow,44,0,0.2719745842,0,0.2719745842
+99,2026-11-18,Arm/Reject - Run 2,B,8,reject,325,arm,left_wrist_roll,48,0.06344711478,1.394910726,0,1.394910726
+99,2026-11-18,Arm/Reject - Run 2,B,8,reject,325,arm,right_shoulder_pitch,54.28615385,0.328338819,6.268298873,0,6.268298873
+99,2026-11-18,Arm/Reject - Run 2,B,8,reject,325,arm,right_shoulder_roll,50.2,0,0.8629954523,0,0.8629954523
+99,2026-11-18,Arm/Reject - Run 2,B,8,reject,325,arm,right_shoulder_yaw,47.54461538,0.1586177869,3.212254788,0,3.212254788
+99,2026-11-18,Arm/Reject - Run 2,B,8,reject,325,arm,right_elbow,44.42153846,0,0.2073742391,0,0.2073742391
+99,2026-11-18,Arm/Reject - Run 2,B,8,reject,325,arm,right_wrist_roll,47,0,0.1589113151,0,0.1589113151
+99,2026-11-18,Arm/Reject - Run 2,B,8,reject,325,waist,waist_pitch,47.47692308,0.09517067217,2.533434168,-0.3206517723,2.212782396
+99,2026-11-18,Arm/Reject - Run 2,B,8,reject,325,waist,waist_roll,48.54769231,0.09517067217,2.533434168,0.3206517723,2.85408594
+98,2026-11-18,Arm/Reject - Run 3,B,8,reject,364,arm,left_shoulder_pitch,51.00824176,0.05625240349,1.650377258,0,1.650377258
+98,2026-11-18,Arm/Reject - Run 3,B,8,reject,364,arm,left_shoulder_roll,46.81043956,-0.005625240349,0.4411075557,0,0.4411075557
+98,2026-11-18,Arm/Reject - Run 3,B,8,reject,364,arm,left_shoulder_yaw,53.43406593,0.4458002976,8.8459958,0,8.8459958
+98,2026-11-18,Arm/Reject - Run 3,B,8,reject,364,arm,left_elbow,43.81043956,0.008437860523,0.2666443417,0,0.2666443417
+98,2026-11-18,Arm/Reject - Run 3,B,8,reject,364,arm,left_wrist_roll,47.29395604,0.05343978331,1.234165183,0,1.234165183
+98,2026-11-18,Arm/Reject - Run 3,B,8,reject,364,arm,right_shoulder_pitch,53.18681319,0.2686052267,5.466132457,0,5.466132457
+98,2026-11-18,Arm/Reject - Run 3,B,8,reject,364,arm,right_shoulder_roll,50.01098901,0,0.828746369,0,0.828746369
+98,2026-11-18,Arm/Reject - Run 3,B,8,reject,364,arm,right_shoulder_yaw,47.2967033,0.1167237372,2.793199862,0,2.793199862
+98,2026-11-18,Arm/Reject - Run 3,B,8,reject,364,arm,right_elbow,44.34340659,0,0.1675425835,0,0.1675425835
+98,2026-11-18,Arm/Reject - Run 3,B,8,reject,364,arm,right_wrist_roll,47,0,0.1490527744,0,0.1490527744
+98,2026-11-18,Arm/Reject - Run 3,B,8,reject,364,waist,waist_pitch,47.43681319,0.06469026401,2.123810272,-0.130851188,1.992959084
+98,2026-11-18,Arm/Reject - Run 3,B,8,reject,364,waist,waist_roll,47.82692308,0.1040669465,2.123810272,0.130851188,2.25466146
+103,2026-11-18,Arm/Shake Hand - Run 1,B,8,shake hand,322,arm,left_shoulder_pitch,50,0,0.1659731992,0,0.1659731992
+103,2026-11-18,Arm/Shake Hand - Run 1,B,8,shake hand,322,arm,left_shoulder_roll,48,0,0.7810105537,0,0.7810105537
+103,2026-11-18,Arm/Shake Hand - Run 1,B,8,shake hand,322,arm,left_shoulder_yaw,47,0,0.0313050855,0,0.0313050855
+103,2026-11-18,Arm/Shake Hand - Run 1,B,8,shake hand,322,arm,left_elbow,44.39130435,0.02883097429,0.1121185403,0,0.1121185403
+103,2026-11-18,Arm/Shake Hand - Run 1,B,8,shake hand,322,arm,left_wrist_roll,48,0,0.002627440271,0,0.002627440271
+103,2026-11-18,Arm/Shake Hand - Run 1,B,8,shake hand,322,arm,right_shoulder_pitch,51.05279503,0.06406883176,1.480590126,0,1.480590126
+103,2026-11-18,Arm/Shake Hand - Run 1,B,8,shake hand,322,arm,right_shoulder_roll,51,0,0.4448594641,0,0.4448594641
+103,2026-11-18,Arm/Shake Hand - Run 1,B,8,shake hand,322,arm,right_shoulder_yaw,46,0,0.005136881727,0,0.005136881727
+103,2026-11-18,Arm/Shake Hand - Run 1,B,8,shake hand,322,arm,right_elbow,46.05590062,0.06406883176,1.346476606,0,1.346476606
+103,2026-11-18,Arm/Shake Hand - Run 1,B,8,shake hand,322,arm,right_wrist_roll,48,0,0.01014003146,0,0.01014003146
+103,2026-11-18,Arm/Shake Hand - Run 1,B,8,shake hand,322,waist,waist_pitch,46,0,1.014919745,-0.472387154,0.5425325912
+103,2026-11-18,Arm/Shake Hand - Run 1,B,8,shake hand,322,waist,waist_roll,48.0931677,0,1.014919745,0.472387154,1.487306899
+101,2026-11-18,Arm/Shake Hand - Run 2,B,8,shake hand,322,arm,left_shoulder_pitch,50,0,0.1771398204,0,0.1771398204
+101,2026-11-18,Arm/Shake Hand - Run 2,B,8,shake hand,322,arm,left_shoulder_roll,48,0,0.7865722312,0,0.7865722312
+101,2026-11-18,Arm/Shake Hand - Run 2,B,8,shake hand,322,arm,left_shoulder_yaw,47,0,0.03546651036,0,0.03546651036
+101,2026-11-18,Arm/Shake Hand - Run 2,B,8,shake hand,322,arm,left_elbow,44,0,0.1134676601,0,0.1134676601
+101,2026-11-18,Arm/Shake Hand - Run 2,B,8,shake hand,322,arm,left_wrist_roll,47,0,0.007728922353,0,0.007728922353
+101,2026-11-18,Arm/Shake Hand - Run 2,B,8,shake hand,322,arm,right_shoulder_pitch,51.12111801,0.06408478258,1.503985357,0,1.503985357
+101,2026-11-18,Arm/Shake Hand - Run 2,B,8,shake hand,322,arm,right_shoulder_roll,50.52795031,-0.03204239129,0.4358364881,0,0.4358364881
+101,2026-11-18,Arm/Shake Hand - Run 2,B,8,shake hand,322,arm,right_shoulder_yaw,46,0,0.002222311007,0,0.002222311007
+101,2026-11-18,Arm/Shake Hand - Run 2,B,8,shake hand,322,arm,right_elbow,46.04658385,0.06408478258,1.389754638,0,1.389754638
+101,2026-11-18,Arm/Shake Hand - Run 2,B,8,shake hand,322,arm,right_wrist_roll,48,0,0.007721055765,0,0.007721055765
+101,2026-11-18,Arm/Shake Hand - Run 2,B,8,shake hand,322,waist,waist_pitch,46.42236025,-0.03204239129,0.9736203314,-0.2094681561,0.7641521753
+101,2026-11-18,Arm/Shake Hand - Run 2,B,8,shake hand,322,waist,waist_roll,47.46273292,0.03204239129,0.9736203314,0.2094681561,1.183088487
+102,2026-11-18,Arm/Shake Hand - Run 3,B,8,shake hand,309,arm,left_shoulder_pitch,50,0,0.1745421153,0,0.1745421153
+102,2026-11-18,Arm/Shake Hand - Run 3,B,8,shake hand,309,arm,left_shoulder_roll,48,0,0.7921615053,0,0.7921615053
+102,2026-11-18,Arm/Shake Hand - Run 3,B,8,shake hand,309,arm,left_shoulder_yaw,47,0,0.03122854538,0,0.03122854538
+102,2026-11-18,Arm/Shake Hand - Run 3,B,8,shake hand,309,arm,left_elbow,44,0,0.1144418186,0,0.1144418186
+102,2026-11-18,Arm/Shake Hand - Run 3,B,8,shake hand,309,arm,left_wrist_roll,47.81229773,0.01338341187,0.002832251589,0,0.002832251589
+102,2026-11-18,Arm/Shake Hand - Run 3,B,8,shake hand,309,arm,right_shoulder_pitch,51.11003236,0.06691705937,1.519652583,0,1.519652583
+102,2026-11-18,Arm/Shake Hand - Run 3,B,8,shake hand,309,arm,right_shoulder_roll,50.5210356,0.03345852968,0.4375439322,0,0.4375439322
+102,2026-11-18,Arm/Shake Hand - Run 3,B,8,shake hand,309,arm,right_shoulder_yaw,46,0,0.002315806292,0,0.002315806292
+102,2026-11-18,Arm/Shake Hand - Run 3,B,8,shake hand,309,arm,right_elbow,46.08414239,0.06691705937,1.409133289,0,1.409133289
+102,2026-11-18,Arm/Shake Hand - Run 3,B,8,shake hand,309,arm,right_wrist_roll,48,0,0.01152574742,0,0.01152574742
+102,2026-11-18,Arm/Shake Hand - Run 3,B,8,shake hand,309,waist,waist_pitch,46,0,0.990417484,-0.3794202964,0.6109971875
+102,2026-11-18,Arm/Shake Hand - Run 3,B,8,shake hand,309,waist,waist_roll,47.96116505,0,0.990417484,0.3794202964,1.36983778
+88,2026-11-18,Arm/Stand Still - Run 1,B,8,stand still,204,arm,left_shoulder_pitch,46,0,0.02302708304,0,0.02302708304
+88,2026-11-18,Arm/Stand Still - Run 1,B,8,stand still,204,arm,left_shoulder_roll,43.79901961,0.05261766585,0.6669783117,0,0.6669783117
+88,2026-11-18,Arm/Stand Still - Run 1,B,8,stand still,204,arm,left_shoulder_yaw,43,0,0.06276106295,0,0.06276106295
+88,2026-11-18,Arm/Stand Still - Run 1,B,8,stand still,204,arm,left_elbow,41,0,0.08116286239,0,0.08116286239
+88,2026-11-18,Arm/Stand Still - Run 1,B,8,stand still,204,arm,left_wrist_roll,44,0,0.02388384698,0,0.02388384698
+88,2026-11-18,Arm/Stand Still - Run 1,B,8,stand still,204,arm,right_shoulder_pitch,45,0,0.02030158036,0,0.02030158036
+88,2026-11-18,Arm/Stand Still - Run 1,B,8,stand still,204,arm,right_shoulder_roll,47,0,0.6669410611,0,0.6669410611
+88,2026-11-18,Arm/Stand Still - Run 1,B,8,stand still,204,arm,right_shoulder_yaw,43,0,6.20843436e-06,0,6.20843436e-06
+88,2026-11-18,Arm/Stand Still - Run 1,B,8,stand still,204,arm,right_elbow,42,0,0.001285145913,0,0.001285145913
+88,2026-11-18,Arm/Stand Still - Run 1,B,8,stand still,204,arm,right_wrist_roll,45,0,0.01761953671,0,0.01761953671
+88,2026-11-18,Arm/Stand Still - Run 1,B,8,stand still,204,waist,waist_pitch,43,0,0.5427958898,0.1921767358,0.7349726255
+88,2026-11-18,Arm/Stand Still - Run 1,B,8,stand still,204,waist,waist_roll,43,0,0.5427958898,-0.1921767358,0.350619154
+87,2026-11-18,Arm/Stand Still - Run 2,B,8,stand still,201,arm,left_shoulder_pitch,46,0,0.02282887646,0,0.02282887646
+87,2026-11-18,Arm/Stand Still - Run 2,B,8,stand still,201,arm,left_shoulder_roll,43,0,0.6655030209,0,0.6655030209
+87,2026-11-18,Arm/Stand Still - Run 2,B,8,stand still,201,arm,left_shoulder_yaw,43,0,0.06200910108,0,0.06200910108
+87,2026-11-18,Arm/Stand Still - Run 2,B,8,stand still,201,arm,left_elbow,41,0,0.08116443766,0,0.08116443766
+87,2026-11-18,Arm/Stand Still - Run 2,B,8,stand still,201,arm,left_wrist_roll,44,0,0.02594161865,0,0.02594161865
+87,2026-11-18,Arm/Stand Still - Run 2,B,8,stand still,201,arm,right_shoulder_pitch,45,0,0.02018871658,0,0.02018871658
+87,2026-11-18,Arm/Stand Still - Run 2,B,8,stand still,201,arm,right_shoulder_roll,47,0,0.6674626623,0,0.6674626623
+87,2026-11-18,Arm/Stand Still - Run 2,B,8,stand still,201,arm,right_shoulder_yaw,43,0,0,0,0
+87,2026-11-18,Arm/Stand Still - Run 2,B,8,stand still,201,arm,right_elbow,42,0,0.001291725,0,0.001291725
+87,2026-11-18,Arm/Stand Still - Run 2,B,8,stand still,201,arm,right_wrist_roll,44,0,0.01809675219,0,0.01809675219
+87,2026-11-18,Arm/Stand Still - Run 2,B,8,stand still,201,waist,waist_pitch,43,0,0.5388254942,0.1970927877,0.7359182819
+87,2026-11-18,Arm/Stand Still - Run 2,B,8,stand still,201,waist,waist_roll,44,0,0.5388254942,-0.1970927877,0.3417327065
+86,2026-11-18,Arm/Stand Still - Run 3,B,8,stand still,194,arm,left_shoulder_pitch,46,0,0.02361995652,0,0.02361995652
+86,2026-11-18,Arm/Stand Still - Run 3,B,8,stand still,194,arm,left_shoulder_roll,43,0,0.6695454673,0,0.6695454673
+86,2026-11-18,Arm/Stand Still - Run 3,B,8,stand still,194,arm,left_shoulder_yaw,43,0,0.06258831486,0,0.06258831486
+86,2026-11-18,Arm/Stand Still - Run 3,B,8,stand still,194,arm,left_elbow,41,0,0.08105731901,0,0.08105731901
+86,2026-11-18,Arm/Stand Still - Run 3,B,8,stand still,194,arm,left_wrist_roll,44,0,0.02405083467,0,0.02405083467
+86,2026-11-18,Arm/Stand Still - Run 3,B,8,stand still,194,arm,right_shoulder_pitch,45,0,0.02026432975,0,0.02026432975
+86,2026-11-18,Arm/Stand Still - Run 3,B,8,stand still,194,arm,right_shoulder_roll,47,0,0.6665162634,0,0.6665162634
+86,2026-11-18,Arm/Stand Still - Run 3,B,8,stand still,194,arm,right_shoulder_yaw,43,0,0,0,0
+86,2026-11-18,Arm/Stand Still - Run 3,B,8,stand still,194,arm,right_elbow,42,0,0.001292634436,0,0.001292634436
+86,2026-11-18,Arm/Stand Still - Run 3,B,8,stand still,194,arm,right_wrist_roll,44,0,0.01785532921,0,0.01785532921
+86,2026-11-18,Arm/Stand Still - Run 3,B,8,stand still,194,waist,waist_pitch,43,0,0.5392198078,0.1905182459,0.7297380538
+86,2026-11-18,Arm/Stand Still - Run 3,B,8,stand still,194,waist,waist_roll,44,0,0.5392198078,-0.1905182459,0.3487015619
+107,2026-11-18,Locomotion/Step in place (Run 1),B,9,step in place,316,arm,left_shoulder_pitch,46.34177215,0.01961826515,0.9055381879,0,0.9055381879
+107,2026-11-18,Locomotion/Step in place (Run 1),B,9,step in place,316,arm,left_shoulder_roll,44.20886076,0.06539421716,2.202383148,0,2.202383148
+107,2026-11-18,Locomotion/Step in place (Run 1),B,9,step in place,316,arm,left_shoulder_yaw,43,0,0.2076893401,0,0.2076893401
+107,2026-11-18,Locomotion/Step in place (Run 1),B,9,step in place,316,arm,left_elbow,41,0,0.5325919562,0,0.5325919562
+107,2026-11-18,Locomotion/Step in place (Run 1),B,9,step in place,316,arm,left_wrist_roll,44,0,0.004496949759,0,0.004496949759
+107,2026-11-18,Locomotion/Step in place (Run 1),B,9,step in place,316,arm,right_shoulder_pitch,45.66772152,0.03269710858,0.7701246901,0,0.7701246901
+107,2026-11-18,Locomotion/Step in place (Run 1),B,9,step in place,316,arm,right_shoulder_roll,49.62974684,0.03269710858,3.119817011,0,3.119817011
+107,2026-11-18,Locomotion/Step in place (Run 1),B,9,step in place,316,arm,right_shoulder_yaw,44,0,0.1786796053,0,0.1786796053
+107,2026-11-18,Locomotion/Step in place (Run 1),B,9,step in place,316,arm,right_elbow,43,0,0.3637318935,0,0.3637318935
+107,2026-11-18,Locomotion/Step in place (Run 1),B,9,step in place,316,arm,right_wrist_roll,45,0,0.01105800747,0,0.01105800747
+107,2026-11-18,Locomotion/Step in place (Run 1),B,9,step in place,316,waist,waist_pitch,42,0,0.6822090935,-0.1276374739,0.5545716196
+107,2026-11-18,Locomotion/Step in place (Run 1),B,9,step in place,316,waist,waist_roll,43.54746835,0.03269710858,0.6822090935,0.1276374739,0.8098465674
+108,2026-11-18,Locomotion/Step in place (Run 2),B,9,step in place,303,arm,left_shoulder_pitch,46.95709571,0.01538211479,0.9602943178,0,0.9602943178
+108,2026-11-18,Locomotion/Step in place (Run 2),B,9,step in place,303,arm,left_shoulder_roll,44.87128713,0.03418247732,2.114395548,0,2.114395548
+108,2026-11-18,Locomotion/Step in place (Run 2),B,9,step in place,303,arm,left_shoulder_yaw,43,0,0.1956586245,0,0.1956586245
+108,2026-11-18,Locomotion/Step in place (Run 2),B,9,step in place,303,arm,left_elbow,41,0,0.5059770734,0,0.5059770734
+108,2026-11-18,Locomotion/Step in place (Run 2),B,9,step in place,303,arm,left_wrist_roll,45,0,0.003582205156,0,0.003582205156
+108,2026-11-18,Locomotion/Step in place (Run 2),B,9,step in place,303,arm,right_shoulder_pitch,46,0,0.8108657856,0,0.8108657856
+108,2026-11-18,Locomotion/Step in place (Run 2),B,9,step in place,303,arm,right_shoulder_roll,50.15841584,0.06494670691,2.882797364,0,2.882797364
+108,2026-11-18,Locomotion/Step in place (Run 2),B,9,step in place,303,arm,right_shoulder_yaw,44.01650165,0,0.1769283312,0,0.1769283312
+108,2026-11-18,Locomotion/Step in place (Run 2),B,9,step in place,303,arm,right_elbow,43,0,0.3245887505,0,0.3245887505
+108,2026-11-18,Locomotion/Step in place (Run 2),B,9,step in place,303,arm,right_wrist_roll,45,0,0.009258558251,0,0.009258558251
+108,2026-11-18,Locomotion/Step in place (Run 2),B,9,step in place,303,waist,waist_pitch,43,0,0.6633211196,-0.1599979439,0.5033231757
+108,2026-11-18,Locomotion/Step in place (Run 2),B,9,step in place,303,waist,waist_roll,43.98019802,0.006836495464,0.6633211196,0.1599979439,0.8233190635
+109,2026-11-18,Locomotion/Step in place (Run 3),B,9,step in place,303,arm,left_shoulder_pitch,47.39933993,0.03077005292,1.026659162,0,1.026659162
+109,2026-11-18,Locomotion/Step in place (Run 3),B,9,step in place,303,arm,left_shoulder_roll,45.51815182,0.03418894769,2.163768953,0,2.163768953
+109,2026-11-18,Locomotion/Step in place (Run 3),B,9,step in place,303,arm,left_shoulder_yaw,44,0,0.2224478343,0,0.2224478343
+109,2026-11-18,Locomotion/Step in place (Run 3),B,9,step in place,303,arm,left_elbow,42,0,0.5066458632,0,0.5066458632
+109,2026-11-18,Locomotion/Step in place (Run 3),B,9,step in place,303,arm,left_wrist_roll,45,0,0.001316679842,0,0.001316679842
+109,2026-11-18,Locomotion/Step in place (Run 3),B,9,step in place,303,arm,right_shoulder_pitch,46.99339934,0.003418894769,0.826511286,0,0.826511286
+109,2026-11-18,Locomotion/Step in place (Run 3),B,9,step in place,303,arm,right_shoulder_roll,50.58415842,0.03418894769,2.924809901,0,2.924809901
+109,2026-11-18,Locomotion/Step in place (Run 3),B,9,step in place,303,arm,right_shoulder_yaw,45,0,0.1712561581,0,0.1712561581
+109,2026-11-18,Locomotion/Step in place (Run 3),B,9,step in place,303,arm,right_elbow,43,0,0.2878262134,0,0.2878262134
+109,2026-11-18,Locomotion/Step in place (Run 3),B,9,step in place,303,arm,right_wrist_roll,46,0,0.01327965669,0,0.01327965669
+109,2026-11-18,Locomotion/Step in place (Run 3),B,9,step in place,303,waist,waist_pitch,43,0,0.6292515457,-0.1412497132,0.4880018325
+109,2026-11-18,Locomotion/Step in place (Run 3),B,9,step in place,303,waist,waist_roll,44,0,0.6292515457,0.1412497132,0.7705012588
+110,2026-11-18,Locomotion/Turn around (Run 1) -1.5x5,B,9,turn around,178,arm,left_shoulder_pitch,47.33146067,0.06131063665,0.4236369133,0,0.4236369133
+110,2026-11-18,Locomotion/Turn around (Run 1) -1.5x5,B,9,turn around,178,arm,left_shoulder_roll,45.19662921,0.06131063665,1.729270241,0,1.729270241
+110,2026-11-18,Locomotion/Turn around (Run 1) -1.5x5,B,9,turn around,178,arm,left_shoulder_yaw,44,0,0.1282387694,0,0.1282387694
+110,2026-11-18,Locomotion/Turn around (Run 1) -1.5x5,B,9,turn around,178,arm,left_elbow,42,0,0.171898154,0,0.171898154
+110,2026-11-18,Locomotion/Turn around (Run 1) -1.5x5,B,9,turn around,178,arm,left_wrist_roll,45,0,0.02664673979,0,0.02664673979
+110,2026-11-18,Locomotion/Turn around (Run 1) -1.5x5,B,9,turn around,178,arm,right_shoulder_pitch,47,0,0.2937687438,0,0.2937687438
+110,2026-11-18,Locomotion/Turn around (Run 1) -1.5x5,B,9,turn around,178,arm,right_shoulder_roll,50.21348315,0.06131063665,2.105035521,0,2.105035521
+110,2026-11-18,Locomotion/Turn around (Run 1) -1.5x5,B,9,turn around,178,arm,right_shoulder_yaw,45,0,0.05448884734,0,0.05448884734
+110,2026-11-18,Locomotion/Turn around (Run 1) -1.5x5,B,9,turn around,178,arm,right_elbow,43.98876404,0.003065531833,0.07744275457,0,0.07744275457
+110,2026-11-18,Locomotion/Turn around (Run 1) -1.5x5,B,9,turn around,178,arm,right_wrist_roll,46,0,0.02335236315,0,0.02335236315
+110,2026-11-18,Locomotion/Turn around (Run 1) -1.5x5,B,9,turn around,178,waist,waist_pitch,43.33146067,0,0.8255942818,-0.01716792931,0.8084263525
+110,2026-11-18,Locomotion/Turn around (Run 1) -1.5x5,B,9,turn around,178,waist,waist_roll,44.19101124,0,0.8255942818,0.01716792931,0.8427622111
+111,2026-11-18,Locomotion/Turn around (Run 2) -1.5x5,B,9,turn around,196,arm,left_shoulder_pitch,48,0,0.3030861361,0,0.3030861361
+111,2026-11-18,Locomotion/Turn around (Run 2) -1.5x5,B,9,turn around,196,arm,left_shoulder_roll,45.70408163,0.1100272943,1.844138011,0,1.844138011
+111,2026-11-18,Locomotion/Turn around (Run 2) -1.5x5,B,9,turn around,196,arm,left_shoulder_yaw,45,0,0.1760528266,0,0.1760528266
+111,2026-11-18,Locomotion/Turn around (Run 2) -1.5x5,B,9,turn around,196,arm,left_elbow,42,0,0.1923625103,0,0.1923625103
+111,2026-11-18,Locomotion/Turn around (Run 2) -1.5x5,B,9,turn around,196,arm,left_wrist_roll,45.95408163,0.008252047074,0.01265874425,0,0.01265874425
+111,2026-11-18,Locomotion/Turn around (Run 2) -1.5x5,B,9,turn around,196,arm,right_shoulder_pitch,47,0,0.1568999333,0,0.1568999333
+111,2026-11-18,Locomotion/Turn around (Run 2) -1.5x5,B,9,turn around,196,arm,right_shoulder_roll,50.56632653,0.0715177413,2.03308867,0,2.03308867
+111,2026-11-18,Locomotion/Turn around (Run 2) -1.5x5,B,9,turn around,196,arm,right_shoulder_yaw,45,0,0.04721666374,0,0.04721666374
+111,2026-11-18,Locomotion/Turn around (Run 2) -1.5x5,B,9,turn around,196,arm,right_elbow,44,0,0.08896014914,0,0.08896014914
+111,2026-11-18,Locomotion/Turn around (Run 2) -1.5x5,B,9,turn around,196,arm,right_wrist_roll,46,0,0.03077128134,0,0.03077128134
+111,2026-11-18,Locomotion/Turn around (Run 2) -1.5x5,B,9,turn around,196,waist,waist_pitch,43.0255102,0,0.5530826248,-0.04918663261,0.5038959922
+111,2026-11-18,Locomotion/Turn around (Run 2) -1.5x5,B,9,turn around,196,waist,waist_roll,44.09693878,0,0.5530826248,0.04918663261,0.6022692574
+112,2026-11-18,Locomotion/Turn around (Run 3) -1.5x5,B,9,turn around,177,arm,left_shoulder_pitch,48,0,0.1757601454,0,0.1757601454
+112,2026-11-18,Locomotion/Turn around (Run 3) -1.5x5,B,9,turn around,177,arm,left_shoulder_roll,46,0,1.294391218,0,1.294391218
+112,2026-11-18,Locomotion/Turn around (Run 3) -1.5x5,B,9,turn around,177,arm,left_shoulder_yaw,45,0,0.1135646813,0,0.1135646813
+112,2026-11-18,Locomotion/Turn around (Run 3) -1.5x5,B,9,turn around,177,arm,left_elbow,42,0,0.1650126089,0,0.1650126089
+112,2026-11-18,Locomotion/Turn around (Run 3) -1.5x5,B,9,turn around,177,arm,left_wrist_roll,46,0,0.01129850871,0,0.01129850871
+112,2026-11-18,Locomotion/Turn around (Run 3) -1.5x5,B,9,turn around,177,arm,right_shoulder_pitch,48,0,0.1702862004,0,0.1702862004
+112,2026-11-18,Locomotion/Turn around (Run 3) -1.5x5,B,9,turn around,177,arm,right_shoulder_roll,51,0,1.537162468,0,1.537162468
+112,2026-11-18,Locomotion/Turn around (Run 3) -1.5x5,B,9,turn around,177,arm,right_shoulder_yaw,45.01129944,0.006163023128,0.02323385547,0,0.02323385547
+112,2026-11-18,Locomotion/Turn around (Run 3) -1.5x5,B,9,turn around,177,arm,right_elbow,44,0,0.07722197976,0,0.07722197976
+112,2026-11-18,Locomotion/Turn around (Run 3) -1.5x5,B,9,turn around,177,arm,right_wrist_roll,46,0,0.01554886601,0,0.01554886601
+112,2026-11-18,Locomotion/Turn around (Run 3) -1.5x5,B,9,turn around,177,waist,waist_pitch,43.22033898,0,0.6264584858,-0.05753359145,0.5689248943
+112,2026-11-18,Locomotion/Turn around (Run 3) -1.5x5,B,9,turn around,177,waist,waist_roll,44.23728814,0.006163023128,0.6264584858,0.05753359145,0.6839920772
+104,2026-11-18,Locomotion/Walk forward (Run 1),B,9,walk forward,222,arm,left_shoulder_pitch,42,0,0.152319071,0,0.152319071
+104,2026-11-18,Locomotion/Walk forward (Run 1),B,9,walk forward,222,arm,left_shoulder_roll,40,0,1.373222118,0,1.373222118
+104,2026-11-18,Locomotion/Walk forward (Run 1),B,9,walk forward,222,arm,left_shoulder_yaw,40,0,0.1694741497,0,0.1694741497
+104,2026-11-18,Locomotion/Walk forward (Run 1),B,9,walk forward,222,arm,left_elbow,39,0,0.1445373858,0,0.1445373858
+104,2026-11-18,Locomotion/Walk forward (Run 1),B,9,walk forward,222,arm,left_wrist_roll,42,0,0.02806313008,0,0.02806313008
+104,2026-11-18,Locomotion/Walk forward (Run 1),B,9,walk forward,222,arm,right_shoulder_pitch,41,0,0.2173166804,0,0.2173166804
+104,2026-11-18,Locomotion/Walk forward (Run 1),B,9,walk forward,222,arm,right_shoulder_roll,44.34684685,0,1.573646152,0,1.573646152
+104,2026-11-18,Locomotion/Walk forward (Run 1),B,9,walk forward,222,arm,right_shoulder_yaw,41,0,0.05276598701,0,0.05276598701
+104,2026-11-18,Locomotion/Walk forward (Run 1),B,9,walk forward,222,arm,right_elbow,39.97747748,0.004789740056,0.1254482959,0,0.1254482959
+104,2026-11-18,Locomotion/Walk forward (Run 1),B,9,walk forward,222,arm,right_wrist_roll,42,0,0.02086335977,0,0.02086335977
+104,2026-11-18,Locomotion/Walk forward (Run 1),B,9,walk forward,222,waist,waist_pitch,40,0,0.8320158929,0.1216688776,0.9536847705
+104,2026-11-18,Locomotion/Walk forward (Run 1),B,9,walk forward,222,waist,waist_roll,41.77927928,-0.02873844034,0.8320158929,-0.1216688776,0.7103470154
+105,2026-11-18,Locomotion/Walk forward (Run 2),B,9,walk forward,231,arm,left_shoulder_pitch,44,0,0.1217614273,0,0.1217614273
+105,2026-11-18,Locomotion/Walk forward (Run 2),B,9,walk forward,231,arm,left_shoulder_roll,42.41991342,0.04585562388,1.226989815,0,1.226989815
+105,2026-11-18,Locomotion/Walk forward (Run 2),B,9,walk forward,231,arm,left_shoulder_yaw,42,0,0.1431990705,0,0.1431990705
+105,2026-11-18,Locomotion/Walk forward (Run 2),B,9,walk forward,231,arm,left_elbow,40,0,0.1632166754,0,0.1632166754
+105,2026-11-18,Locomotion/Walk forward (Run 2),B,9,walk forward,231,arm,left_wrist_roll,43,0,0.02862007611,0,0.02862007611
+105,2026-11-18,Locomotion/Walk forward (Run 2),B,9,walk forward,231,arm,right_shoulder_pitch,43,0,0.2317458577,0,0.2317458577
+105,2026-11-18,Locomotion/Walk forward (Run 2),B,9,walk forward,231,arm,right_shoulder_roll,47,0,1.50450038,0,1.50450038
+105,2026-11-18,Locomotion/Walk forward (Run 2),B,9,walk forward,231,arm,right_shoulder_yaw,42.95670996,0.006878343581,0.05349541812,0,0.05349541812
+105,2026-11-18,Locomotion/Walk forward (Run 2),B,9,walk forward,231,arm,right_elbow,41,0,0.1375189174,0,0.1375189174
+105,2026-11-18,Locomotion/Walk forward (Run 2),B,9,walk forward,231,arm,right_wrist_roll,44,0,0.01251717122,0,0.01251717122
+105,2026-11-18,Locomotion/Walk forward (Run 2),B,9,walk forward,231,waist,waist_pitch,41,0,0.652656839,-0.2846719015,0.3679849375
+105,2026-11-18,Locomotion/Walk forward (Run 2),B,9,walk forward,231,waist,waist_roll,42.63636364,0.04585562388,0.652656839,0.2846719015,0.9373287406
+106,2026-11-18,Locomotion/Walk forward (Run 3),B,9,walk forward,239,arm,left_shoulder_pitch,45,0,0.1343253741,0,0.1343253741
+106,2026-11-18,Locomotion/Walk forward (Run 3),B,9,walk forward,239,arm,left_shoulder_roll,43,0,1.489587214,0,1.489587214
+106,2026-11-18,Locomotion/Walk forward (Run 3),B,9,walk forward,239,arm,left_shoulder_yaw,42,0,0.184445675,0,0.184445675
+106,2026-11-18,Locomotion/Walk forward (Run 3),B,9,walk forward,239,arm,left_elbow,40,0,0.1516433212,0,0.1516433212
+106,2026-11-18,Locomotion/Walk forward (Run 3),B,9,walk forward,239,arm,left_wrist_roll,43.23430962,0.02209880688,0.02572255665,0,0.02572255665
+106,2026-11-18,Locomotion/Walk forward (Run 3),B,9,walk forward,239,arm,right_shoulder_pitch,44,0,0.259233982,0,0.259233982
+106,2026-11-18,Locomotion/Walk forward (Run 3),B,9,walk forward,239,arm,right_shoulder_roll,47.34309623,0,1.538154835,0,1.538154835
+106,2026-11-18,Locomotion/Walk forward (Run 3),B,9,walk forward,239,arm,right_shoulder_yaw,43,0,0.05510689464,0,0.05510689464
+106,2026-11-18,Locomotion/Walk forward (Run 3),B,9,walk forward,239,arm,right_elbow,42,0,0.1203989466,0,0.1203989466
+106,2026-11-18,Locomotion/Walk forward (Run 3),B,9,walk forward,239,arm,right_wrist_roll,44,0,0.01552150153,0,0.01552150153
+106,2026-11-18,Locomotion/Walk forward (Run 3),B,9,walk forward,239,waist,waist_pitch,42.34728033,0.06850630132,1.256879235,0.579631523,1.836510758
+106,2026-11-18,Locomotion/Walk forward (Run 3),B,9,walk forward,239,waist,waist_roll,43,0,1.256879235,-0.579631523,0.6772477121

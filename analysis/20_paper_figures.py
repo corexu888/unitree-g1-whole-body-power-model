@@ -1,5 +1,6 @@
-"""Figures for the manuscript draft (manuscript/figures/*.png and *.pdf). Uses model v2 and the result tables of scripts 14-18."""
+"""Draw Figures 1 through 6 using model v2, the released analysis tables and motor telemetry."""
 import sys, os, json
+import subprocess
 import numpy as np, pandas as pd
 import matplotlib; matplotlib.use("Agg")
 import matplotlib.pyplot as plt
@@ -55,7 +56,7 @@ ax[0].set_xlabel("delay (s)"); ax[0].set_ylabel("weight"); ax[0].grid(axis="x", 
 cen = float((lag * g.BMS_FIR).sum()); ax[0].set_ylim(0, 0.25)
 ax[0].text(0.97, 0.96, "mean delay %.2f s" % cen, transform=ax[0].transAxes, ha="right", va="top", color=INK2, fontsize=7.5)
 panel(ax[0], "a", "BMS response")
-for a_, (d, s, ttl, letter) in zip(ax[1:], [("2026-11-18", "Arm\\Reject - Run 1", "arm hold (reject)", "b"), ("2026-11-18", "Locomotion\\Walk forward (Run 1)", "walking, 0.5 m/s command", "c")]):
+for a_, (d, s, ttl, letter) in zip(ax[1:], [("2026-11-18", os.path.join("Arm", "Reject - Run 1"), "arm hold (reject)", "b"), ("2026-11-18", os.path.join("Locomotion", "Walk forward (Run 1)"), "walking, 0.5 m/s command", "c")]):
     gg = df[(df.date == d) & (df.seg == s)]; t = gg.t - gg.t.iloc[0]
     a_.plot(t, gg.pred_inst, color=AXIS, lw=0.8, label="model, instantaneous (10 Hz)", zorder=1)
     a_.plot(t, gg.P_bms, color=INK, lw=1.4, label="measured (BMS)", zorder=3)
@@ -154,24 +155,10 @@ a_.legend(loc="lower right", ncol=1, handletextpad=0.4); a_.set_ylim(-0.6, len(G
 fig.tight_layout(); save(fig, "fig4_gesture_net_power")
 
 # ------------------------------------------------------------------ Fig 5: winding temperature
-F4 = pd.read_csv(os.path.join(A, "f4_temperature_coefficient.csv"))
-r0 = F4[(F4.reference == "level") & (F4.alpha == 0)]; rr = pd.concat([r0, F4[F4.reference == "rise within segment"]]).sort_values("alpha")
-S = pd.read_csv(os.path.join(A, "f2_thermal_joint_segments.csv"))
-fig, ax = plt.subplots(1, 2, figsize=(7.0, 2.8))
-ax[0].axhline(0, color=MUTED, lw=0.8); ax[0].axvline(3.9, color=AXIS, lw=0.8)
-ax[0].plot(rr.alpha * 1e3, rr.reject_hold_slope_W_per_10s, color=BLUE, lw=1.4, marker="o", ms=5, mec="white", mew=0.7, label="reject (13 holds)")
-ax[0].plot(rr.alpha * 1e3, rr.other_hold_slope_W_per_10s, color=ORANGE, lw=1.4, marker="^", ms=5.5, mec="white", mew=0.7, label="other gestures (62 holds)")
-ax[0].text(3.98, ax[0].get_ylim()[1] * 0.97, "copper,\n" + r"$3.9\times10^{-3}\ \mathrm{K}^{-1}$", color=INK2, fontsize=7.5, va="top")
-ax[0].set_xlabel(r"temperature coefficient used in the model ($10^{-3}\ \mathrm{K}^{-1}$)"); ax[0].set_ylabel("drift of measured − model\nduring a hold (W per 10 s)")
-ax[0].legend(loc="lower left"); panel(ax[0], "a", "Residual drift inside static holds")
-for name, col, mk, lab in [("N5020_arm", BLUE, "o", "arm joints (N5020-16)"), ("waist roll/pitch (2 motors)", ORANGE, "^", "waist roll/pitch motors (N5020-16)")]:
-    x = S[S.grp == name]; c = np.polyfit(x.Pcu, x.rate, 1)
-    ax[1].scatter(x.Pcu, x.rate, s=9, color=col, marker=mk, alpha=0.55, linewidth=0, label=f"{lab}, n = {len(x)}", zorder=3)
-    print("fig5b simple slope", name, round(c[0], 4), "K/J, r = %.3f" % np.corrcoef(x.Pcu, x.rate)[0, 1], "n =", len(x))
-    xs = np.array([0, x.Pcu.max()]); ax[1].plot(xs, np.polyval(c, xs), color=col, lw=1.0, zorder=4)
-ax[1].set_xlabel("modelled copper loss of the motor (W)"); ax[1].set_ylabel("rise rate of reported\nmotor temperature (K/s)")
-ax[1].legend(loc="upper left", handletextpad=0.2); panel(ax[1], "b", "Heating rate against modelled copper loss")
-fig.tight_layout(w_pad=1.5); save(fig, "fig5_temperature")
+subprocess.run(
+    [sys.executable, os.path.join(A, "36_figure5_temperature.py"), ROOT, "--figure-dir", OUT],
+    check=True,
+)
 
 # ------------------------------------------------------------------ Fig 6: standing power and stance
 quiet = (np.abs(dq).sum(1) < 0.5) & (df.fsm != 1).values
