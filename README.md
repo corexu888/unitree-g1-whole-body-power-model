@@ -1,6 +1,6 @@
 ﻿# Supplementary data and code
 
-Data and code for the manuscript "A whole-body electrical power model of a humanoid robot identified from onboard telemetry and tested on held-out sessions and motions".
+Data and code for the manuscript *"Whole-Body Electrical Power Measurement, Sensor Deconvolution, and Actuator Loss Identification for Quasi-Direct-Drive Humanoid Robots Using Onboard Telemetry"* (Boyue Xu, Xun Jiang, and Da Xu).
 
 ## Contents
 
@@ -12,7 +12,7 @@ Data and code for the manuscript "A whole-body electrical power model of a human
 | `analysis/` | Scripts 00–27 and their result tables for the nine sessions, plus scripts 36 (Figure 5) and 37 (alternative parameter sets). Shared model functions are in `g1power.py` |
 | `analysis_supplementary/` | Scripts 28–30 and 33 (supplementary tests), 34 and 35 (additional validation analyses), and their result tables |
 | `g1_power_model_v2.json`, `g1_power_model.py` | Coefficients of the proposed model and a small module that evaluates it; `g1_power_model.json` is the earlier model with one coefficient per joint type |
-| `model_variants/` | Complete parameter files for both fixed N7520 ratios in Table 12 and the no-temperature fit in Table 3 |
+| `model_variants/` | Complete parameter files for both fixed N7520 ratios in Table 10 and the no-temperature fit in Table 3 |
 | `manuscript/` | Figures 1–6 (`figures_v2`), and the segment tables written by the scripts |
 | `figures/` | Figure 7 |
 
@@ -46,20 +46,20 @@ python analysis_supplementary/33_offset_model_and_power_model_check.py . supplem
 
 ## Which script produces what
 
-| In the manuscript | Script |
+| In the manuscript / Supplementary Materials | Script |
 |---|---|
 | Sensor response, Eq. (1), Fig. 1a | `analysis/05_bms_response.py` |
 | Table 3 (coefficients and intervals) | `analysis/17_finalize_v2.py`, `analysis/24_revision_analyses.py` (part 2), `analysis/37_fit_model_variants.py` (no-temperature column) |
 | Table 4 (excitation) | `analysis/26_review2_checks.py` (part G) |
 | Table 5 (held-out sessions) | `analysis/24_revision_analyses.py` (part 1) |
 | Table 6 (energy of the moving window) | `analysis_supplementary/35_review4_checks.py` (part D) |
-| Table 7 (structures and black-box regressors) | `analysis/17_finalize_v2.py`, `analysis/25_blackbox_nested_tuning.py`; sharing alone: `35_review4_checks.py` (part B) |
-| Table 8 (handling of the sensor) | `analysis/23_review_checks.py` (part A), `analysis_supplementary/34_review3_analyses.py` (part C) |
-| Table 9 (net power of the holds) | `analysis/14_paper_model_comparison.py`, `analysis_supplementary/35_review4_checks.py` (part C) |
-| Table 10 (decomposition by gesture) | `analysis/24_revision_analyses.py` (part 4) |
-| Table 11 (share of waist and legs under refits) | `analysis_supplementary/34_review3_analyses.py` (part B) |
-| Table 12, fixed-ratio rows | `analysis/37_fit_model_variants.py` |
-| Tables 13 and 14, Fig. 7, Eqs. (6) and (7) | `analysis_supplementary/28`–`30`, `33_offset_model_and_power_model_check.py` |
+| Supplementary Table S2 & Fig. 3 (structures and black-box regressors) | `analysis/17_finalize_v2.py`, `analysis/25_blackbox_nested_tuning.py`; sharing alone: `35_review4_checks.py` (part B) |
+| Table 7 (handling of the BMS sensor) | `analysis/23_review_checks.py` (part A), `analysis_supplementary/34_review3_analyses.py` (part C) |
+| Table 8 (net power of the holds) | `analysis/14_paper_model_comparison.py`, `analysis_supplementary/35_review4_checks.py` (part C) |
+| Table 9 (decomposition by gesture) | `analysis/24_revision_analyses.py` (part 4) |
+| Supplementary Table S3 (share of waist and legs under refits) | `analysis_supplementary/34_review3_analyses.py` (part B) |
+| Table 10 (braking variants and fixed-ratio N7520 rows) | `analysis/37_fit_model_variants.py` |
+| Supplementary Tables S4 and S5, Fig. 7, Eqs. (6) and (7) | `analysis_supplementary/28`–`30`, `33_offset_model_and_power_model_check.py` |
 | Section 5.5 (temperature) | `analysis/18_innovation_checks.py`, `24_revision_analyses.py` (part 5), `26_review2_checks.py` (parts B, H) |
 | Section 5.6 (standing stance) | `analysis/19_stance_sequence.py`, `26_review2_checks.py` (part A) |
 | Figures 1–6 | `analysis/20_paper_figures.py` calls `analysis/36_figure5_temperature.py` for all three panels of Figure 5 |
@@ -87,8 +87,8 @@ After scripts 01 and 03, run `python analysis/37_fit_model_variants.py .`. Each 
 
 | Parameter file in `model_variants/` | Fit | Held-out session MAE |
 |---|---|---|
-| `g1_power_model_n7520_ratio_1p55.json` | Table 12, N7520-14.3 to N7520-22.5 coefficient ratio fixed at 1.55 from heating rates | 1.67 W |
-| `g1_power_model_n7520_ratio_2p48.json` | Table 12, ratio fixed at the square of the gear ratio, `(22.5 / 14.3)**2`, displayed as 2.48 | 1.71 W |
+| `g1_power_model_n7520_ratio_1p55.json` | Table 10, N7520-14.3 to N7520-22.5 coefficient ratio fixed at 1.55 from heating rates | 1.67 W |
+| `g1_power_model_n7520_ratio_2p48.json` | Table 10, ratio fixed at the square of the gear ratio, `(22.5 / 14.3)**2`, displayed as 2.48 | 1.71 W |
 | `g1_power_model_no_temperature.json` | Table 3, coefficients independently refitted with the temperature factor disabled | 1.64 W |
 
 To evaluate a variant with the public prediction interface:
@@ -106,7 +106,7 @@ power_W = model.predict(tau, dq, temp=T)
 
 - Table 5: `error_W` grouped by `session` (mean absolute value, mean, largest).
 - Table 6: rows with `in_energy_table` = 1; `window_energy_error_J` and `window_energy_error_pct` grouped by `action`. `energy_table_exclusion` gives the reason for the three segments left out.
-- Table 9, last row: `hold_net_power_predicted_W` minus `hold_net_power_measured_W` over the rows with `in_net_power_set` = 1.
+- Table 8, last row: `hold_net_power_predicted_W` minus `hold_net_power_measured_W` over the rows with `in_net_power_set` = 1.
 
 ## Definitions used throughout
 
@@ -115,3 +115,4 @@ power_W = model.predict(tau, dq, temp=T)
 - The regressors are filtered with the sensor response inside each segment; the first row of a segment lies 0.8 to 1.8 s after its start (`first_row_used_s`).
 - Frames in the damping state are not used for fitting.
 - Energy of a window: each BMS reading multiplied by the time until the next reading, cut at the edges of the window.
+
